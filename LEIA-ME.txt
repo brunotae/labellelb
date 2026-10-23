@@ -1,0 +1,7 @@
+ATUALIZAÇÃO 5 – novo logo "LA Belle LB"
+
+GitHub (brunotae/labellelb) → Add file → Upload files:
+  arraste TUDO desta pasta (incluindo a pasta brand/) → Commit changes.
+  Os arquivos favicon.*, apple-touch-icon.png, icon-512.png e 404.html substituem os antigos (é isso mesmo).
+Depois, abra labellelb.com e recarregue com Cmd+Shift+R.
+O ícone da aba pode demorar para mudar porque o navegador guarda o antigo: abra numa janela anônima para ver na hora.
