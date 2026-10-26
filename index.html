@@ -1258,13 +1258,29 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
     p.hidden=!p.hidden;renderMusic();
   });
   $('mpanel').addEventListener('click',function(e){
-    var c=e.target.closest('[data-mood]');if(c){ms.err=0;ms.mini=false;mPlay(c.dataset.mood,0);return}
+    var c=e.target.closest('[data-mood]');if(c){try{localStorage.removeItem('lb-music-off')}catch(_){}ms.err=0;ms.mini=false;mPlay(c.dataset.mood,0);return}
     var a=e.target.closest('[data-m]');if(!a)return;var k=a.dataset.m;
-    if(k==='stop'){if(ms.on)mStop();else{$('mpanel').hidden=true;renderMusic()}}
+    if(k==='stop'){mOff();if(ms.on)mStop();else{$('mpanel').hidden=true;renderMusic()}}
     if(k==='mini'){ms.mini=!ms.mini;renderMusic()}
     if(k==='next')mPlay(ms.mood,ms.idx+1);
   });
   document.addEventListener('keydown',function(e){if(e.key==='Escape'&&!$('mpanel').hidden&&!ms.on){$('mpanel').hidden=true;renderMusic()}});
+  /* autoplay: browsers block sound until the visitor interacts, so music starts on the first tap/click/key.
+     Not for admins, not on #admin, and never again once the visitor has turned it off. */
+  function mOff(){try{localStorage.setItem('lb-music-off','1')}catch(e){}}
+  function mAutoOK(){var off=null;try{off=localStorage.getItem('lb-music-off')}catch(e){}return !off&&!isAdmin&&location.hash!=='#admin'}
+  var mAutoDone=false;
+  function mAuto(e){
+    if(mAutoDone)return;
+    if(e&&e.type==='keydown'&&(e.key==='Escape'||e.key==='Tab'||e.metaKey||e.ctrlKey||e.altKey))return;
+    mAutoDone=true;['pointerdown','keydown','touchend'].forEach(function(k){document.removeEventListener(k,mAuto,true)});
+    if(e&&e.target&&e.target.closest&&e.target.closest('#mbtn,#mpanel,.modal'))return;
+    if(ms.on||!mAutoOK())return;
+    var mv=mMoods();if(!mv.length)return;
+    var m=mv.filter(function(x){return x[0]===ms.mood})[0]||mv[0];
+    ms.mini=true;$('mpanel').hidden=false;mPlay(m[0],0);
+  }
+  ['pointerdown','keydown','touchend'].forEach(function(k){document.addEventListener(k,mAuto,true)});
 
   /* ---------- admin: music ---------- */
   function ytId(u){u=(u||'').trim();var m=u.match(/(?:v=|youtu\.be\/|\/live\/|\/shorts\/|\/embed\/)([\w-]{11})/);if(m)return m[1];return /^[\w-]{11}$/.test(u)?u:null}
