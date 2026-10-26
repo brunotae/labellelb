@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /nova/
 
 Sitemap: https://labellelb.com/sitemap.xml
