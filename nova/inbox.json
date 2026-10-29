@@ -1,9 +1,9 @@
 {
- "note": "노바 원고함 — 관리자 검토 전 원고. 홈페이지에 자동 게시되지 않습니다.",
+ "note": "노바 편집실 — 관리자 검토 전 원고와 트렌드 후보. 홈페이지에 자동 게시되지 않습니다.",
  "drafts": [
   {
    "id": "2026-10-skin-first-makeup",
-   "category": "beauty",
+   "category": "kbeauty",
    "read_min": 3,
    "title_ko": "메이크업도 스킨케어처럼, 2026 K-뷰티는 '피부'부터",
    "title_en": "Makeup that cares like skincare: K-beauty's skin-first year",
@@ -18,11 +18,14 @@
      "https://www.personalcareinsights.com/news/olive-young-k-beauty-trends.html"
     ]
    ],
-   "cover": "nova/covers/2026-10-skin-first-makeup.webp"
+   "cover": "nova/covers/2026-10-skin-first-makeup.webp",
+   "countries": [],
+   "medical_review": false,
+   "cta": "none"
   },
   {
    "id": "2026-10-simple-sleep",
-   "category": "wellness",
+   "category": "wellaging",
    "read_min": 3,
    "title_ko": "덜 재고, 더 편히 자기",
    "title_en": "Measure less, rest better",
@@ -37,11 +40,14 @@
      "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/03/30/sleep-initiative-trends-for-2026"
     ]
    ],
-   "cover": "nova/covers/2026-10-simple-sleep.webp"
+   "cover": "nova/covers/2026-10-simple-sleep.webp",
+   "countries": [],
+   "medical_review": false,
+   "cta": "none"
   },
   {
    "id": "2026-10-korea-medical-travel",
-   "category": "global",
+   "category": "medical",
    "read_min": 4,
    "title_ko": "외국인 환자 200만 명 시대, 한국 의료관광 준비 체크리스트",
    "title_en": "Two million foreign patients: a checklist for medical travel to Korea",
@@ -56,7 +62,14 @@
      "https://www.koreajoongangdaily.com/business/number-of-foreign-patients-top-2-million-for-first-time-in-2025/12585928"
     ]
    ],
-   "cover": "nova/covers/2026-10-korea-medical-travel.webp"
+   "cover": "nova/covers/2026-10-korea-medical-travel.webp",
+   "countries": [
+    "KR"
+   ],
+   "medical_review": true,
+   "cta": "none"
   }
- ]
+ ],
+ "version": 2,
+ "candidates": []
 }
