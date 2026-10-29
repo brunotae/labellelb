@@ -1306,7 +1306,7 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
   var RESP={'media/lbedit-seongsu-ep01.webp':[768,1024,1536],'media/04_lbedit_magazine.webp':[768,1024,1536],'media/05_lbedit_beauty_shorts.webp':[480,700,941],'media/06_lbedit_wellness_shorts.webp':[480,700,941]};
   function coverImg(u,pos,eager,sizes){var r=RESP[u],a=' alt="" loading="'+(eager?'eager':'lazy')+'" style="object-position:'+esc(pos||'50% 30%')+'"';if(!r)return '<img src="'+esc(u)+'"'+a+'>';var b=u.replace(/\.webp$/,''),f=function(w,i){return (i===r.length-1?u:b+'-'+w+'.webp')};return '<img src="'+f(r[1],1)+'" srcset="'+r.map(function(w,i){return f(w,i)+' '+w+'w'}).join(', ')+'" sizes="'+(sizes||'(max-width:760px) 80vw, 600px')+'"'+a+'>'}
   var PLAY='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l12.5-7.5z" fill="currentColor"/></svg>';
-  var hcat='all', ecat='all', ecn='KR', eq='', eshow=12, hidx=0;
+  var hcat='all', ecat='all', ecn='KR', eq='', eshow=12, hidx=0, postsReady=!sb;
   var CATS=[['kbeauty','K-뷰티','K-Beauty'],['skin','피부과학','Skin science'],['medical','의료관광','Medical travel'],['wellaging','웰에이징','Well-aging'],['beautytech','뷰티테크','Beauty tech'],['education','교육·세미나','Education']];
   var OLDCAT={beauty:'kbeauty',wellness:'wellaging',global:'medical'};
   var MAGC=['KR','US','CA','AE','SG','AU','MN'];
@@ -1320,7 +1320,7 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
   function loadPosts(){
     if(!sb){posts=sortPosts(seedPosts());return Promise.resolve()}
     var tp=fetch('nova/trends.json',{cache:'no-cache'}).then(function(r){return r.ok?r.json():{}}).then(function(j){novaMeta=j||{}},function(){});
-    return Promise.all([tp,sb.from('labelle_edit').select('*').then(function(r){posts=(r.error||!r.data)?[]:sortPosts(r.data)},function(){posts=[]})]);
+    return Promise.all([tp,sb.from('labelle_edit').select('*').then(function(r){posts=(r.error||!r.data)?[]:sortPosts(r.data)},function(){posts=[]})]).then(function(){postsReady=true});
   }
   function findPost(s){return posts.find(function(p){return p.slug===s})}
   function isLive(p){return p.published&&!isSched(p)}
@@ -1378,7 +1378,7 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
     h+='<div class="mag-mast">'+wordmark('h1')+'<p class="tag"><b>Global K-Beauty &amp; Medical Lifestyle</b><span>'+esc(T('아름다움을 읽는 곳, 더 건강한 내일로.','Where beauty is read closely, for a healthier tomorrow.'))+'</span></p><label class="msearch">'+SRCH+'<input id="mq" type="search" value="'+esc(eq)+'" placeholder="'+esc(T('주제·성분·시술 검색','Search topics, ingredients, treatments'))+'" aria-label="Search"></label></div>';
     h+=adminBar();
     h+='<nav class="mag-nav" aria-label="LB edit">'+navc.map(function(c){var n=c==='all'?arts.length:c==='shorts'?shorts.length:counts[c];return '<button type="button" data-ec="'+c+'" aria-pressed="'+(ecat===c)+'">'+esc(catName(c))+(n?'<span class="n">'+n+'</span>':'')+'</button>'}).join('')+'</nav>';
-    if(!vis.length){h+='<p class="mempty">'+esc(T('LB Edit의 첫 이야기를 준비하고 있습니다.','The first LB Edit stories are on the way.'))+'</p></div>';$('archive-inner').innerHTML=h;return}
+    if(!vis.length){h+='<p class="mempty">'+esc(postsReady?T('LB Edit의 첫 이야기를 준비하고 있습니다.','The first LB Edit stories are on the way.'):'…')+'</p></div>';$('archive-inner').innerHTML=h;return}
     var filtered=(ecat==='shorts'?shorts:arts.filter(function(p){return postMatch(p,ecat)})).filter(qMatch);
     if(ecat==='all'&&!eq){
       var feat=arts.filter(function(p){return p.featured}).sort(function(a,b){return (a.sort||99)-(b.sort||99)});
@@ -1471,6 +1471,7 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
   var viewed={};
   function renderPost(slug){
     var p=findPost(slug);
+    if(!p&&!postsReady){$('archive-inner').innerHTML='<p class="mempty">…</p>';return}
     if(!p||(!isLive(p)&&!isAdmin)){$('archive-inner').innerHTML='<p class="crumb"><a href="#edit">← LB edit</a></p><p style="margin-top:20px">'+T('찾는 콘텐츠가 없습니다.','This story was not found.')+'</p>';return}
     if(sb&&isLive(p)&&!isAdmin&&!viewed[slug]){viewed[slug]=1;try{if(!sessionStorage.getItem('lbv-'+slug)){sessionStorage.setItem('lbv-'+slug,'1');sb.rpc('labelle_edit_view',{p_slug:slug}).then(function(){},function(){})}}catch(e){}}
     var toc=[],body=mdBody(L(p,'body'),toc),k=ncat(p.category),src=srcList(p);
