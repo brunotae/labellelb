@@ -502,7 +502,7 @@ form.cform>label.k{font-size:13px;font-weight:600}
 .f-msg{grid-column:1/-1;margin:0;padding:12px 14px;border-radius:6px;font-size:14px;background:var(--card);border:1px solid var(--line)}
 .f-msg.ok{border-color:var(--olive);background:color-mix(in srgb,var(--lime) 30%,var(--card))}
 .f-msg.err{border-color:#b3261e;color:#8c1d18}
-@media (max-width:860px){.collab{grid-template-columns:1fr;gap:32px}form.cform{grid-template-columns:1fr}.cform .two{grid-template-columns:1fr}.cform .two span{margin-top:4px}}
+@media (max-width:860px){.collab{grid-template-columns:1fr;gap:32px}form.cform{grid-template-columns:1fr}.cform .two{grid-template-columns:1fr}.cform .two span{margin-top:4px}.cform .two span.sep{display:none}}
 
 /* footer */
 footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
@@ -832,11 +832,11 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
         <option value="기타 비즈니스 협업">기타 비즈니스 협업 · Other business partnership</option>
       </select>
       <label class="k" for="c-company"><span class="ko">회사명 / 브랜드명</span><span class="en">Company / brand</span></label>
-      <div class="two"><input id="c-company" maxlength="80" autocomplete="organization" data-ph="회사명|Company name"><span>/</span><input id="c-brand" maxlength="80" data-ph="브랜드명 (선택)|Brand name (optional)"></div>
+      <div class="two"><input id="c-company" maxlength="80" autocomplete="organization" data-ph="회사명|Company name"><span class="sep">/</span><input id="c-brand" maxlength="80" data-ph="브랜드명 (선택)|Brand name (optional)"></div>
       <label class="k" for="c-name"><span class="ko">담당자명</span><span class="en">Contact person</span></label>
       <input id="c-name" maxlength="60" autocomplete="name" data-ph="담당자명을 입력해주세요|Your name">
       <label class="k" for="c-email"><span class="ko">이메일 / 연락처</span><span class="en">Email / phone</span></label>
-      <div class="two"><input id="c-email" type="email" maxlength="120" autocomplete="email" data-ph="회신받을 이메일|Email for our reply"><span>/</span><input id="c-phone" type="tel" maxlength="40" autocomplete="tel" data-ph="연락처·메신저 (선택)|Phone or messenger (optional)"></div>
+      <div class="two"><input id="c-email" type="email" maxlength="120" autocomplete="email" data-ph="회신받을 이메일|Email for our reply"><span class="sep">/</span><input id="c-phone" type="tel" maxlength="40" autocomplete="tel" data-ph="연락처·메신저 (선택)|Phone or messenger (optional)"></div>
       <label class="k bonly" for="c-pcat"><span class="ko">제품 카테고리</span><span class="en">Product category</span></label>
       <select id="c-pcat" class="bonly">
         <option value="">—</option>
