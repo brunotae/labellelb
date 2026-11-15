@@ -1,4 +1,273 @@
 {
- "updated": null,
- "country_trends": {}
+ "updated": "2026-11-15",
+ "country_trends": {
+  "KR": {
+   "keywords": [
+    {
+     "ko": "남성 미용 시술",
+     "en": "men's aesthetic treatments"
+    },
+    {
+     "ko": "브로 뷰티",
+     "en": "bro beauty"
+    },
+    {
+     "ko": "바이오 코스메틱",
+     "en": "biocosmetics"
+    },
+    {
+     "ko": "제약사 더마 화장품",
+     "en": "pharma-backed derma skincare"
+    },
+    {
+     "ko": "의료관광 친화 숙박시설",
+     "en": "medical-friendly accommodations"
+    },
+    {
+     "ko": "의료관광 빅데이터",
+     "en": "medical-tourism big data"
+    }
+   ],
+   "checked": "2026-11-15",
+   "sources": [
+    [
+     "미주중앙일보(중앙일보 비크닉) · \"피부과 공유해주세요\"…남자들이 시술을 말하기 시작했다",
+     "https://www.koreadaily.com/article/20261109143801650",
+     "2026-11-09"
+    ],
+    [
+     "The Herald Business · 'Biocosmetics' emerges as next growth engine for K-beauty",
+     "https://mbiz.heraldcorp.com/article/10927356",
+     "2026-11-05"
+    ],
+    [
+     "Korea.net · Healing in Seoul: record 1.76M int'l patients hit capital in 2025",
+     "https://www.korea.net/NewsFocus/FoodTravel/view?articleId=302170",
+     "2026-11-03"
+    ],
+    [
+     "The Herald Business · Where do foreign patients go, what do they spend? Big data maps K-medical tourism",
+     "https://mbiz.heraldcorp.com/article/10922324",
+     "2026-11-02"
+    ],
+    [
+     "데일리팜 · 바이오헬스 3분기 누적 수출액 33조원 돌파 '역대 최대'",
+     "https://m.dailypharm.com/user/news/343842",
+     "2026-10-27"
+    ]
+   ]
+  },
+  "US": {
+   "keywords": [
+    {
+     "ko": "티 나지 않는 시술",
+     "en": "undetectable work"
+    },
+    {
+     "ko": "남성 비수술 시술 증가",
+     "en": "rising non-surgical treatments for men"
+    },
+    {
+     "ko": "한국 화장품 대미 수출 증가",
+     "en": "rising Korean cosmetics exports to the US"
+    },
+    {
+     "ko": "NAD+ 펩타이드 스킨케어",
+     "en": "NAD+ peptide skincare"
+    },
+    {
+     "ko": "아마존 K-뷰티",
+     "en": "K-beauty on Amazon"
+    }
+   ],
+   "checked": "2026-11-15",
+   "sources": [
+    [
+     "American Society of Plastic Surgeons · The era of undetectable work: why men are seeking subtle refinement",
+     "https://www.plasticsurgery.org/news/articles/the-era-of-undetectable-work-why-men-are-seeking-subtle-refinement",
+     "2026-05-11"
+    ],
+    [
+     "Citizen Digital (AFP) · Men getting twice as much plastic surgery, new data shows",
+     "https://citizen.digital/article/men-getting-twice-as-much-plastic-surgery-new-data-shows",
+     "2026-01-29"
+    ],
+    [
+     "데일리팜 · 바이오헬스 3분기 누적 수출액 33조원 돌파 '역대 최대'",
+     "https://m.dailypharm.com/user/news/343842",
+     "2026-10-27"
+    ],
+    [
+     "The Korea Times · [WEEKENDER] Unknown at home, big abroad",
+     "https://www.koreatimes.co.kr/business/companies/20261031/weekender-unknown-at-home-big-abroad",
+     "2026-10-31"
+    ]
+   ]
+  },
+  "CA": {
+   "keywords": [
+    {
+     "ko": "드럭스토어 K-뷰티 입점",
+     "en": "K-beauty in drugstores"
+    },
+    {
+     "ko": "연말 선물 세트 성수기",
+     "en": "holiday gift-set season"
+    },
+    {
+     "ko": "화장품 신고(CNF)",
+     "en": "Cosmetic Notification Form"
+    },
+    {
+     "ko": "향 알레르겐 표시",
+     "en": "fragrance allergen labelling"
+    },
+    {
+     "ko": "코스트코 K-뷰티",
+     "en": "K-beauty at Costco"
+    }
+   ],
+   "checked": "2026-11-10",
+   "sources": [
+    [
+     "The Korea Times · APR's Medicube enters Canada's largest drugstore chain",
+     "https://www.koreatimes.co.kr/business/companies/20261104/aprs-medicube-enters-canadas-largest-drugstore-chain",
+     "2026-11-04"
+    ],
+    [
+     "NielsenIQ · K-Beauty in Canada: From niche trend to strategic growth engine",
+     "https://nielseniq.com/global/en/insights/analysis/2026/k-beauty-in-canada-from-niche-trend-to-strategic-growth-engine/",
+     "2026-05-05"
+    ]
+   ]
+  },
+  "AE": {
+   "keywords": [
+    {
+     "ko": "DHA 의료광고 회람",
+     "en": "DHA medical advertising circular"
+    },
+    {
+     "ko": "보정 없는 비포·애프터 원칙",
+     "en": "unedited before-and-after rule"
+    },
+    {
+     "ko": "체중감량 약물과 미용 수요 변화",
+     "en": "weight-loss drugs reshaping aesthetics"
+    },
+    {
+     "ko": "한-UAE CEPA",
+     "en": "Korea–UAE CEPA"
+    }
+   ],
+   "checked": "2026-11-05",
+   "sources": [
+    [
+     "The National · Dubai aesthetic clinics to face disciplinary action over edited social media images",
+     "https://www.thenationalnews.com/news/uae/2026/09/03/dubai-aesthetic-clinics-to-face-disciplinary-action-over-edited-social-media-images/",
+     "2026-09-03"
+    ],
+    [
+     "The National · Cosmetic surgery sees slump as weight-loss drugs prove cheaper and simpler",
+     "https://thenationalnews.com/news/uae/2026/10/28/how-weight-loss-drugs-are-reshaping-demand-for-cosmetic-surgery",
+     "2026-10-28"
+    ]
+   ]
+  },
+  "SG": {
+   "keywords": [
+    {
+     "ko": "올리브영 x 세포라 팝업",
+     "en": "Olive Young x Sephora pop-up"
+    },
+    {
+     "ko": "HSA 화장품 검사·회수",
+     "en": "HSA cosmetic testing and recalls"
+    },
+    {
+     "ko": "공식 판매처 구매",
+     "en": "buying from authorized retailers"
+    },
+    {
+     "ko": "PDRN 크림",
+     "en": "PDRN cream"
+    }
+   ],
+   "checked": "2026-11-08",
+   "sources": [
+    [
+     "Alvinology · OLIVE YOUNG Brings K-Beauty Edit Pop-Up to ION Orchard with Sephora Singapore",
+     "https://alvinology.com/2026/10/09/olive-young-brings-k-beauty-edit-pop-up-to-ion-orchard-with-sephora-singapore/",
+     "2026-10-09"
+    ],
+    [
+     "HSA · HSA Tests Product Samples of Medicube PDRN Pink Collagen Capsule Cream for Presence of Sudan Red Dyes",
+     "https://www.hsa.gov.sg/announcements/hsa-tests-product-samples-of-medicube-pdrn-pink-collagen-capsule-cream-for-presence-of-sudan-red-dyes/",
+     "2026-08"
+    ]
+   ]
+  },
+  "AU": {
+   "keywords": [
+    {
+     "ko": "TGA 선크림 규제 개편",
+     "en": "TGA sunscreen reforms"
+    },
+    {
+     "ko": "SPF 시험 강화",
+     "en": "stricter SPF testing"
+    },
+    {
+     "ko": "화장품 SPF 표시 제한",
+     "en": "limits on cosmetic SPF claims"
+    },
+    {
+     "ko": "미용 주사 처방 규제 강화",
+     "en": "tighter cosmetic injectable prescribing"
+    }
+   ],
+   "checked": "2026-11-08",
+   "sources": [
+    [
+     "ChemLinked · Australia TGA Advances Major Sunscreen Regulatory Reforms",
+     "https://cosmetic.chemlinked.com/news/cosmetic-news/australia-tga-advances-major-sunscreen-regulatory-reforms",
+     "2026-10-29"
+    ],
+    [
+     "Medianet · Dr Tass on what tightening cosmetic prescribing rules mean for patients using online or telehealth providers",
+     "https://newshub.medianet.com.au/2026/10/dr-tass-on-what-tightening-cosmetic-prescribing-rules-mean-for-patients-using-online-or-telehealth-providers/176966/",
+     "2026-10"
+    ]
+   ]
+  },
+  "MN": {
+   "keywords": [
+    {
+     "ko": "한국 의료관광",
+     "en": "medical travel to Korea"
+    },
+    {
+     "ko": "광업 도시 대상 의료관광 홍보",
+     "en": "medical-tourism outreach to mining cities"
+    },
+    {
+     "ko": "건강검진 패키지",
+     "en": "health check-up packages"
+    }
+   ],
+   "checked": "2026-11-15",
+   "sources": [
+    [
+     "The Asia Business Daily · Mongolian Medical Tourists Spend KRW 9.88 Million Each... Korea Tourism Organization Targets Mining Cities",
+     "https://view.asiae.co.kr/en/article/2026090722195539931",
+     "2026-09-07"
+    ],
+    [
+     "The Korea Times · Korea targets Mongolia's wealthy miners for its next big health care boom",
+     "https://koreatimes.co.kr/lifestyle/travel-food/20260907/korea-targets-mongolias-wealthy-miners-for-its-next-big-health-care-boom",
+     "2026-09-07"
+    ]
+   ]
+  }
+ }
 }
