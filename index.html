@@ -483,8 +483,8 @@ a.svc h3::after{content:" →";color:var(--olive);font-weight:500}
 .ppage-hero p{color:var(--muted);font-size:15px}
 .ppage-hero img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:14px}
 .ppage-hero .other{font-size:14px;font-weight:600;align-self:flex-start;border-bottom:1px solid var(--ink);text-decoration:none;padding-bottom:3px}
-.pcard{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:28px}
-@media (max-width:860px){.ppage-grid{grid-template-columns:1fr;gap:24px}.ppage-hero{position:static}.ppage-hero img{aspect-ratio:16/8}.pcard{padding:20px}}
+.pfcard{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:28px;color:var(--ink)}
+@media (max-width:860px){.ppage-grid{grid-template-columns:1fr;gap:24px}.ppage-hero{position:static}.ppage-hero img{aspect-ratio:16/8}.pfcard{padding:20px}}
 form.pf{display:flex;flex-direction:column;gap:16px}
 .pf .f{display:flex;flex-direction:column;gap:7px;min-width:0}
 .pf .f>b{font-size:13.5px;font-weight:600}
@@ -512,7 +512,7 @@ form.pf{display:flex;flex-direction:column;gap:16px}
 .pf .submit{width:100%;justify-content:center;padding:15px}
 .pf .done{background:#eef3dc;border-radius:12px;padding:22px;text-align:center}
 .pf .done b{display:block;font-size:18px;margin-bottom:6px}
-.collab .pcard{padding:24px}
+.collab .pfcard{padding:24px}
 .qtools{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .qtools select,.qtools input{width:auto;min-width:150px}
 .qbadge{display:inline-block;border-radius:999px;padding:2px 10px;font-size:12px;font-weight:600;background:var(--paper2);color:var(--ink)}
@@ -866,7 +866,7 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
       <p><span class="ko">좋은 아이디어가 좋은 변화를 만듭니다.<br>지금, 함께 이야기해 주세요.</span><span class="en">Good ideas make good change.<br>Let's talk.</span></p>
       <a class="rlink arrow" href="https://brunotae.github.io/labelle/?form=1" target="_blank" rel="noopener"><span class="ko">공식 의료관광 상담 시작 — 리셋미 </span><span class="en">Official medical travel consultation — Reset Me </span></a>
     </div>
-    <div class="pcard"><div class="pform-mount" data-form="business" data-uid="c"></div></div>
+    <div class="pfcard"><div class="pform-mount" data-form="business" data-uid="c"></div></div>
   </section>
 </main>
 
@@ -1295,7 +1295,7 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
     var x=brand?{eb:'Brand Partnership',t:T('브랜드 입점·해외 유통 제휴 문의','Brand listing & global distribution'),d:T('K-뷰티 브랜드의 글로벌 시장 진출을 함께합니다. 간단한 정보만 입력해 주세요. 1분이면 충분합니다.','Take your K-beauty brand to new markets with us. Just a few details; it takes about a minute.'),img:'media/br-omg-cover.jpg',o:['#business-partnership',T('의료·교육·해외 프로젝트 협업은 비즈니스 협업 문의로','Medical, education or overseas projects? Business partnership')]}
       :{eb:'Business Partnership',t:T('비즈니스 협업 문의','Business partnership'),d:T('의료관광, 의료미용 교육, 해외 프로젝트 등 다양한 협업을 제안해 주세요.','Medical travel, aesthetic medicine education, overseas projects: tell us what you have in mind.'),img:'media/ug-jda-signing.jpg',o:['#brand-partnership',T('화장품 브랜드사라면 브랜드 입점·해외 유통 제휴로','A cosmetics brand? Brand listing & distribution')]};
     document.title=x.t+' | LA Belle LB';
-    $('archive-inner').innerHTML='<section class="ppage"><div class="ppage-grid"><div class="ppage-hero"><p class="eyebrow">'+x.eb+'</p><h1>'+esc(x.t)+'</h1><p>'+esc(x.d)+'</p><img src="'+x.img+'" alt="" loading="lazy"><a class="other arrow" href="'+x.o[0]+'">'+esc(x.o[1])+'</a></div><div class="pcard"><div class="pform-mount" data-form="'+(brand?'brand':'business')+'" data-uid="'+(brand?'b':'p')+'"></div></div></div></section>';
+    $('archive-inner').innerHTML='<section class="ppage"><div class="ppage-grid"><div class="ppage-hero"><p class="eyebrow">'+x.eb+'</p><h1>'+esc(x.t)+'</h1><p>'+esc(x.d)+'</p><img src="'+x.img+'" alt="" loading="lazy"><a class="other arrow" href="'+x.o[0]+'">'+esc(x.o[1])+'</a></div><div class="pfcard"><div class="pform-mount" data-form="'+(brand?'brand':'business')+'" data-uid="'+(brand?'b':'p')+'"></div></div></div></section>';
     mountForms();
   }
   document.addEventListener('click',function(e){var a=e.target.closest('[data-cat]');if(a){pendingCat=a.dataset.cat;setTimeout(applyCat,60)}
