@@ -1,4 +1,5 @@
 {
+ "version": 2,
  "note": "노바 편집실 — 관리자 검토 전 원고와 트렌드 후보. 홈페이지에 자동 게시되지 않습니다.",
  "drafts": [
   {
@@ -671,84 +672,279 @@
    "cover": "nova/covers/2026-11-men-undetectable-aesthetics.webp",
    "cover_ai": false,
    "written": "2026-11-15"
-  }
- ],
- "version": 2,
- "candidates": [
+  },
   {
-   "id": "2026-11-15-men-undetectable-aesthetics",
-   "topic_ko": "남성 미용 시술의 확산과 '티 나지 않는 시술' 선호",
-   "topic_en": "Men's aesthetic treatments go mainstream, with a preference for undetectable results",
-   "angle": "국내 조사와 ISAPS·ASPS 자료로 남성 시술 수요를 짚고, 남성 피부 특성과 첫 상담 준비법을 안내한다.",
-   "category": "medical",
+   "id": "2026-11-skin-longevity-claims",
+   "category": "wellaging",
    "countries": [
-    "KR",
     "US",
-    "AE",
+    "KR",
     "SG",
+    "AE",
     "AU",
-    "CA",
-    "MN"
+    "CA"
    ],
-   "score": 78,
-   "reasons": [
-    [
-     "관심도 변화",
-     "2026년 1월 오피니언서베이 조사에서 서울·수도권 20~59세 남성 2,000명 중 36.5%가 미용 시술 경험(30대 44.5%). WGSN이 2026~2027 남성 뷰티 핵심 트렌드로 'Bro Beauty' 선정(중앙일보 비크닉 보도)"
-    ],
-    [
-     "최신성",
-     "11월 9일 보도(1주 이내). 9월 한 남성 출연자의 시술 후기 영상 조회수 93만 회 이상(같은 보도)"
-    ],
-    [
-     "해외 시장 관심",
-     "ISAPS 집계 2018~2024년 남성 비수술 시술 116%, 수술 95% 증가(AFP, 2026-01-29). ASPS가 5월 남성의 '티 나지 않는 시술(undetectable work)' 선호를 조명"
-    ],
-    [
-     "신뢰도",
-     "국제미용성형외과학회(ISAPS) 데이터 인용 AFP, 미국성형외과학회(ASPS) 공식 기사, 국내 조사 인용 중앙일보 계열 보도"
-    ],
-    [
-     "사업 관련성",
-     "해외 남성 고객의 의료관광 상담, 클리닉 컨설팅(남성 고객 응대·상담 설계)과 직결"
-    ],
-    [
-     "독자 문제·전환",
-     "'처음인데 티 나지 않게 관리하고 싶다'는 남성 독자의 고민을 상담 준비 체크리스트로 연결"
-    ],
-    [
-     "차별성",
-     "기존 원고(수출 지도, AI 피부 분석, GLP-1 얼굴, 성수, 의료관광 200만, 회복 숙소)와 겹치지 않는 남성 고객 관점"
+   "read_min": 6,
+   "title_ko": "크림이 피부 나이를 되돌릴까, '롱제비티 스킨케어'를 과학으로 읽는 법",
+   "title_en": "Can a cream turn back skin age? Reading longevity skincare with a scientist's eye",
+   "summary_ko": "글로벌 뷰티 기업들이 '롱제비티'를 차세대 스킨케어의 중심에 두고 있습니다. 실험실 지표와 실제 피부 효과의 차이, 화장품과 의약품을 가르는 표현의 경계, 그리고 라벨을 읽는 실용 체크리스트를 정리했습니다.",
+   "summary_en": "Global beauty giants are putting longevity at the heart of next-generation skincare. Here is the gap between lab markers and real skin benefits, the line between cosmetic and drug claims, and a practical checklist for reading the label.",
+   "key_points_ko": [
+    "에스티로더는 11월 CIIE에서 스킨 롱제비티 플랫폼을 발표했고, 롱제비티 표방 신제품 출시는 연평균 41% 증가하고 있다(이노바 마켓 인사이트)",
+    "피부과 전문의는 바이오마커 변화가 곧 피부 효과는 아니며, 상업화가 검증보다 빠르다고 지적한다",
+    "근거가 가장 탄탄한 관리는 매일의 자외선 차단으로, 한 임상에서 4.5년간 피부 노화 진행이 덜했다",
+    "미국에서는 서투인 활성화 같은 표현이 의약품 분류로 이어질 수 있다는 경고가 나온다",
+    "한국에서 화장품은 '세포 재생' 같은 의약품 오인 표현을 쓸 수 없고, 2025년 식약처 점검에서 적발 광고의 57.6%가 이에 해당했다"
+   ],
+   "key_points_en": [
+    "Estée Lauder unveiled a skin longevity platform at CIIE in November, and longevity-claim launches are growing at 41% a year (Innova Market Insights)",
+    "A dermatologist warns that biomarker shifts are not proof of skin benefits and that commercialization is outpacing validation",
+    "Daily sunscreen has the strongest evidence: in one trial, skin aging progressed less over 4.5 years",
+    "In the US, invoking concepts such as sirtuin activation may push a product toward drug classification",
+    "In Korea, cosmetics may not claim drug-like effects such as \"cell regeneration\"; 57.6% of ads flagged in a 2025 MFDS review did so"
+   ],
+   "body_ko": "'피부 생체 나이', '세포 에너지', '장수 유전자'. 올해 스킨케어 진열대에서 가장 자주 보이는 단어들입니다. 주름을 지우겠다던 '안티에이징'의 자리를 '롱제비티(longevity)'가 채우고 있습니다. 그런데 크림 한 병이 정말 피부를 '더 오래 젊게' 지킬 수 있을까요? 과학과 마케팅의 경계를 짚어 봤습니다.\n\n## 안티에이징 다음은 '롱제비티'\n\n글로벌 뷰티 기업들의 움직임은 빠릅니다. 에스티로더 컴퍼니즈는 11월 중국국제수입박람회(CIIE)에서 스킨 롱제비티 과학 플랫폼 'Mastering Skin Longevity'를 발표했습니다. 서투인, AMPK, mTOR를 피부 노화의 '마스터 조절자'로 내세우고, 뉴욕과 상하이에 롱제비티 랩을 두고 있습니다. 랑콤은 3월 미국피부과학회(AAD) 연례 학술대회에서 '앱솔뤼 롱제비티 MD' 라인을 선보였습니다.\n\n시장 데이터도 같은 방향입니다. Personal Care Insights가 인용한 이노바 마켓 인사이트 자료에 따르면 '롱제비티'를 내세운 퍼스널케어 신제품 출시는 연평균 41%씩 늘고 있고, 소비자의 66%가 이 단어에 긍정적인 인상을 갖고 있습니다. 한국에서도 '슬로 에이징', '저속노화'라는 이름으로 피부 장벽과 생활 습관을 함께 챙기는 흐름이 뚜렷합니다.\n\n## 실험실의 신호, 거울 속 결과는 다르다\n\n피부과 전문의 크리스토퍼 버닉 박사는 Dermatology Times 기고에서 스킨 롱제비티가 \"임상적으로 검증되는 속도보다 상업화가 더 빠르다\"고 지적했습니다. 핵심은 세 가지입니다.\n\n- **바이오마커 변화가 곧 효과는 아니다:** 유전자 발현이나 지표가 바뀌었다고 피부 기능이나 건강이 좋아졌다고 단정할 수 없습니다.\n- **주름 개선을 '장수 의학'이라 부르면 안 된다:** 장벽 기능, 상처 회복, 피부암 예방처럼 더 의미 있는 지표로 평가해야 한다는 주장입니다.\n- **근거가 약한 원료도 많다:** 그는 엑소좀, 줄기세포 유래 제품, 일부 펩타이드·보충제의 근거가 약하다고 짚으며, 미국 FDA가 승인한 엑소좀 제품은 현재 없다는 점을 상기시켰습니다.\n\n랑콤 라인의 핵심 원료인 유로리틴 A 역시 Glossy 보도에 따르면 대부분의 연구가 먹는 형태에 집중되어 있어, 바르는 제품과 눈에 보이는 피부 변화의 연결은 아직 확인되는 중입니다.\n\n> 지금 근거가 가장 탄탄한 '피부 롱제비티' 제품은 의외로 매일 바르는 선크림입니다.\n\n버닉 박사가 근거 중심 피부 관리의 대표 사례로 꼽은 것은 자외선 차단제입니다. 한 무작위 대조 임상에서 선크림을 매일 바른 그룹은 필요할 때만 바른 그룹보다 4.5년 동안 피부 노화 진행이 덜했습니다.\n\n## 화장품과 의약품, 단어 하나의 차이\n\n효능 표현에는 법의 선이 있습니다. Fortune 칼럼에서 미국 FDA 규제 전문 변호사 토드 해리슨은 서투인 활성화 같은 개념을 내세우면 제품이 의약품으로 분류될 수 있다고 경고했습니다. 미국 연방거래위원회(FTC)는 2014년 유전자에 작용한다는 노화 방지 광고를 문제 삼았고, 해당 기업은 합의 후 관련 표현을 제한하기로 했습니다.\n\n한국의 기준도 분명합니다. 화장품은 의약품으로 오인될 표현을 쓸 수 없습니다. 식약처가 2025년 3월 온라인 화장품 광고 200건을 점검한 결과 144건이 적발됐고, 그중 83건(57.6%)이 의약품 오인 광고였습니다. '세포 재생 효과', '바르는 보톡스 크림' 같은 표현이 대표적인 사례였습니다. 식약처 가이드라인은 사람 유래 성분을 연상시키는 '엑소좀 화장품' 같은 표현도 제한하고 있습니다.\n\n## 롱제비티 문구, 이렇게 읽으세요\n\n- **무엇을 측정했나:** '생체 나이'나 '바이오마커'라는 말이 나오면, 사람의 피부에서 눈에 보이는 변화까지 확인했는지 살펴보세요.\n- **누가, 몇 명에게:** 사람 대상 시험인지, 독립적으로 반복 검증됐는지 확인하세요.\n- **화장품의 역할:** 화장품은 보습, 장벽 보호, 자외선 차단처럼 피부 표면을 돌보는 영역입니다. 세포를 되돌리거나 노화를 치료한다는 약속은 화장품의 몫이 아닙니다.\n- **시술이 필요하다면:** 탄력·볼륨 변화는 의료 영역입니다. 진단과 상담은 자격을 갖춘 의료진에게 받으세요.\n- **기본기부터:** 매일의 자외선 차단, 자극을 줄인 루틴, 수면과 생활 습관이 가장 오래 가는 투자입니다.\n\n## 한눈에 정리\n\n- 글로벌 뷰티 기업들이 '롱제비티'를 차세대 스킨케어의 중심에 두고 있습니다.\n- 전문의들은 실험실 지표와 실제 피부 효과를 구분해야 한다고 강조합니다.\n- 근거가 가장 탄탄한 관리는 여전히 매일의 자외선 차단입니다.\n- 한국에서 화장품은 '세포 재생' 같은 의약품 오인 표현을 쓸 수 없습니다.\n\n## 라벨르엘비와 함께\n\n라벨르엘비는 해외 시장에 진출하는 K-뷰티 브랜드와 바이어가 국가별 효능 표현 기준을 함께 점검하도록 돕고, 클리닉과 교육 파트너에게는 화장품 관리와 의료 시술을 정확히 구분해 안내하는 상담 구조를 제안합니다. 피부 노화와 관련한 시술이나 치료가 필요한지는 사람마다 다르므로, 반드시 자격을 갖춘 의료 전문가와 상담하시기 바랍니다.",
+   "body_en": "\"Biological skin age.\" \"Cellular energy.\" \"Longevity genes.\" These are the words of the year on skincare shelves. Where \"anti-aging\" once promised to erase wrinkles, \"longevity\" now promises something bigger. But can a jar of cream really keep skin younger for longer? Here is where the science ends and the marketing begins.\n\n## After anti-aging comes longevity\n\nThe world's biggest beauty companies are moving fast. In November, The Estée Lauder Companies unveiled Mastering Skin Longevity, a company-wide science platform, at the China International Import Expo. It names sirtuins, AMPK and mTOR as \"master regulators\" of skin aging and runs Longevity Labs in New York and Shanghai. In March, Lancôme launched its Absolue Longevity MD range at the American Academy of Dermatology annual meeting.\n\nThe market data point the same way. Innova Market Insights figures cited by Personal Care Insights show personal care launches with longevity claims growing at a 41% compound annual rate, and 66% of consumers view the word positively. In Korea, a similar shift is under way under the names \"slow aging\" and \"jeosok-nohwa\" (slowed aging), pairing barrier care with daily habits.\n\n## A signal in the lab is not a result in the mirror\n\nWriting in Dermatology Times, dermatologist Christopher Bunick, MD, PhD, warned that skin longevity is being commercialized faster than it is being clinically validated. His main points:\n\n- **A biomarker shift is not a benefit:** Changes in gene expression or lab markers do not prove better skin function or health.\n- **Fewer wrinkles are not longevity medicine:** He argues for more meaningful measures, such as barrier function, wound healing and protection against skin cancer.\n- **Many ingredients lack evidence:** He flags weak evidence for exosomes, stem cell-derived products and some peptides and supplements, and notes that the US FDA has approved no exosome products.\n\nThe same caution applies to urolithin A, the hero ingredient in Lancôme's range. As Glossy reported, most of its research has focused on oral use, so its link to visible results from a topical product is still being established.\n\n> Today, the \"skin longevity\" product with the strongest evidence is a surprisingly ordinary one: daily sunscreen.\n\nBunick points to sunscreen as the clearest example of evidence-based skin preservation. In one randomized controlled trial, people who applied sunscreen daily showed less progression of skin aging over 4.5 years than those who used it only when they chose to.\n\n## Cosmetic or drug: one word can decide\n\nClaims come with legal lines. In a Fortune commentary, Todd Harrison, co-chair of the FDA Group at law firm Venable, warned that invoking concepts such as sirtuin activation may lead a product to be classified as a drug. In 2014, the US Federal Trade Commission challenged anti-aging ads that claimed to target genes, and the company settled and agreed to limit those claims.\n\nKorea draws a clear line too: cosmetics may not use wording that could be mistaken for drug claims. When the Ministry of Food and Drug Safety (MFDS) reviewed 200 online cosmetics ads in March 2025, it flagged 144, and 83 of them (57.6%) implied drug-like effects. Typical examples included \"cell regeneration effect\" and \"Botox cream you apply.\" MFDS guidelines also restrict wording such as \"exosome cosmetics\" that suggests human-derived ingredients.\n\n## How to read a longevity claim\n\n- **What was measured?** If a label mentions \"biological age\" or \"biomarkers,\" check whether visible changes in human skin were confirmed too.\n- **Who was tested, and how many?** Look for human studies and independent replication.\n- **Know what cosmetics do:** Skincare moisturizes, protects the barrier and blocks UV. Promises to reverse cells or treat aging are not what cosmetics are for.\n- **When treatment is the question:** Changes in firmness or volume belong to medicine. Get a diagnosis and advice from a qualified medical professional.\n- **Start with the basics:** Daily sun protection, a gentle routine, sleep and healthy habits are the longest-lasting investment.\n\n## Key takeaways\n\n- Global beauty companies are placing longevity at the center of next-generation skincare.\n- Dermatologists stress the gap between lab markers and real-world skin benefits.\n- Daily sun protection remains the best-evidenced way to care for aging skin.\n- In Korea, cosmetics may not use drug-like claims such as \"cell regeneration.\"\n\n## Planning with La Belle LB\n\nLa Belle LB helps K-beauty brands and buyers entering overseas markets review claim rules country by country, and works with clinics and education partners on consultation structures that clearly separate skincare from medical treatment. Whether any treatment for skin aging is right for you depends on the individual, so always consult a qualified medical professional.",
+   "seo": {
+    "title_ko": "롱제비티 스킨케어, 피부 나이를 되돌릴까? 과학으로 읽는 법",
+    "title_en": "Longevity skincare: what the science says and how to read the claims",
+    "desc_ko": "글로벌 뷰티 기업들이 앞다퉈 내세우는 롱제비티 스킨케어. 실험실 지표와 실제 효과의 차이, 화장품과 의약품의 표현 경계, 라벨 읽는 법을 정리했습니다.",
+    "desc_en": "Longevity is skincare's buzziest claim. What dermatologists say about the evidence, where cosmetic claims end and drug claims begin, and how to read the label.",
+    "keywords": [
+     "롱제비티 스킨케어",
+     "슬로 에이징",
+     "저속노화 화장품",
+     "피부 생체 나이",
+     "화장품 광고 표현",
+     "의약품 오인 광고",
+     "longevity skincare",
+     "skin longevity",
+     "slow aging",
+     "anti-aging claims",
+     "cosmetic vs drug claims",
+     "K-beauty regulation"
     ]
-   ],
-   "measured": [
-    "서울·수도권 20~59세 남성 2,000명 중 36.5% 미용 시술 경험, 30대 44.5%·40대 37.6%·20대 30.7%, 리프팅 경험자 중 64.5% 재시술 고려 (미주중앙일보·오피니언서베이 2026년 1월 조사, 2026-11-09)",
-    "남성 시술 후기 유튜브 영상 조회수 93만 회 이상 (미주중앙일보, 2026-11-09)",
-    "남성 비수술 시술 116%·수술 95% 증가(2018~2024), 남성 비중 16% (AFP·ISAPS, 2026-01-29)"
-   ],
+   },
+   "cta": "partnership",
+   "medical_review": true,
    "sources": [
     [
-     "미주중앙일보(중앙일보 비크닉) · \"피부과 공유해주세요\"…남자들이 시술을 말하기 시작했다",
-     "https://www.koreadaily.com/article/20261109143801650",
+     "Personal Care Insights · Estée Lauder anchors portfolio-wide innovation in skin longevity science (2026-11-09)",
+     "https://www.personalcareinsights.com/news/estee-lauder-skin-longevity-platform.html",
      "2026-11-09"
     ],
     [
-     "Citizen Digital (AFP) · Men getting twice as much plastic surgery, new data shows",
-     "https://citizen.digital/article/men-getting-twice-as-much-plastic-surgery-new-data-shows",
-     "2026-01-29"
+     "Fortune · Longevity is the beauty industry's most powerful claim—and its weakest link (2026-11-11)",
+     "https://fortune.com/2026/11/11/beauty-longevity-skincare-claims-fda-ftc-loreal-estee-lauder-sindhya-valloppillil/",
+     "2026-11-11"
     ],
     [
-     "American Society of Plastic Surgeons · The era of undetectable work: why men are seeking subtle refinement",
-     "https://www.plasticsurgery.org/news/articles/the-era-of-undetectable-work-why-men-are-seeking-subtle-refinement",
-     "2026-05-11"
+     "Dermatology Times · Skin Longevity Needs Evidence, Not Hype (2026-10-20)",
+     "https://www.dermatologytimes.com/view/skin-longevity-needs-evidence-not-hype",
+     "2026-10-20"
     ],
     [
-     "메디칼타임즈 · 남성 피부미용 수요 커졌는데…전문가가 본 맞춤 전략은?",
-     "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1168988",
-     "2026-06-08"
+     "Glossy · Lancôme gets serious about longevity with new skin-care line (2026-03-27)",
+     "https://www.glossy.co/beauty/wellness/lancome-takes-longevity-to-dermatologists-raising-the-bar-for-beautys-buzziest-category/",
+     "2026-03-27"
+    ],
+    [
+     "Personal Care Insights · Beyond anti-aging: Longevity science redefines skin care's mission (2026-01-20)",
+     "https://www.personalcareinsights.com/news/longevity-skin-care-science.html",
+     "2026-01-20"
+    ],
+    [
+     "한국경제 · \"치과의사가 개발한 크림\"…화장품 광고 알고보니 (2025-03-13)",
+     "https://www.hankyung.com/article/202503132016g",
+     "2025-03-13"
+    ],
+    [
+     "유가크루 · 엑소좀 화장품 광고 규정 정리 (2026-10-29)",
+     "https://www.yugacrew.com/crewletter/exosome-cosmetics-ad-rules",
+     "2026-10-29"
+    ],
+    [
+     "하퍼스 바자 코리아 · 노화를 늦추는 루틴, 롱제비티 트렌드는 무엇? (2026-04-27)",
+     "https://www.harpersbazaar.co.kr/article/1901652",
+     "2026-04-27"
     ]
    ],
-   "checked": "2026-11-15"
+   "trend": {
+    "score": 80,
+    "reasons": [
+     [
+      "관심도 변화",
+      "에스티로더가 11월 CIIE(11월 5~10일)에서 전사 차원의 스킨 롱제비티 과학 플랫폼 'Mastering Skin Longevity'를 발표했고, 이노바 마켓 인사이트 자료로 '롱제비티' 표방 신제품 출시가 연평균 41% 증가(Personal Care Insights, 2026-01-20)"
+     ],
+     [
+      "최신성",
+      "Fortune 11월 11일 칼럼, 에스티로더 11월 9일 보도, Dermatology Times 10월 20일 전문의 기고(30일 이내)"
+     ],
+     [
+      "해외 시장 관심",
+      "미국·중국·싱가포르 연구진이 참여하는 글로벌 브랜드 플랫폼, 미국에서 FDA·FTC 기준에 따른 효능 표현 논쟁"
+     ],
+     [
+      "신뢰도",
+      "피부과 전문의 기고(Dermatology Times), Fortune, 업계 전문지, 식약처 단속 결과 보도(한국경제)"
+     ],
+     [
+      "사업 관련성",
+      "K-뷰티 유통·수출 파트너의 효능 표현 점검, 미용의학 교육, 해외 고객 상담 시 화장품과 시술 구분 안내와 직결"
+     ],
+     [
+      "독자 문제·전환",
+      "'롱제비티·세포·생체 나이' 문구를 어떻게 읽을지 막막한 소비자·바이어에게 실용 체크리스트 제공"
+     ],
+     [
+      "차별성",
+      "기존 원고(수출 지도, GLP-1 얼굴, 선크림, 등록 병원, 캐나다, 회복 숙소, 남성 시술)와 겹치지 않는 웰에이징·효능 표현 관점"
+     ]
+    ],
+    "checked": "2026-11-17"
+   },
+   "image_brief": "KO: 1) 아침 햇살 아래 세면대 위에 선크림·보습제·작은 모래시계를 놓은 미니멀 스틸라이프(브랜드 로고 노출 금지). 2) 실험실 피펫·시험관과 화장대 거울이 반씩 나뉜 대비 구도로 '실험실 지표 vs 거울 속 결과'를 표현한 컨셉 컷(특정 제품·성분 효능 암시 금지). 3) '무엇을 측정했나 → 사람 대상인가 → 화장품의 역할 → 의료 상담'을 잇는 라벨 체크리스트 그래픽(수치는 본문 출처 수치만 사용). 인물 얼굴 비포/애프터 연출 금지. AI 생성 이미지를 쓸 경우 반드시 'AI 생성 이미지'로 표기.",
+   "cover": "nova/covers/2026-11-skin-longevity-claims.webp",
+   "cover_ai": false,
+   "written": "2026-11-17"
+  }
+ ],
+ "candidates": [
+  {
+   "id": "2026-11-17-skin-longevity-claims",
+   "topic_ko": "'롱제비티 스킨케어' 붐, 과학적 근거와 화장품 효능 표현의 경계",
+   "topic_en": "The longevity skincare boom: the evidence, and where cosmetic claims must stop",
+   "angle": "글로벌 브랜드의 롱제비티 경쟁을 전문의 비판과 한·미 효능 표현 규제로 검증하고, 소비자·바이어용 라벨 읽기 체크리스트를 제시한다.",
+   "category": "wellaging",
+   "countries": [
+    "US",
+    "KR",
+    "SG",
+    "AE",
+    "AU",
+    "CA"
+   ],
+   "score": 80,
+   "reasons": [
+    [
+     "관심도 변화",
+     "에스티로더가 11월 CIIE(11월 5~10일)에서 전사 차원의 스킨 롱제비티 과학 플랫폼 'Mastering Skin Longevity'를 발표했고, 이노바 마켓 인사이트 자료로 '롱제비티' 표방 신제품 출시가 연평균 41% 증가(Personal Care Insights, 2026-01-20)"
+    ],
+    [
+     "최신성",
+     "Fortune 11월 11일 칼럼, 에스티로더 11월 9일 보도, Dermatology Times 10월 20일 전문의 기고(30일 이내)"
+    ],
+    [
+     "해외 시장 관심",
+     "미국·중국·싱가포르 연구진이 참여하는 글로벌 브랜드 플랫폼, 미국에서 FDA·FTC 기준에 따른 효능 표현 논쟁"
+    ],
+    [
+     "신뢰도",
+     "피부과 전문의 기고(Dermatology Times), Fortune, 업계 전문지, 식약처 단속 결과 보도(한국경제)"
+    ],
+    [
+     "사업 관련성",
+     "K-뷰티 유통·수출 파트너의 효능 표현 점검, 미용의학 교육, 해외 고객 상담 시 화장품과 시술 구분 안내와 직결"
+    ],
+    [
+     "독자 문제·전환",
+     "'롱제비티·세포·생체 나이' 문구를 어떻게 읽을지 막막한 소비자·바이어에게 실용 체크리스트 제공"
+    ],
+    [
+     "차별성",
+     "기존 원고(수출 지도, GLP-1 얼굴, 선크림, 등록 병원, 캐나다, 회복 숙소, 남성 시술)와 겹치지 않는 웰에이징·효능 표현 관점"
+    ]
+   ],
+   "measured": [
+    "롱제비티 표방 퍼스널케어 신제품 출시 연평균 41% 증가, 소비자 66% 긍정 인식 (Personal Care Insights·Innova Market Insights, 2026-01-20)",
+    "L'Oréal Longevity AI Cloud 260개 이상 바이오마커 분석(회사 발표) (Fortune, 2026-11-11)",
+    "선크림 매일 사용군 4.5년간 피부 노화 진행 감소(무작위 임상) (Dermatology Times, 2026-10-20)",
+    "식약처 온라인 화장품 광고 200건 중 144건 적발, 83건(57.6%) 의약품 오인 (한국경제, 2025-03-13)"
+   ],
+   "sources": [
+    [
+     "Personal Care Insights · Estée Lauder anchors portfolio-wide innovation in skin longevity science",
+     "https://www.personalcareinsights.com/news/estee-lauder-skin-longevity-platform.html",
+     "2026-11-09"
+    ],
+    [
+     "Fortune · Longevity is the beauty industry's most powerful claim—and its weakest link",
+     "https://fortune.com/2026/11/11/beauty-longevity-skincare-claims-fda-ftc-loreal-estee-lauder-sindhya-valloppillil/",
+     "2026-11-11"
+    ],
+    [
+     "Dermatology Times · Skin Longevity Needs Evidence, Not Hype",
+     "https://www.dermatologytimes.com/view/skin-longevity-needs-evidence-not-hype",
+     "2026-10-20"
+    ],
+    [
+     "Personal Care Insights · Beyond anti-aging: Longevity science redefines skin care's mission",
+     "https://www.personalcareinsights.com/news/longevity-skin-care-science.html",
+     "2026-01-20"
+    ],
+    [
+     "한국경제 · \"치과의사가 개발한 크림\"…화장품 광고 알고보니",
+     "https://www.hankyung.com/article/202503132016g",
+     "2025-03-13"
+    ]
+   ],
+   "checked": "2026-11-17"
+  },
+  {
+   "id": "2026-11-17-olive-young-us-california",
+   "topic_ko": "올리브영, 캘리포니아 5개 매장 추가… 미국이 처음 만나는 K-뷰티 포맷",
+   "topic_en": "Olive Young adds five California stores, bringing new K-beauty formats to US shoppers",
+   "angle": "올리브영 미국 확장이 유통망 없는 중소 K-뷰티 브랜드에 주는 기회와, 선스틱·토너패드 같은 포맷이 미국 규제에서 마주할 과제를 정리한다.",
+   "category": "kbeauty",
+   "countries": [
+    "US",
+    "KR"
+   ],
+   "score": 74,
+   "reasons": [
+    [
+     "관심도 변화",
+     "2027년 상반기까지 캘리포니아 5개 매장 추가로 미국 7개 매장, 닐슨IQ 기준 2026년 초 미국 K-뷰티 수요 48.1% 증가"
+    ],
+    [
+     "최신성",
+     "11월 9~10일 보도(1주 이내)"
+    ],
+    [
+     "해외 시장 관심",
+     "미국 최대 K-뷰티 시장, 세포라 500개 이상 매장 협업"
+    ],
+    [
+     "신뢰도",
+     "헤럴드경제, BeautyMatter(닐슨IQ 인용)"
+    ],
+    [
+     "사업 관련성",
+     "K-뷰티 유통·중소 브랜드 미국 진출 파트너십과 직결"
+    ],
+    [
+     "차별성",
+     "11월 5일 미국 선크림 원고, 11월 10일 캐나다 유통 원고와 일부 겹침"
+    ]
+   ],
+   "measured": [
+    "2027년 상반기까지 캘리포니아 5개 매장 추가, 미국 총 7개 (헤럴드경제, 2026-11-09)",
+    "미국 K-뷰티 수요 2026년 초 48.1% 증가, 연 28억 달러 (BeautyMatter·NielsenIQ, 2026-11-10)",
+    "매장 피부 분석 서비스 약 2만 7,000명 이용 (BeautyMatter, 2026-11-10)"
+   ],
+   "sources": [
+    [
+     "The Herald Business · CJ Olive Young to add 5 US stores by first half of next year, expanding into San Diego",
+     "https://mbiz.heraldcorp.com/article/10930022",
+     "2026-11-09"
+    ],
+    [
+     "BeautyMatter · Olive Young Accelerates Its US Retail Expansion; Opens Five New Stores",
+     "https://beautymatter.com/articles/olive-young-accelerates-its-us-retail-expansion-opens-five-new-stores",
+     "2026-11-10"
+    ]
+   ],
+   "checked": "2026-11-17"
   },
   {
    "id": "2026-11-15-pharma-biocosmetics",
@@ -760,7 +956,7 @@
     "KR",
     "US"
    ],
-   "score": 72,
+   "score": 70,
    "reasons": [
     [
      "관심도 변화",
@@ -768,7 +964,7 @@
     ],
     [
      "최신성",
-     "11월 5일 보도(10일 이내)"
+     "11월 5일 보도(2주 이내)"
     ],
     [
      "해외 시장 관심",
@@ -783,12 +979,8 @@
      "K-뷰티 유통 상품 소싱, 시술 후 홈케어(리셋미) 맥락과 연결"
     ],
     [
-     "독자 문제·전환",
-     "'더마·바이오' 표기를 어떻게 읽을지에 대한 바이어·소비자 궁금증 해소"
-    ],
-    [
      "차별성",
-     "화장품법상 효능 표현 한계를 함께 다뤄야 하며, 11월 8일 PDRN 원고와 일부 겹침"
+     "이번 회차 롱제비티 원고의 효능 표현 주제와 일부 겹침"
     ]
    ],
    "measured": [
@@ -812,7 +1004,7 @@
    "countries": [
     "KR"
    ],
-   "score": 69,
+   "score": 67,
    "reasons": [
     [
      "관심도 변화",
@@ -820,7 +1012,7 @@
     ],
     [
      "최신성",
-     "11월 5일 보도(10일 이내), 건조한 계절"
+     "11월 5일 보도(2주 이내), 건조한 계절"
     ],
     [
      "해외 시장 관심",
@@ -903,7 +1095,7 @@
     "KR",
     "US"
    ],
-   "score": 58,
+   "score": 56,
    "reasons": [
     [
      "관심도 변화",
@@ -911,7 +1103,7 @@
     ],
     [
      "최신성",
-     "10월 27일 보도(30일 이내)"
+     "10월 27일 보도(30일 범위 경계)"
     ],
     [
      "신뢰도",
@@ -939,146 +1131,48 @@
    "checked": "2026-11-15"
   },
   {
-   "id": "2026-11-15-global-doctors-seoul-congress",
-   "topic_ko": "해외 의료진 800명이 서울로, 미용의학 학술대회가 보여주는 K-에스테틱 교육 수요",
-   "topic_en": "800 overseas doctors in Seoul: what aesthetic-medicine congresses say about demand for K-aesthetics training",
-   "angle": "학술대회·기업 실습 세미나 사례로 해외 클리닉이 한국 미용의학 교육을 고를 때의 기준을 정리한다.",
-   "category": "education",
+   "id": "2026-11-17-dubai-ai-3d-face-consult",
+   "topic_ko": "두바이 클리닉, AI 3D 얼굴 분석을 상담에 도입",
+   "topic_en": "A Dubai clinic brings AI 3D facial analysis into aesthetic consultations",
+   "angle": "AI 3D 스캔이 상담의 기록·설명 도구로 쓰이는 방식과 시뮬레이션이 보장이 아니라는 점을 짚는다.",
+   "category": "beautytech",
    "countries": [
-    "KR",
-    "SG",
-    "US",
-    "CA"
+    "AE"
    ],
-   "score": 57,
+   "score": 55,
    "reasons": [
     [
      "관심도 변화",
-     "10월 18일 ICLAS·KFCC 공동 학술대회 의료진 약 1,200명(해외 약 800명)"
+     "두바이 클리닉이 13대 카메라 3D 스캔을 상담에 도입(제조사 발표)"
     ],
     [
      "최신성",
-     "10월 22일 보도로 30일 범위 경계"
+     "10월 8일 보도로 30일 범위를 벗어남"
     ],
     [
      "신뢰도",
-     "서울신문 등 행사 측 발표 기반 보도"
+     "Khaleej Times 파트너 콘텐츠(KT Network)로 홍보성 강함"
     ],
     [
      "사업 관련성",
-     "미용의학 교육·클리닉 컨설팅과 직결"
+     "클리닉 상담 설계 컨설팅과 관련"
     ],
     [
      "차별성",
-     "특정 학회 홍보로 보이지 않게 '교육 고르는 기준' 관점 필요"
+     "기존 AI 피부 분석 원고와 크게 겹침"
     ]
    ],
    "measured": [
-    "ICLAS 서울 2026·KFCC 학술대회 의료진 약 1,200명(해외 약 800명) (서울신문, 2026-10-22)"
+    "13대 카메라, 0.2초 촬영, 0.1mm 정밀도(제조사 발표) (Khaleej Times, 2026-10-08)"
    ],
    "sources": [
     [
-     "서울신문 · ICLAS·대한미용기능의학회(KFCC) 공동 학술대회 성료… 국내외 의료진 1,200명 참석",
-     "https://www.seoul.co.kr/news/newsView.php?id=20261022500235",
-     "2026-10-22"
+     "Khaleej Times (KT Network) · Dubai clinic introduces AI-powered 3D facial analysis for aesthetic consultations",
+     "https://www.khaleejtimes.com/kt-network/dubai-clinic-introduces-ai-powered-3d-facial-analysis-for-aesthetic-consultations",
+     "2026-10-08"
     ]
    ],
-   "checked": "2026-11-12"
-  },
-  {
-   "id": "2026-11-15-au-tga-sunscreen-reform",
-   "topic_ko": "호주 TGA, 선크림 SPF 시험·데일리 화장품 SPF 표시 기준 손본다",
-   "topic_en": "Australia's TGA moves to tighten SPF testing and cosmetic SPF claims",
-   "angle": "호주 선크림 규제 개편 방향과 호주 수출 K-뷰티 브랜드의 준비 사항을 짚는다.",
-   "category": "kbeauty",
-   "countries": [
-    "AU",
-    "KR"
-   ],
-   "score": 54,
-   "reasons": [
-    [
-     "관심도 변화",
-     "TGA가 10월 27일 SPF 시험 강화, 화장품 SPF 표시 제한 등 개편 방향 발표"
-    ],
-    [
-     "최신성",
-     "10월 27일 발표, 30일 범위 경계(이번 회차 재확인 안 함)"
-    ],
-    [
-     "신뢰도",
-     "규제 전문 매체 ChemLinked"
-    ],
-    [
-     "사업 관련성",
-     "호주 K-뷰티 유통 파트너십과 직결"
-    ],
-    [
-     "차별성",
-     "선케어·규제 원고가 연속되어 시차 필요"
-    ]
-   ],
-   "measured": [
-    "TGA 2026년 3~5월 공개 의견수렴 약 120건 (ChemLinked, 2026-10-29)"
-   ],
-   "sources": [
-    [
-     "ChemLinked · Australia TGA Advances Major Sunscreen Regulatory Reforms",
-     "https://cosmetic.chemlinked.com/news/cosmetic-news/australia-tga-advances-major-sunscreen-regulatory-reforms",
-     "2026-10-29"
-    ]
-   ],
-   "checked": "2026-11-08"
-  },
-  {
-   "id": "2026-11-15-eu-kbeauty-hubs",
-   "topic_ko": "밀라노·슈투트가르트·파리에 K-뷰티 거점, 중소 브랜드 유럽 진출 지원 확대",
-   "topic_en": "K-beauty hubs in Milan, Stuttgart and Paris to help smaller brands enter Europe",
-   "angle": "정부 해외 거점 모델(홍보·인증·바이어 매칭)을 소개하고 싱가포르·미국 확대 계획과 연결해 중소 브랜드의 활용법을 정리한다.",
-   "category": "kbeauty",
-   "countries": [
-    "KR",
-    "SG",
-    "US"
-   ],
-   "score": 52,
-   "reasons": [
-    [
-     "관심도 변화",
-     "상반기 중소기업 유럽 화장품 수출 12.6억 달러(전년 7.7억 달러)"
-    ],
-    [
-     "최신성",
-     "9월 30일 보도로 30일 범위를 벗어남"
-    ],
-    [
-     "해외 시장 관심",
-     "향후 미국·싱가포르 등으로 거점 확대 계획"
-    ],
-    [
-     "신뢰도",
-     "보건복지부 발표 인용 전문지"
-    ],
-    [
-     "사업 관련성",
-     "K-뷰티 유통·파트너십 상담과 연결"
-    ],
-    [
-     "차별성",
-     "유통 채널 확장 주제가 기존 원고와 일부 겹침"
-    ]
-   ],
-   "measured": [
-    "2026년 상반기 중소기업 유럽 화장품 수출 12.6억 달러, 전년 동기 7.7억 달러 (BioSpectrum Asia·보건복지부, 2026-09-30)"
-   ],
-   "sources": [
-    [
-     "BioSpectrum Asia · Korean govt expands market entry support for dermatology companies in Europe",
-     "https://www.biospectrumasia.com/news/51/28461/korean-govt-expands-market-entry-support-for-dermatology-companies-in-europe.html",
-     "2026-09-30"
-    ]
-   ],
-   "checked": "2026-11-15"
+   "checked": "2026-11-17"
   }
  ]
 }
