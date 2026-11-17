@@ -35,6 +35,7 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Instrument+Serif:ital@1&family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"LA Belle LB","alternateName":"라벨르엘비","url":"https://labellelb.com/","logo":"https://labellelb.com/brand/logo-full-light.svg","email":"labellelb0415@gmail.com","sameAs":["https://www.facebook.com/profile.php?id=61574662490487","https://www.youtube.com/@Labellelb-r6k"]}</script>
 <style>
 /* Layout: Janice's mockup — warm stone paper, charcoal bands, lime accents; Helvetica-style sans with Noto Sans KR, Archivo Black wordmark */
 :root{
@@ -554,6 +555,10 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
 .foot .logo img{height:32px}
 .foot .biz{font-size:12.5px;line-height:1.85;color:var(--on-dark);border-right:1px solid var(--dark-line);padding-right:48px}
 .foot .mail{font-size:13px}
+.foot .sns{display:flex;gap:10px;margin-top:10px}
+.foot .sns a{width:34px;height:34px;border-radius:50%;border:1px solid var(--dark-line);display:grid;place-items:center;color:var(--on-dark);transition:background .2s,color .2s,border-color .2s}
+.foot .sns a:hover{background:var(--lime);border-color:var(--lime);color:var(--ink)}
+.foot .sns svg{width:17px;height:17px}
 .foot small{display:block;font-size:11px;color:var(--on-dark-muted);margin-top:6px}
 .admin-link{background:none;border:0;padding:0;color:var(--on-dark-muted);font:11px var(--sans);text-decoration:underline;cursor:pointer}
 @media (max-width:860px){.foot{grid-template-columns:1fr;gap:20px}.foot .biz{border-right:0;padding-right:0}}
@@ -881,7 +886,7 @@ footer{background:var(--ink2);color:var(--on-dark);padding-block:44px}
     <p>사업자등록번호: 423-87-03176</p>
     <p>외국인환자 유치업자 등록번호: A-2024-01-01-5549호</p>
   </div>
-  <div><p class="mail">labellelb0415@gmail.com</p><small>© 2026 LA Belle LB · <a href="privacy.html" class="admin-link" style="text-decoration:underline"><span class="ko">개인정보처리방침</span><span class="en">Privacy policy</span></a> · <button type="button" class="admin-link" id="admin-open">관리자</button></small></div>
+  <div><p class="mail">labellelb0415@gmail.com</p><p class="sns"><a href="https://www.facebook.com/profile.php?id=61574662490487" target="_blank" rel="noopener" aria-label="Facebook" title="Facebook"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 4v2.2H7.8v3h2.6V21h3.1z"/></svg></a><a href="https://www.youtube.com/@Labellelb-r6k" target="_blank" rel="noopener" aria-label="YouTube" title="YouTube"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M21.6 7.2a2.5 2.5 0 0 0-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4A2.5 2.5 0 0 0 2.4 7.2 26 26 0 0 0 2 12a26 26 0 0 0 .4 4.8 2.5 2.5 0 0 0 1.8 1.8C5.8 19 12 19 12 19s6.2 0 7.8-.4a2.5 2.5 0 0 0 1.8-1.8A26 26 0 0 0 22 12a26 26 0 0 0-.4-4.8zM10 15V9l5.2 3L10 15z"/></svg></a></p><small>© 2026 LA Belle LB · <a href="privacy.html" class="admin-link" style="text-decoration:underline"><span class="ko">개인정보처리방침</span><span class="en">Privacy policy</span></a> · <button type="button" class="admin-link" id="admin-open">관리자</button></small></div>
 </div></footer>
 
 <div class="lightbox" id="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photo">
