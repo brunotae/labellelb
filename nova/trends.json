@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-17",
  "country_trends": {
   "KR": {
    "keywords": [
+    {
+     "ko": "슬로 에이징",
+     "en": "slow aging"
+    },
+    {
+     "ko": "롱제비티 스킨케어",
+     "en": "longevity skincare"
+    },
     {
      "ko": "남성 미용 시술",
      "en": "men's aesthetic treatments"
     },
     {
-     "ko": "브로 뷰티",
-     "en": "bro beauty"
-    },
-    {
      "ko": "바이오 코스메틱",
      "en": "biocosmetics"
-    },
-    {
-     "ko": "제약사 더마 화장품",
-     "en": "pharma-backed derma skincare"
     },
     {
      "ko": "의료관광 친화 숙박시설",
@@ -28,8 +28,18 @@
      "en": "medical-tourism big data"
     }
    ],
-   "checked": "2026-11-15",
+   "checked": "2026-11-17",
    "sources": [
+    [
+     "W Korea · 나에게 맞는 노화 설계",
+     "https://www.wkorea.com/?p=451024",
+     "2026-09-08"
+    ],
+    [
+     "하퍼스 바자 코리아 · 노화를 늦추는 루틴, 롱제비티 트렌드는 무엇?",
+     "https://www.harpersbazaar.co.kr/article/1901652",
+     "2026-04-27"
+    ],
     [
      "미주중앙일보(중앙일보 비크닉) · \"피부과 공유해주세요\"…남자들이 시술을 말하기 시작했다",
      "https://www.koreadaily.com/article/20261109143801650",
@@ -49,58 +59,6 @@
      "The Herald Business · Where do foreign patients go, what do they spend? Big data maps K-medical tourism",
      "https://mbiz.heraldcorp.com/article/10922324",
      "2026-11-02"
-    ],
-    [
-     "데일리팜 · 바이오헬스 3분기 누적 수출액 33조원 돌파 '역대 최대'",
-     "https://m.dailypharm.com/user/news/343842",
-     "2026-10-27"
-    ]
-   ]
-  },
-  "US": {
-   "keywords": [
-    {
-     "ko": "티 나지 않는 시술",
-     "en": "undetectable work"
-    },
-    {
-     "ko": "남성 비수술 시술 증가",
-     "en": "rising non-surgical treatments for men"
-    },
-    {
-     "ko": "한국 화장품 대미 수출 증가",
-     "en": "rising Korean cosmetics exports to the US"
-    },
-    {
-     "ko": "NAD+ 펩타이드 스킨케어",
-     "en": "NAD+ peptide skincare"
-    },
-    {
-     "ko": "아마존 K-뷰티",
-     "en": "K-beauty on Amazon"
-    }
-   ],
-   "checked": "2026-11-15",
-   "sources": [
-    [
-     "American Society of Plastic Surgeons · The era of undetectable work: why men are seeking subtle refinement",
-     "https://www.plasticsurgery.org/news/articles/the-era-of-undetectable-work-why-men-are-seeking-subtle-refinement",
-     "2026-05-11"
-    ],
-    [
-     "Citizen Digital (AFP) · Men getting twice as much plastic surgery, new data shows",
-     "https://citizen.digital/article/men-getting-twice-as-much-plastic-surgery-new-data-shows",
-     "2026-01-29"
-    ],
-    [
-     "데일리팜 · 바이오헬스 3분기 누적 수출액 33조원 돌파 '역대 최대'",
-     "https://m.dailypharm.com/user/news/343842",
-     "2026-10-27"
-    ],
-    [
-     "The Korea Times · [WEEKENDER] Unknown at home, big abroad",
-     "https://www.koreatimes.co.kr/business/companies/20261031/weekender-unknown-at-home-big-abroad",
-     "2026-10-31"
     ]
    ]
   },
@@ -156,12 +114,21 @@
      "en": "weight-loss drugs reshaping aesthetics"
     },
     {
+     "ko": "AI 3D 얼굴 분석 상담",
+     "en": "AI 3D facial analysis consultations"
+    },
+    {
      "ko": "한-UAE CEPA",
      "en": "Korea–UAE CEPA"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-17",
    "sources": [
+    [
+     "Khaleej Times (KT Network) · Dubai clinic introduces AI-powered 3D facial analysis for aesthetic consultations",
+     "https://www.khaleejtimes.com/kt-network/dubai-clinic-introduces-ai-powered-3d-facial-analysis-for-aesthetic-consultations",
+     "2026-10-08"
+    ],
     [
      "The National · Dubai aesthetic clinics to face disciplinary action over edited social media images",
      "https://www.thenationalnews.com/news/uae/2026/09/03/dubai-aesthetic-clinics-to-face-disciplinary-action-over-edited-social-media-images/",
@@ -266,6 +233,63 @@
      "The Korea Times · Korea targets Mongolia's wealthy miners for its next big health care boom",
      "https://koreatimes.co.kr/lifestyle/travel-food/20260907/korea-targets-mongolias-wealthy-miners-for-its-next-big-health-care-boom",
      "2026-09-07"
+    ]
+   ]
+  },
+  "US": {
+   "keywords": [
+    {
+     "ko": "스킨 롱제비티",
+     "en": "skin longevity"
+    },
+    {
+     "ko": "롱제비티 효능 표현 검증",
+     "en": "scrutiny of longevity claims"
+    },
+    {
+     "ko": "올리브영 캘리포니아 매장 확장",
+     "en": "Olive Young California expansion"
+    },
+    {
+     "ko": "티 나지 않는 시술",
+     "en": "undetectable work"
+    },
+    {
+     "ko": "한국 화장품 대미 수출 증가",
+     "en": "rising Korean cosmetics exports to the US"
+    }
+   ],
+   "checked": "2026-11-17",
+   "sources": [
+    [
+     "Fortune · Longevity is the beauty industry's most powerful claim—and its weakest link",
+     "https://fortune.com/2026/11/11/beauty-longevity-skincare-claims-fda-ftc-loreal-estee-lauder-sindhya-valloppillil/",
+     "2026-11-11"
+    ],
+    [
+     "Dermatology Times · Skin Longevity Needs Evidence, Not Hype",
+     "https://www.dermatologytimes.com/view/skin-longevity-needs-evidence-not-hype",
+     "2026-10-20"
+    ],
+    [
+     "Personal Care Insights · Estée Lauder anchors portfolio-wide innovation in skin longevity science",
+     "https://www.personalcareinsights.com/news/estee-lauder-skin-longevity-platform.html",
+     "2026-11-09"
+    ],
+    [
+     "The Herald Business · CJ Olive Young to add 5 US stores by first half of next year, expanding into San Diego",
+     "https://mbiz.heraldcorp.com/article/10930022",
+     "2026-11-09"
+    ],
+    [
+     "American Society of Plastic Surgeons · The era of undetectable work: why men are seeking subtle refinement",
+     "https://www.plasticsurgery.org/news/articles/the-era-of-undetectable-work-why-men-are-seeking-subtle-refinement",
+     "2026-05-11"
+    ],
+    [
+     "데일리팜 · 바이오헬스 3분기 누적 수출액 33조원 돌파 '역대 최대'",
+     "https://m.dailypharm.com/user/news/343842",
+     "2026-10-27"
     ]
    ]
   }
