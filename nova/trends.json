@@ -1,69 +1,120 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-22",
  "country_trends": {
   "KR": {
    "keywords": [
     {
-     "ko": "슬로 에이징",
-     "en": "slow aging"
+     "ko": "K-약국 쇼핑",
+     "en": "K-pharmacy shopping"
     },
     {
-     "ko": "롱제비티 스킨케어",
-     "en": "longevity skincare"
+     "ko": "피부과 중심 의료관광",
+     "en": "dermatology-led medical tourism"
     },
     {
-     "ko": "남성 미용 시술",
-     "en": "men's aesthetic treatments"
+     "ko": "K-건강검진",
+     "en": "K-health checkups"
     },
     {
-     "ko": "바이오 코스메틱",
-     "en": "biocosmetics"
+     "ko": "GLP-1 시대 에스테틱",
+     "en": "GLP-1-era aesthetics"
     },
     {
-     "ko": "의료관광 친화 숙박시설",
-     "en": "medical-friendly accommodations"
+     "ko": "남성 피부 시술 공유",
+     "en": "men sharing skin procedures"
     },
     {
-     "ko": "의료관광 빅데이터",
-     "en": "medical-tourism big data"
+     "ko": "AI 가짜 전문가 광고 금지",
+     "en": "ban on AI fake-expert ads"
     }
    ],
-   "checked": "2026-11-17",
+   "checked": "2026-11-22",
    "sources": [
     [
-     "W Korea · 나에게 맞는 노화 설계",
-     "https://www.wkorea.com/?p=451024",
-     "2026-09-08"
+     "연합뉴스(파이낸셜뉴스) · 성형 수술대 대신 피부과·약국으로",
+     "https://fnnews.com/news/202610180635452079",
+     "2026-10-18"
     ],
     [
-     "하퍼스 바자 코리아 · 노화를 늦추는 루틴, 롱제비티 트렌드는 무엇?",
-     "https://www.harpersbazaar.co.kr/article/1901652",
-     "2026-04-27"
+     "The Korea Times · Pharmacies emerge as new K-beauty stops",
+     "https://koreatimes.co.kr/southkorea/society/20261024/pharmacies-emerge-as-new-k-beauty-stops-for-foreign-tourists",
+     "2026-10-24"
     ],
     [
-     "미주중앙일보(중앙일보 비크닉) · \"피부과 공유해주세요\"…남자들이 시술을 말하기 시작했다",
+     "머니투데이 · K인기 코스 된 건강검진",
+     "https://www.mt.co.kr/article/2026111316293697780",
+     "2026-11-15"
+    ],
+    [
+     "메디게이트뉴스 · GLP-1 시대 에스테틱 세미나",
+     "https://www.medigatenews.com/news/1279813006",
+     "2026-11-09"
+    ],
+    [
+     "코리아데일리 · 남자들이 시술을 말하기 시작했다",
      "https://www.koreadaily.com/article/20261109143801650",
      "2026-11-09"
     ],
     [
-     "The Herald Business · 'Biocosmetics' emerges as next growth engine for K-beauty",
-     "https://mbiz.heraldcorp.com/article/10927356",
-     "2026-11-05"
+     "코스인코리아 · AI 생성 가짜 전문가 부당광고 11월부터 금지",
+     "https://www.cosinkorea.com/mobile/article.html?no=57885",
+     "2026-07-17"
+    ]
+   ]
+  },
+  "US": {
+   "keywords": [
+    {
+     "ko": "아마존 K-뷰티 셀러 성장",
+     "en": "K-beauty sellers on Amazon"
+    },
+    {
+     "ko": "피부과 전문의 추천 스킨케어",
+     "en": "dermatologist-backed skincare"
+    },
+    {
+     "ko": "PDRN 크림",
+     "en": "PDRN cream"
+    },
+    {
+     "ko": "한국 약국 쇼핑",
+     "en": "Korean pharmacy shopping"
+    },
+    {
+     "ko": "한국 건강검진 여행",
+     "en": "health checkups in Korea"
+    }
+   ],
+   "checked": "2026-11-22",
+   "sources": [
+    [
+     "경향신문(영문) · How long can K-beauty last",
+     "https://www.khan.co.kr/en/article/202610271601087",
+     "2026-10-27"
     ],
     [
-     "Korea.net · Healing in Seoul: record 1.76M int'l patients hit capital in 2025",
-     "https://www.korea.net/NewsFocus/FoodTravel/view?articleId=302170",
-     "2026-11-03"
+     "BeautyMatter · Amazon's October Prime Event",
+     "https://beautymatter.com/articles/amazons-october-prime-big-deal-days-k-beauty",
+     "2026-11-08"
     ],
     [
-     "The Herald Business · Where do foreign patients go, what do they spend? Big data maps K-medical tourism",
-     "https://mbiz.heraldcorp.com/article/10922324",
-     "2026-11-02"
+     "The Korea Times · Pharmacies emerge as new K-beauty stops",
+     "https://koreatimes.co.kr/southkorea/society/20261024/pharmacies-emerge-as-new-k-beauty-stops-for-foreign-tourists",
+     "2026-10-24"
+    ],
+    [
+     "Korea Herald via ANN · More foreigners seek health screenings in South Korea",
+     "https://asianews.network/more-foreigners-seek-health-screenings-in-south-korea/",
+     "2026-11-17"
     ]
    ]
   },
   "CA": {
    "keywords": [
+    {
+     "ko": "한국 건강검진 여행",
+     "en": "health checkups in Korea"
+    },
     {
      "ko": "드럭스토어 K-뷰티 입점",
      "en": "K-beauty in drugstores"
@@ -75,74 +126,61 @@
     {
      "ko": "화장품 신고(CNF)",
      "en": "Cosmetic Notification Form"
-    },
-    {
-     "ko": "향 알레르겐 표시",
-     "en": "fragrance allergen labelling"
-    },
-    {
-     "ko": "코스트코 K-뷰티",
-     "en": "K-beauty at Costco"
     }
    ],
-   "checked": "2026-11-10",
+   "checked": "2026-11-19",
    "sources": [
+    [
+     "Korea Herald via ANN · More foreigners seek health screenings in South Korea",
+     "https://asianews.network/more-foreigners-seek-health-screenings-in-south-korea/",
+     "2026-11-17"
+    ],
     [
      "The Korea Times · APR's Medicube enters Canada's largest drugstore chain",
      "https://www.koreatimes.co.kr/business/companies/20261104/aprs-medicube-enters-canadas-largest-drugstore-chain",
      "2026-11-04"
-    ],
-    [
-     "NielsenIQ · K-Beauty in Canada: From niche trend to strategic growth engine",
-     "https://nielseniq.com/global/en/insights/analysis/2026/k-beauty-in-canada-from-niche-trend-to-strategic-growth-engine/",
-     "2026-05-05"
     ]
    ]
   },
   "AE": {
    "keywords": [
     {
-     "ko": "DHA 의료광고 회람",
-     "en": "DHA medical advertising circular"
-    },
-    {
-     "ko": "보정 없는 비포·애프터 원칙",
-     "en": "unedited before-and-after rule"
-    },
-    {
      "ko": "체중감량 약물과 미용 수요 변화",
      "en": "weight-loss drugs reshaping aesthetics"
     },
     {
-     "ko": "AI 3D 얼굴 분석 상담",
-     "en": "AI 3D facial analysis consultations"
+     "ko": "필러 수요 감소",
+     "en": "falling filler demand"
     },
     {
-     "ko": "한-UAE CEPA",
-     "en": "Korea–UAE CEPA"
+     "ko": "체중 감량 후 교정 시술",
+     "en": "post-weight-loss corrective procedures"
+    },
+    {
+     "ko": "DHA 의료광고 회람",
+     "en": "DHA medical advertising circular"
     }
    ],
-   "checked": "2026-11-17",
+   "checked": "2026-11-22",
    "sources": [
     [
-     "Khaleej Times (KT Network) · Dubai clinic introduces AI-powered 3D facial analysis for aesthetic consultations",
-     "https://www.khaleejtimes.com/kt-network/dubai-clinic-introduces-ai-powered-3d-facial-analysis-for-aesthetic-consultations",
-     "2026-10-08"
+     "The National · Cosmetic surgery sees slump as weight-loss drugs prove cheaper and simpler",
+     "https://www.thenationalnews.com/news/uae/2026/10/28/how-weight-loss-drugs-are-reshaping-demand-for-cosmetic-surgery",
+     "2026-10-28"
     ],
     [
      "The National · Dubai aesthetic clinics to face disciplinary action over edited social media images",
      "https://www.thenationalnews.com/news/uae/2026/09/03/dubai-aesthetic-clinics-to-face-disciplinary-action-over-edited-social-media-images/",
      "2026-09-03"
-    ],
-    [
-     "The National · Cosmetic surgery sees slump as weight-loss drugs prove cheaper and simpler",
-     "https://thenationalnews.com/news/uae/2026/10/28/how-weight-loss-drugs-are-reshaping-demand-for-cosmetic-surgery",
-     "2026-10-28"
     ]
    ]
   },
   "SG": {
    "keywords": [
+    {
+     "ko": "서울 약국 쇼핑",
+     "en": "Seoul pharmacy shopping"
+    },
     {
      "ko": "올리브영 x 세포라 팝업",
      "en": "Olive Young x Sephora pop-up"
@@ -152,23 +190,24 @@
      "en": "HSA cosmetic testing and recalls"
     },
     {
-     "ko": "공식 판매처 구매",
-     "en": "buying from authorized retailers"
-    },
-    {
      "ko": "PDRN 크림",
      "en": "PDRN cream"
     }
    ],
-   "checked": "2026-11-08",
+   "checked": "2026-11-22",
    "sources": [
+    [
+     "The Korea Times · Pharmacies emerge as new K-beauty stops (Singapore tourists cited)",
+     "https://koreatimes.co.kr/southkorea/society/20261024/pharmacies-emerge-as-new-k-beauty-stops-for-foreign-tourists",
+     "2026-10-24"
+    ],
     [
      "Alvinology · OLIVE YOUNG Brings K-Beauty Edit Pop-Up to ION Orchard with Sephora Singapore",
      "https://alvinology.com/2026/10/09/olive-young-brings-k-beauty-edit-pop-up-to-ion-orchard-with-sephora-singapore/",
      "2026-10-09"
     ],
     [
-     "HSA · HSA Tests Product Samples of Medicube PDRN Pink Collagen Capsule Cream for Presence of Sudan Red Dyes",
+     "HSA · HSA Tests Product Samples of Medicube PDRN Pink Collagen Capsule Cream",
      "https://www.hsa.gov.sg/announcements/hsa-tests-product-samples-of-medicube-pdrn-pink-collagen-capsule-cream-for-presence-of-sudan-red-dyes/",
      "2026-08"
     ]
@@ -201,7 +240,7 @@
      "2026-10-29"
     ],
     [
-     "Medianet · Dr Tass on what tightening cosmetic prescribing rules mean for patients using online or telehealth providers",
+     "Medianet · Dr Tass on what tightening cosmetic prescribing rules mean for patients",
      "https://newshub.medianet.com.au/2026/10/dr-tass-on-what-tightening-cosmetic-prescribing-rules-mean-for-patients-using-online-or-telehealth-providers/176966/",
      "2026-10"
     ]
@@ -210,86 +249,29 @@
   "MN": {
    "keywords": [
     {
-     "ko": "한국 의료관광",
-     "en": "medical travel to Korea"
+     "ko": "한국 건강검진",
+     "en": "health checkups in Korea"
+    },
+    {
+     "ko": "몽골어 통역 검진",
+     "en": "Mongolian-language checkup support"
     },
     {
      "ko": "광업 도시 대상 의료관광 홍보",
      "en": "medical-tourism outreach to mining cities"
-    },
-    {
-     "ko": "건강검진 패키지",
-     "en": "health check-up packages"
     }
    ],
-   "checked": "2026-11-15",
+   "checked": "2026-11-19",
    "sources": [
     [
-     "The Asia Business Daily · Mongolian Medical Tourists Spend KRW 9.88 Million Each... Korea Tourism Organization Targets Mining Cities",
-     "https://view.asiae.co.kr/en/article/2026090722195539931",
-     "2026-09-07"
+     "머니투데이 · K인기 코스 된 건강검진",
+     "https://www.mt.co.kr/article/2026111316293697780",
+     "2026-11-15"
     ],
     [
      "The Korea Times · Korea targets Mongolia's wealthy miners for its next big health care boom",
      "https://koreatimes.co.kr/lifestyle/travel-food/20260907/korea-targets-mongolias-wealthy-miners-for-its-next-big-health-care-boom",
      "2026-09-07"
-    ]
-   ]
-  },
-  "US": {
-   "keywords": [
-    {
-     "ko": "스킨 롱제비티",
-     "en": "skin longevity"
-    },
-    {
-     "ko": "롱제비티 효능 표현 검증",
-     "en": "scrutiny of longevity claims"
-    },
-    {
-     "ko": "올리브영 캘리포니아 매장 확장",
-     "en": "Olive Young California expansion"
-    },
-    {
-     "ko": "티 나지 않는 시술",
-     "en": "undetectable work"
-    },
-    {
-     "ko": "한국 화장품 대미 수출 증가",
-     "en": "rising Korean cosmetics exports to the US"
-    }
-   ],
-   "checked": "2026-11-17",
-   "sources": [
-    [
-     "Fortune · Longevity is the beauty industry's most powerful claim—and its weakest link",
-     "https://fortune.com/2026/11/11/beauty-longevity-skincare-claims-fda-ftc-loreal-estee-lauder-sindhya-valloppillil/",
-     "2026-11-11"
-    ],
-    [
-     "Dermatology Times · Skin Longevity Needs Evidence, Not Hype",
-     "https://www.dermatologytimes.com/view/skin-longevity-needs-evidence-not-hype",
-     "2026-10-20"
-    ],
-    [
-     "Personal Care Insights · Estée Lauder anchors portfolio-wide innovation in skin longevity science",
-     "https://www.personalcareinsights.com/news/estee-lauder-skin-longevity-platform.html",
-     "2026-11-09"
-    ],
-    [
-     "The Herald Business · CJ Olive Young to add 5 US stores by first half of next year, expanding into San Diego",
-     "https://mbiz.heraldcorp.com/article/10930022",
-     "2026-11-09"
-    ],
-    [
-     "American Society of Plastic Surgeons · The era of undetectable work: why men are seeking subtle refinement",
-     "https://www.plasticsurgery.org/news/articles/the-era-of-undetectable-work-why-men-are-seeking-subtle-refinement",
-     "2026-05-11"
-    ],
-    [
-     "데일리팜 · 바이오헬스 3분기 누적 수출액 33조원 돌파 '역대 최대'",
-     "https://m.dailypharm.com/user/news/343842",
-     "2026-10-27"
     ]
    ]
   }
