@@ -1,863 +1,395 @@
 {
- "version": 2,
- "note": "노바 편집실 — 관리자 검토 전 원고와 트렌드 후보. 홈페이지에 자동 게시되지 않습니다.",
- "drafts": [
-  {
-   "id": "2026-10-skin-first-makeup",
-   "category": "kbeauty",
-   "read_min": 3,
-   "title_ko": "메이크업도 스킨케어처럼, 2026 K-뷰티는 '피부'부터",
-   "title_en": "Makeup that cares like skincare: K-beauty's skin-first year",
-   "summary_ko": "가리는 화장에서 돌보는 화장으로. 올리브영이 꼽은 2026 키워드로 달라진 메이크업의 기준을 읽어 봅니다.",
-   "summary_en": "From covering up to caring for skin: what Olive Young's 2026 keywords say about the new makeup standard.",
-   "body_ko": "요즘 한국에서는 파운데이션이나 쿠션을 고를 때도 '보습', '진정', '장벽' 같은 스킨케어 단어를 함께 살피는 사람이 늘고 있습니다. CJ올리브영은 2026 트렌드 전망에서 메이크업을 스킨케어의 연장으로 보는 '스킨케어 메이크업'을 주요 흐름으로 꼽았습니다. 실제로 올리브영 메이크업 카테고리에서 진정·장벽·보습 같은 스킨케어 검색어는 전년보다 150% 넘게 늘었다고 합니다.\n\n관심의 중심이 '얼마나 가리느냐'에서 '피부 컨디션'으로 옮겨 가고 있는 셈입니다. 올리브영은 특정 피부 고민을 겨냥하고 자연 유래 성분을 내세우는 경우가 많은 '더마 셰이드', 메이크업 위에 덧바르거나 함께 쓰는 스킨케어 제품을 뜻하는 '오버 더 메이크업'도 함께 주목했습니다. 여러 단계를 겹겹이 바르는 'K-레이어링 루틴' 역시 올해의 키워드에 이름을 올렸습니다.\n\n이 흐름을 일상에 들이는 방법은 어렵지 않습니다. 메이크업 전에는 보습을 충분히 하고, 베이스 제품은 커버력보다 그날의 피부 상태에 맞는 제형으로 골라 보세요. 오후에 피부가 건조하게 느껴진다면 메이크업 위에 가볍게 보습을 더해 주는 것도 방법입니다. 새 제품은 작은 부위에 먼저 써 보고, 자극이 계속된다면 전문가와 상담하시길 권합니다.\n\n좋은 피부는 하루아침에 만들어지지 않습니다. 2026년의 K-뷰티는 화장하는 시간마저 피부를 돌보는 시간으로 바꾸고 있습니다.",
-   "body_en": "In Korea, more shoppers are now looking for skincare words such as hydration, soothing and barrier even when choosing a foundation or cushion. In its 2026 trend outlook, CJ Olive Young named \"skincare makeup\" (makeup treated as an extension of skincare) as a leading shift, reporting that searches for skincare terms such as soothing, barrier and moisture within its makeup category rose by more than 150% year on year.\n\nThe focus is moving from coverage to skin condition. Olive Young also highlights \"derma shades\", makeup aimed at specific skin concerns and often made with natural ingredients, and \"over the makeup\", skincare products worn over or alongside makeup. The layered K-routine also makes its list of keywords for the year.\n\nBringing this into your own routine is simple. Moisturise well before makeup, and choose a base for how your skin feels today rather than for maximum coverage. If your skin feels dry by the afternoon, a light hydrating layer over makeup can help it feel more comfortable. Patch-test new products on a small area first, and if irritation persists, consult a professional.\n\nGood skin is never built overnight. In 2026, K-beauty is turning the time spent on makeup into time spent caring for your skin.",
-   "written": "2026-10-25",
-   "sources": [
-    [
-     "Personal Care Insights · Olive Young reveals K-Beauty trends for 2026 (2025-12-19)",
-     "https://www.personalcareinsights.com/news/olive-young-k-beauty-trends.html"
-    ]
-   ],
-   "cover": "nova/covers/2026-10-skin-first-makeup.webp",
-   "countries": [],
-   "medical_review": false,
-   "cta": "none"
-  },
-  {
-   "id": "2026-10-simple-sleep",
-   "category": "wellaging",
-   "read_min": 3,
-   "title_ko": "덜 재고, 더 편히 자기",
-   "title_en": "Measure less, rest better",
-   "summary_ko": "완벽한 잠을 좇는 '슬립맥싱' 대신 단순한 습관과 잠자리 환경으로. 2026 수면 트렌드를 정리했습니다.",
-   "summary_en": "Beyond \"sleepmaxxing\": the 2026 shift towards simple habits and a better sleep environment.",
-   "body_ko": "수면 앱과 웨어러블 기기로 잠을 측정하고 최적화해 '완벽한 잠'을 만들려는 흐름을 해외에서는 '슬립맥싱(sleepmaxxing)'이라고 부릅니다. 그런데 글로벌웰니스연구소(GWI)가 꼽은 2026년 수면 트렌드에는 이와 반대되는 '단순함'의 흐름도 담겨 있습니다. GWI는 수면 점수에 지나치게 매달리는 '오소솜니아(orthosomnia)'가 오히려 잠을 해칠 수 있다고 지적하며, 수면 데이터는 매일 들여다보기보다 생활 패턴을 파악하는 용도로 활용하는 편이 낫다고 봅니다.\n\n대신 눈여겨볼 것은 잠자는 환경입니다. GWI는 침실의 온도, 공기 질, 빛, 소음, 침구까지 수면을 위해 설계하는 '슬립 바이 디자인'을 주요 흐름으로 소개했습니다. 저녁 시간의 인공조명이 수면과 관련된 호르몬인 멜라토닌 분비를 억제한다는 2011년 연구도 함께 언급됩니다. 해가 뜨듯 서서히 밝아지는 알람이나 광치료처럼, 몸의 리듬을 챙기는 '서카디언(생체리듬) 건강'도 이제 일상 웰니스의 일부가 되었습니다.\n\n오늘 밤부터 해볼 수 있는 것들도 있습니다. 잠들기 한 시간 전에는 조명을 은은하게 낮추고 화면을 멀리해 보세요. 침실은 서늘하고 조용하게, 아침에는 커튼을 열어 햇빛을 들이세요. 충분히 자도 피로가 계속되거나 코골이가 심하다면 기록에만 기대지 말고 전문의와 상담해 보시길 권합니다.\n\n좋은 잠은 더 많은 기술이 아니라, 조금 더 편안하게 하루를 마무리하는 데서 시작됩니다.",
-   "body_en": "Sleep apps, wearables and nightly scores: the pursuit of perfect sleep has a name, \"sleepmaxxing\". Yet the Global Wellness Institute's sleep trends for 2026 also point towards simplicity. GWI notes that obsessing over sleep scores, known as orthosomnia, can itself make sleep worse, and suggests using sleep data to recognise patterns rather than monitoring it constantly.\n\nAttention is shifting to the bedroom itself. GWI highlights \"sleep by design\": shaping temperature, air quality, light, noise and bedding around rest. It also points to a 2011 study finding that artificial light in the evening suppresses melatonin, a hormone involved in regulating sleep. Circadian health, from sunrise alarms to light therapy, has moved into the mainstream of everyday wellness.\n\nA few things you can try tonight: dim the lights and put screens away an hour before bed. Keep the bedroom cool and quiet, and open the curtains to daylight in the morning. If you still feel tired after a full night's sleep, or snore heavily, don't rely on your tracker alone. Speak to a doctor.\n\nGood sleep doesn't start with more technology. It starts with a gentler end to the day.",
-   "written": "2026-10-25",
-   "sources": [
-    [
-     "Global Wellness Institute · Sleep Initiative Trends for 2026 (2026-03-30)",
-     "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/03/30/sleep-initiative-trends-for-2026"
-    ]
-   ],
-   "cover": "nova/covers/2026-10-simple-sleep.webp",
-   "countries": [],
-   "medical_review": false,
-   "cta": "none"
-  },
-  {
-   "id": "2026-10-korea-medical-travel",
-   "category": "medical",
-   "read_min": 4,
-   "title_ko": "외국인 환자 200만 명 시대, 한국 의료관광 준비 체크리스트",
-   "title_en": "Two million foreign patients: a checklist for medical travel to Korea",
-   "summary_ko": "2025년 한국을 찾은 외국인 환자가 처음으로 200만 명을 넘었습니다. 떠나기 전 확인할 것들을 정리했습니다.",
-   "summary_en": "In 2025, the number of foreign patients visiting Korea passed two million for the first time. Here is what to check before you go.",
-   "body_ko": "보건복지부 집계에 따르면 2025년 한국을 찾은 외국인 환자는 약 201만 명으로, 관련 통계를 내기 시작한 2009년 이후 처음으로 200만 명을 넘어섰습니다. 2024년 약 117만 명에서 크게 늘었고, 환자들의 국적은 201개국에 이릅니다. 진료과별로는 피부과가 62% 이상으로 가장 많았고, 성형외과(11.2%)와 내과(9.2%)가 뒤를 이었습니다.\n\n한국을 찾는 사람이 많아진 만큼 꼼꼼한 준비는 더 중요해졌습니다. 해외에서 한국 병원을 알아볼 때 확인해 두면 좋은 다섯 가지를 정리했습니다.\n\n첫째, 누구와 상담하는지 확인하세요. 한국에서는 외국인 환자를 유치하는 의료기관과 유치업자가 의료법에 따라 정부에 등록해야 합니다. 상담을 맡은 곳이 등록된 기관인지 먼저 확인하세요.\n둘째, 시술이나 치료는 반드시 의료진과 직접 상담한 뒤 결정하세요. 결과를 장담하거나 지나치게 낮은 가격을 앞세우는 광고는 주의해야 합니다.\n셋째, 일정에 회복 기간을 넉넉히 넣으세요. 시술 직후 장거리 비행이 괜찮은지도 미리 의료진에게 물어보세요.\n넷째, 통역과 소통 방법을 미리 정해 두세요. 상담 내용과 주의 사항을 내 언어로 정확히 이해하는 것이 무엇보다 중요합니다.\n다섯째, 귀국 후 연락 방법을 확인하세요. 회복 중 궁금한 점이 생겼을 때 병원과 어떻게 연락할 수 있는지 알아 두면 한결 안심이 됩니다.\n\n좋은 의료관광은 출국 전 준비에서 시작해 귀국 후 관리까지 이어집니다.",
-   "body_en": "According to Korea's Ministry of Health and Welfare, about 2.01 million foreign patients visited Korea in 2025, passing two million for the first time since records began in 2009. That is up from about 1.17 million in 2024, with patients coming from 201 countries. Dermatology accounted for more than 62% of patients, followed by plastic surgery (11.2%) and internal medicine (9.2%).\n\nWith more people travelling for care, careful preparation matters more than ever. Here are five things worth checking before you book.\n\n1. Check who you are dealing with. Under Korea's Medical Service Act, medical institutions and facilitators that attract foreign patients must register with the government. Confirm that whoever is handling your consultation is registered.\n2. Decide on any procedure or treatment only after consulting the medical team directly. Be wary of ads that promise results or lead with unusually low prices.\n3. Build recovery time into your trip, and ask your doctor in advance whether a long-haul flight is advisable soon after treatment.\n4. Arrange interpretation and communication in advance. Clearly understanding your consultation and aftercare instructions, in your own language, is essential.\n5. Find out how to reach the clinic once you are home, so you know where to turn if questions come up during recovery.\n\nGood medical travel starts with preparation before you leave and continues with care after you return.",
-   "written": "2026-10-25",
-   "sources": [
-    [
-     "Korea JoongAng Daily · Number of foreign patients top 2 million for first time in 2025 (2026-04-24)",
-     "https://www.koreajoongangdaily.com/business/number-of-foreign-patients-top-2-million-for-first-time-in-2025/12585928"
-    ]
-   ],
-   "cover": "nova/covers/2026-10-korea-medical-travel.webp",
-   "countries": [
-    "KR"
-   ],
-   "medical_review": true,
-   "cta": "none"
-  },
-  {
-   "id": "2026-11-canada-kbeauty-holiday",
-   "category": "kbeauty",
-   "countries": [
-    "CA",
-    "KR"
-   ],
-   "read_min": 6,
-   "title_ko": "연말 8주가 1년의 4분의 1, 캐나다 K-뷰티 진열대에 오르기 전 확인할 것",
-   "title_en": "A quarter of the year in eight weeks: what to check before K-beauty hits Canadian shelves",
-   "summary_ko": "캐나다 K-뷰티가 온라인을 넘어 드럭스토어와 창고형 매장으로 넓어지고 있습니다. 연간 매출의 4분의 1 가까이가 몰리는 연말 성수기를 앞두고, 화장품 신고와 새 향 알레르겐 표시 등 브랜드·바이어가 먼저 챙길 점을 정리했습니다.",
-   "summary_en": "K-beauty in Canada is moving beyond online into drugstores and warehouse clubs. Ahead of the holiday peak, when nearly a quarter of annual sales happen, here is what brands and buyers should check first, from cosmetic notifications to the new fragrance allergen labels.",
-   "key_points_ko": [
-    "닐슨IQ 기준 2025년 캐나다 K-뷰티 매출은 1억 6,400만 달러로 57% 늘었다",
-    "한 K-뷰티 브랜드가 10월 캐나다 최대 드럭스토어 체인 약 1,300개 전 매장에 입점하는 등 유통이 넓어지고 있다",
-    "연간 매출의 4분의 1 가까이가 크리스마스 전 8주에 발생한다",
-    "캐나다에서는 첫 판매 후 10일 이내 화장품 신고가 필요하다",
-    "2026년 4월부터 향 알레르겐 표시 의무가 단계적으로 시행되고 있다"
-   ],
-   "key_points_en": [
-    "NielsenIQ put K-beauty sales in Canada at $164 million in 2025, up 57%",
-    "Distribution is widening: one K-beauty brand completed a rollout to all of roughly 1,300 stores of Canada's largest drugstore chain in October",
-    "Nearly a quarter of annual sales happen in the eight weeks before Christmas",
-    "Canada requires a cosmetic notification within 10 days of first sale",
-    "Fragrance allergen labelling has been phasing in since April 2026"
-   ],
-   "body_ko": "연말이 다가오면 캐나다의 뷰티 매장은 선물 세트로 채워집니다. 올해는 그 진열대에서 K-뷰티를 찾기가 한결 쉬워졌습니다. 온라인과 전문 편집숍 중심이던 한국 화장품이 드럭스토어와 창고형 매장까지 넓게 들어가고 있기 때문입니다. 그렇다면 지금 캐나다 시장을 두드리려는 브랜드와 바이어는 무엇부터 준비해야 할까요?\n\n## 드럭스토어와 창고형 매장으로 넓어지는 K-뷰티\n\n코리아타임스는 11월 4일, 에이피알의 메디큐브가 10월 캐나다 최대 드럭스토어 체인 쇼퍼스 드럭 마트의 약 1,300개 전 매장에 입점을 마쳤다고 보도했습니다. 같은 보도에 따르면 이 브랜드는 11월 코스트코 캐나다 판매도 앞두고 있습니다.\n\n눈여겨볼 대목은 채널의 변화입니다. 닐슨IQ가 분석한 2025년 캐나다 K-뷰티 매출은 1억 6,400만 달러로 전년보다 57% 늘었습니다. 이때만 해도 온라인 비중이 40%를 넘었고, 아마존과 세포라가 K-뷰티 지출의 40% 가까이를 차지했으며, 드럭스토어의 역할은 제한적이었습니다. 이제 그 드럭스토어가 새로운 무대가 되고 있습니다.\n\n## 연말 8주가 1년의 4분의 1\n\n닐슨IQ는 캐나다 K-뷰티 연간 매출의 4분의 1 가까이가 크리스마스 전 8주 동안 발생하며, 그 비중이 해마다 커지고 있다고 분석했습니다. 지금이 바로 그 시기입니다.\n\n닐슨IQ가 그린 구매자 모습도 구체적입니다.\n\n- **연령:** 18~44세, 특히 밀레니얼과 Z세대에서 구매가 두드러집니다.\n- **지역:** 온타리오와 브리티시컬럼비아에 집중되어 있고, 퀘벡은 아직 평균보다 낮습니다.\n- **성장 동력:** 가격 인상보다 유통 확대가 성장을 이끌었습니다.\n\n닐슨IQ는 연말 선물 세트와 루틴 키트, 피부 장벽·민감 피부 같은 메시지, 합리적인 가격을 기회로 꼽았습니다.\n\n> 성수기의 진열대는 빨리 열리지만, 서류가 준비되지 않은 제품에는 열리지 않습니다.\n\n## 진열 전에 확인할 캐나다의 규칙\n\n캐나다에서 화장품을 판매하는 제조사와 수입사는 처음 판매한 날로부터 10일 이내에 캐나다 보건부에 화장품 신고(Cosmetic Notification Form)를 해야 합니다. 신고하지 않으면 그 기간이 지난 뒤에는 판매할 수 없습니다. 신고에는 제품명, 제조·수입 정보, 사용 부위와 기능, 제형, 그리고 각 성분과 농도가 들어가며, 수수료는 없습니다. 처방이나 제품명, 회사 정보가 바뀌면 10일 이내에 수정 신고를 해야 합니다.\n\n올해 새로 시작된 것도 있습니다. 바로 향 알레르겐 표시입니다.\n\n- **표시 기준:** 씻어 내지 않는 제품은 0.001%, 씻어 내는 제품은 0.01%를 넘는 알레르겐을 성분 목록에 표시해야 합니다.\n- **2026년 4월 12일부터:** 신규·기존 제품 모두 1차 목록 24종을 표시합니다.\n- **2026년 8월 1일부터:** 신규 제품은 81종 전체를 표시합니다. 기존 제품은 2028년 8월 1일까지입니다.\n- **집행 일정:** 2027년 4월 11일까지는 교육·안내 중심, 4월 12일부터는 위험 기반 집행 단계로 넘어갑니다.\n\n캐나다 보건부는 3월, 신고서에 향 알레르겐의 농도를 적는 것을 대부분 선택 사항으로 바꿨습니다. 다만 신고서에 성분으로 기재해야 하고, 라벨 표시 기준은 그대로입니다.\n\n## 브랜드와 바이어를 위한 체크리스트\n\n- **책임 주체 정하기:** 누가 캐나다 수입사로서 신고와 수정 신고를 맡는지 계약 단계에서 정해 두세요.\n- **라벨 다시 보기:** 한국 라벨을 그대로 쓰지 말고, 향 알레르겐 표시와 문의처 정보, 영어·프랑스어 표기를 함께 점검하세요. 퀘벡 공략을 생각한다면 더욱 중요합니다.\n- **품목 분류 확인:** 자외선 차단 제품은 캐나다에서 별도의 자외선 차단제 기준을 따릅니다. 일반 화장품과 같은 방식으로 들여올 수 있는지 먼저 확인하세요.\n- **표현은 화장품답게:** 화장품은 피부를 가꾸는 제품입니다. 치료나 재생을 약속하는 문구는 화장품의 범위를 벗어날 수 있으니 판매 국가 기준으로 검토하세요.\n- **세트 구성도 서류부터:** 연말 세트나 키트를 새로 꾸릴 때도 구성 제품마다 신고와 라벨 요건을 갖췄는지 확인하세요.\n\n## 한눈에 정리\n\n- 2025년 캐나다 K-뷰티 매출은 닐슨IQ 기준 57% 늘었고, 이제 드럭스토어와 창고형 매장으로 유통이 넓어지고 있습니다.\n- 연간 매출의 4분의 1 가까이가 크리스마스 전 8주에 몰립니다.\n- 캐나다에서는 첫 판매 후 10일 이내 화장품 신고가 필요합니다.\n- 2026년부터 향 알레르겐 표시 의무가 단계적으로 시행되고 있습니다.\n\n## 라벨르엘비와 함께\n\n라벨르엘비는 K-뷰티 브랜드와 캐나다를 포함한 북미·중동·아시아의 유통 파트너를 잇는 협업 상담을 진행합니다. 진출하려는 채널과 제품 정보를 알려 주시면, 신고와 라벨처럼 먼저 확인해야 할 항목부터 함께 정리해 드립니다. 규제는 바뀔 수 있으므로 최종 판단 전에는 캐나다 보건부의 최신 안내나 현지 규제 전문가의 확인을 받으시기 바랍니다.",
-   "body_en": "As the holidays approach, Canadian beauty aisles fill up with gift sets. This year, K-beauty is far easier to find on those shelves. Korean skincare, once bought mainly online or at specialist retailers, is now moving into drugstores and warehouse clubs. So what should brands and buyers eyeing Canada get ready first?\n\n## K-beauty moves into drugstores and warehouse clubs\n\nOn November 4, The Korea Times reported that APR's Medicube brand had completed its rollout to all of Shoppers Drug Mart's roughly 1,300 stores in October. Shoppers is Canada's largest drugstore chain. According to the same report, the brand is also due to go on sale at Costco in Canada in November.\n\nThe channel shift is the real story. NielsenIQ put K-beauty sales in Canada at $164 million in 2025, up 57% from the year before. At that point, online made up more than 40% of K-beauty sales, Amazon and Sephora together accounted for nearly 40% of spending, and drugstores played only a limited role. Now drugstores are becoming a new stage.\n\n## Eight weeks, a quarter of the year\n\nNielsenIQ found that nearly a quarter of annual K-beauty sales in Canada happen in the eight weeks before Christmas, and that this share is growing. That window is now open.\n\nNielsenIQ's picture of the shopper is specific:\n\n- **Age:** Purchases over-index among 18- to 44-year-olds, especially Millennials and Gen Z.\n- **Region:** Buyers are concentrated in Ontario and British Columbia, while Québec still under-indexes.\n- **Growth driver:** Wider distribution, rather than price increases, drove growth.\n\nNielsenIQ points to holiday gift sets and routine kits, messaging around skin barrier and sensitivity, and fair pricing as the opportunities.\n\n> Shelves open quickly in peak season, but not for products whose paperwork is not ready.\n\n## Canada's rules before the shelf\n\nManufacturers and importers that sell cosmetics in Canada must file a Cosmetic Notification Form with Health Canada within 10 days of first sale. If they do not, the product cannot be sold after that period. The form covers the product name, manufacturing and import details, where the product is applied and what it does, its physical form, and every ingredient with its concentration. There is no fee. If the formula, product name or company details change, an updated notification is due within 10 days.\n\nOne requirement is new this year: fragrance allergen labelling.\n\n- **Thresholds:** Allergens above 0.001% in leave-on products and 0.01% in rinse-off products must appear in the ingredient list.\n- **From April 12, 2026:** New and existing products must disclose the 24 allergens on List 1.\n- **From August 1, 2026:** New products must disclose all 81 allergens. Existing products have until August 1, 2028.\n- **Enforcement:** Until April 11, 2027, Health Canada is focusing on education and guidance. From April 12, 2027, it moves to risk-based enforcement.\n\nIn March, Health Canada made reporting the concentration of most fragrance allergens on the notification form optional. The allergens still have to be listed as ingredients on the form, and the labelling thresholds are unchanged.\n\n## A checklist for brands and buyers\n\n- **Name who is responsible:** Agree at the contract stage on who acts as the Canadian importer and handles notifications and updates.\n- **Revisit the label:** Do not simply reuse the Korean label. Check fragrance allergen disclosure, consumer contact details, and English and French labelling, especially if Québec is part of the plan.\n- **Confirm the category:** Sunscreens follow Canada's own sunscreen standards. Check first whether a product can be brought in the same way as an ordinary cosmetic.\n- **Keep claims cosmetic:** Cosmetics care for the skin. Wording that promises to treat or regenerate may fall outside the cosmetic category, so review claims against the destination's rules.\n- **Paperwork first, even for sets:** When building new holiday sets or kits, confirm that every product inside meets notification and labelling requirements.\n\n## Key takeaways\n\n- K-beauty sales in Canada grew 57% in 2025, according to NielsenIQ, and distribution is now widening into drugstores and warehouse clubs.\n- Nearly a quarter of annual sales fall in the eight weeks before Christmas.\n- Canada requires a cosmetic notification within 10 days of first sale.\n- Fragrance allergen labelling requirements are being phased in from 2026.\n\n## Working with La Belle LB\n\nLa Belle LB connects K-beauty brands with distribution partners across North America, including Canada, as well as the Middle East and Asia. Tell us which channels and products you have in mind, and we will help you map out what to check first, from notifications to labels. Regulations can change, so always confirm the latest guidance with Health Canada or a local regulatory expert before making a final decision.",
-   "seo": {
-    "title_ko": "캐나다 K-뷰티 연말 성수기, 화장품 신고·향 알레르겐 표시 체크",
-    "title_en": "Selling K-beauty in Canada this holiday season: notification and allergen labels",
-    "desc_ko": "캐나다 K-뷰티 매출이 57% 늘며 드럭스토어로 유통이 넓어지고 있습니다. 연말 성수기 전 브랜드·바이어가 확인할 화장품 신고, 향 알레르겐 표시, 라벨 체크리스트를 정리했습니다.",
-    "desc_en": "K-beauty sales in Canada grew 57% and are moving into drugstores. Before the holiday peak, check cosmetic notification, fragrance allergen labelling and label requirements.",
-    "keywords": [
-     "캐나다 K-뷰티",
-     "캐나다 화장품 수출",
-     "캐나다 화장품 신고",
-     "향 알레르겐 표시",
-     "K-뷰티 유통",
-     "K-beauty Canada",
-     "Cosmetic Notification Form",
-     "Health Canada fragrance allergens",
-     "K-beauty distribution",
-     "Canada beauty holiday season"
-    ]
-   },
-   "cta": "partnership",
-   "medical_review": false,
-   "sources": [
-    [
-     "The Korea Times · APR's Medicube enters Canada's largest drugstore chain (2026-11-04)",
-     "https://www.koreatimes.co.kr/business/companies/20261104/aprs-medicube-enters-canadas-largest-drugstore-chain",
-     "2026-11-10"
-    ],
-    [
-     "NielsenIQ · K-Beauty in Canada: From niche trend to strategic growth engine (2026-05-05)",
-     "https://nielseniq.com/global/en/insights/analysis/2026/k-beauty-in-canada-from-niche-trend-to-strategic-growth-engine/",
-     "2026-11-10"
-    ],
-    [
-     "Health Canada · Notification of Cosmetics (modified 2026-04-02)",
-     "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/notification-cosmetics.html",
-     "2026-11-10"
-    ],
-    [
-     "ChemLinked · Canada Implements Phased Compliance for Fragrance Allergen Labeling in Cosmetics",
-     "https://cosmetic.chemlinked.com/news/cosmetic-news/canada-implements-phased-compliance-for-fragrance-allergen-labeling-in-cosmetics",
-     "2026-11-10"
-    ],
-    [
-     "ChemLinked · Canada to Ease Fragrance Allergen Concentration Reporting on Cosmetic Notification Forms (2026-03-11)",
-     "https://cosmetic.chemlinked.com/news/cosmetic-news/canada-to-ease-fragrance-allergen-concentration-reporting-on-cosmetic-notification-forms",
-     "2026-11-10"
-    ],
-    [
-     "dsm-firmenich · PARSOL Shield now approved for all sunscreen products by Health Canada (2026-02-25)",
-     "https://www.dsm-firmenich.com/en/businesses/perfumery-beauty/beauty-care/press-releases/2026/parsol-shield-now-approved-for-all-sunscreen-products-by-health-canada-a-new-era-of-sun-protection.html",
-     "2026-11-10"
-    ]
-   ],
-   "trend": {
-    "score": 79,
-    "reasons": [
-     [
-      "관심도 변화",
-      "11월 4일 코리아타임스 보도: 한 K-뷰티 브랜드가 10월 캐나다 최대 드럭스토어 체인 약 1,300개 전 매장 입점을 마쳤고 11월 코스트코 캐나다 판매 예정. 닐슨IQ 기준 2025년 캐나다 K-뷰티 매출 57% 증가"
-     ],
-     [
-      "최신성",
-      "핵심 보도 11월 4일(1주 이내), 크리스마스 전 8주 성수기 진입 시점"
-     ],
-     [
-      "해외 시장 관심",
-      "캐나다 K-뷰티는 온라인 비중 40% 이상, 18~44세·온타리오·BC 중심으로 성장, 퀘벡은 아직 저조(닐슨IQ)"
-     ],
-     [
-      "신뢰도",
-      "코리아타임스, 닐슨IQ 분석, 캐나다 보건부 공식 안내, 규제 전문 매체 ChemLinked"
-     ],
-     [
-      "사업 관련성",
-      "라벨르엘비의 북미 K-뷰티 유통·파트너십 상담과 직결"
-     ],
-     [
-      "독자 문제·전환",
-      "연말 성수기를 노리는 브랜드·바이어의 '무엇부터 준비하나'라는 문제를 신고·라벨 체크리스트로 해결, 파트너십 문의로 연결"
-     ],
-     [
-      "차별성",
-      "11월 1일 수출 지도·11월 5일 미국 선크림 원고와 달리 캐나다 단일 시장의 시즌성·화장품 신고·향 알레르겐 표시에 초점"
-     ]
-    ],
-    "checked": "2026-11-10"
-   },
-   "image_brief": "KO: 1) 따뜻한 겨울 조명 아래 라벨 없는 스킨케어 선물 세트와 리본, 솔방울·눈꽃 소품을 배치한 스틸라이프(브랜드 로고·제품명·매장명 노출 금지). 2) 영어·프랑스어 두 줄 라벨과 성분표를 돋보기로 비추는 미니멀 일러스트(실제 제품 라벨 복제 금지). 3) 캐나다 지도 실루엣 위에 온타리오·BC를 은은하게 강조하고 선물 상자 아이콘을 얹은 인포그래픽(수치는 본문 출처 수치만 사용). 인물 얼굴 컷과 비포/애프터 연출은 피하고, AI 생성 이미지를 사용할 경우 반드시 'AI 생성 이미지'로 표기.",
-   "cover": "nova/covers/2026-11-canada-kbeauty-holiday.webp",
-   "cover_ai": false,
-   "written": "2026-11-10"
-  },
-  {
-   "id": "2026-11-seoul-recovery-stay-aftercare",
-   "category": "medical",
-   "countries": [
-    "KR",
-    "US",
-    "AE",
-    "SG",
-    "MN",
-    "AU",
-    "CA"
-   ],
-   "read_min": 6,
-   "title_ko": "시술보다 중요한 '그다음', 서울이 회복 숙소와 귀국 후 관리를 챙기기 시작했다",
-   "title_en": "After the treatment: Seoul starts to plan for recovery stays and aftercare at home",
-   "summary_ko": "서울시가 외국인 환자와 가족을 위한 의료관광 친화 숙박시설 19곳을 처음 지정했고, 외국인 환자 비대면 진료의 법적 근거도 마련됐습니다. 한국에서 시술을 계획하는 해외 고객이 회복 일정과 귀국 후 관리를 어떻게 준비하면 좋을지 정리했습니다.",
-   "summary_en": "Seoul has named its first 19 medical-friendly accommodations for foreign patients and their families, and remote care for foreign patients now has a legal basis. Here is how international visitors can plan recovery time and aftercare when they come to Korea for treatment.",
-   "key_points_ko": [
-    "서울시가 외국인 환자·가족용 의료관광 친화 숙박시설 19곳을 처음 지정했다(40곳 지원, 2027년 유지)",
-    "평가 기준은 의료기관 접근성, 장기 투숙, 취사·세탁 등 생활 편의, 24시간 응급 대응이다",
-    "2025년 서울 의료기관을 찾은 외국인 환자는 약 176만 명으로 2023년의 3.7배였다",
-    "외국인 환자 비대면 진료(초진·처방·귀국 후 관리 포함)는 법 공포 1년 뒤 시행될 예정이다",
-    "회복 여유일과 귀국 후 연락 창구는 시술 예약 단계에서 함께 정하는 것이 좋다"
-   ],
-   "key_points_en": [
-    "Seoul named its first 19 medical-friendly accommodations for foreign patients and families (40 applied; designated through 2027)",
-    "Criteria: access to medical institutions, long stays, cooking and laundry, and 24-hour emergency response",
-    "About 1.76 million foreign patients were treated at Seoul medical institutions in 2025, 3.7 times the 2023 level",
-    "Remote care for foreign patients, including first visits, prescriptions and follow-up at home, is set to take effect one year after the law's promulgation",
-    "Recovery days and an aftercare contact are best planned when booking the treatment"
-   ],
-   "body_ko": "시술 예약은 몇 번의 클릭으로 끝나지만, 시술이 끝난 뒤의 며칠은 생각보다 길게 느껴집니다. 붓기가 가라앉기를 기다리는 동안 어디에 머물지, 낯선 도시에서 몸이 불편해지면 누구에게 연락할지, 비행기를 타고 돌아간 뒤에는 누구에게 묻고 관리받을지. 한국을 찾는 해외 고객이 늘면서 서울이 바로 이 '시술 이후'를 정비하기 시작했습니다.\n\n## 시술보다 '그다음'이 경쟁력이 되는 이유\n\n서울시는 11월 2일, 외국인 환자와 동반 가족을 위한 '서울 의료관광 친화 숙박시설' 19곳을 처음 지정했다고 발표했습니다. 첫 공모에 40곳이 지원했고, 서류 심사와 현장 점검, 전문가 평가를 거쳐 선정됐습니다. 지정은 2027년 한 해 동안 유지됩니다.\n\n배경에는 빠르게 늘어난 수요가 있습니다. 한국보건산업진흥원 자료를 인용한 보도에 따르면 2025년 서울 의료기관을 찾은 외국인 환자는 약 176만 명으로, 2023년 약 47만 명의 3.7배였습니다. 전국 외국인 환자의 87.2%가 서울에 몰렸습니다.\n\n> \"의료관광의 경쟁력은 뛰어난 의료 서비스만이 아니라, 외국인 환자와 가족이 치료 전후에 얼마나 편안하고 안전하게 머무를 수 있는지에 달려 있습니다.\" — 서울시 관광체육국장\n\n## 회복 숙소, 무엇을 기준으로 골랐을까\n\n서울시가 밝힌 평가 기준은 해외 고객이 숙소를 고를 때도 그대로 체크리스트가 됩니다.\n\n- **의료기관 접근성:** 재방문이나 경과 확인이 필요할 때 오가기 쉬운가\n- **장기 투숙 가능 여부:** 일정이 하루 이틀 늘어나도 머무를 수 있는가\n- **생활 편의:** 취사와 세탁 시설이 있는가\n- **24시간 응급 대응:** 밤에 몸이 불편해지면 바로 안내받을 수 있는가\n\n지정 숙소는 의료관광객 전용 층이나 라운지, 무료 세탁, 픽업·샌딩 지원, 다국어 응급 안내 등을 제공합니다. 11곳이 강남구에 있고 나머지는 6개 자치구에 흩어져 있으며, 서울시는 다국어 의료관광 누리집과 협력 병원, 유치 기관을 통해 정보를 알릴 계획입니다.\n\n## 귀국 후 관리, 2027년부터 달라질 수 있는 것\n\n숙소가 '한국에 머무는 동안'의 문제라면, 더 큰 숙제는 '돌아간 뒤'입니다. 5월 공포된 의료 해외진출 및 외국인환자 유치 지원에 관한 법률 개정안은 외국인 환자를 위한 비대면 진료의 법적 근거를 만들었습니다.\n\n- **허용 범위:** 방한 전 상담, 귀국 후 사후관리, 지속 관찰, 상담·교육, 진단과 처방\n- **초진 포함:** 국내 비대면 진료와 달리 처음 진료받는 외국인 환자도 대상입니다\n- **조건:** 외국인환자 유치기관으로 등록된 의원·병원급 의료기관의 의사·치과의사·한의사\n- **시행 시기:** 공포 후 1년 뒤 시행되며, 구체적인 절차는 하위 법령으로 정해질 예정입니다\n\n아직 시행 전이라는 점이 중요합니다. 지금 시술을 계획하는 분이라면 귀국 후 연락 방법을 병원과 미리 확인해 두는 것이 현실적입니다.\n\n## 떠나기 전, 일정표에 넣을 다섯 가지\n\n- **회복 여유일 확보:** 시술 다음 날 바로 비행기를 타는 일정은 피하고, 담당 의료진에게 회복 기간을 먼저 물어보세요.\n- **숙소는 병원 동선 기준으로:** 관광지보다 의료기관과의 거리, 장기 투숙 가능 여부를 먼저 확인하세요.\n- **등록 기관인지 확인:** 외국인환자 유치기관으로 등록된 의료기관인지, 상담을 맡는 기관도 등록된 곳인지 살펴보세요.\n- **사후 연락 창구 정하기:** 귀국 후 문의할 담당자와 언어, 연락 방식을 출국 전에 정해 두세요.\n- **현지 의료진 연결:** 귀국 후 이상이 느껴지면 현지 의료진의 진료를 받을 수 있도록 진료 기록 사본을 챙기세요.\n\n## 한눈에 정리\n\n- 서울시가 외국인 환자와 가족을 위한 의료관광 친화 숙박시설 19곳을 처음 지정했습니다(2027년 유지).\n- 기준은 의료기관 접근성, 장기 투숙, 생활 편의, 24시간 응급 대응입니다.\n- 외국인 환자 비대면 진료는 법적 근거가 마련됐고, 공포 1년 뒤 시행될 예정입니다.\n- 회복 일정과 귀국 후 연락 창구는 시술 예약 단계에서 함께 정하는 것이 좋습니다.\n\n## 라벨르엘비와 함께\n\n라벨르엘비는 해외 고객의 한국 방문 일정을 상담 단계부터 회복과 귀국까지 한 흐름으로 설계하도록 돕습니다. 시술의 적합성과 회복 기간은 사람마다 다르므로, 반드시 자격을 갖춘 의료진과 충분히 상담한 뒤 결정하시기 바랍니다.",
-   "body_en": "Booking a treatment takes a few clicks. The days after it can feel much longer. Where do you stay while the swelling settles? Who do you call if you feel unwell at night in an unfamiliar city? And once you fly home, who answers your questions? As more international visitors come to Korea for care, Seoul has started to organize exactly this \"after\" part of the trip.\n\n## Why \"what comes next\" is becoming the edge\n\nOn November 2, the Seoul Metropolitan Government named its first 19 \"medical-friendly\" accommodations for international patients and the families travelling with them. Forty properties applied in the first round, and the 19 were chosen after document reviews, on-site inspections and expert evaluations. The designation runs through 2027.\n\nDemand explains the move. Citing the Korea Health Industry Development Institute, reports put the number of foreign patients treated at Seoul medical institutions in 2025 at about 1.76 million, 3.7 times the roughly 470,000 in 2023. Seoul accounted for 87.2% of foreign patients nationwide.\n\n> \"The competitiveness of medical tourism depends not only on excellent medical services, but on how comfortably and safely foreign patients and their families can stay before and after treatment.\" — Director general, Seoul Tourism and Sports Bureau\n\n## What the city looked for in a recovery stay\n\nSeoul's evaluation criteria double as a checklist for anyone choosing where to stay:\n\n- **Access to care:** Is it easy to get back to the clinic for a follow-up?\n- **Long stays:** Can you extend if your plans shift by a day or two?\n- **Everyday comfort:** Are there cooking and laundry facilities?\n- **24-hour emergency response:** Can you get guidance right away if you feel unwell at night?\n\nDesignated properties offer services such as dedicated floors or lounges for medical travellers, free laundry, pickup and drop-off support, and emergency guidance in several languages. Eleven are in Gangnam-gu and the rest are spread across six other districts. The city plans to share details through its multilingual medical tourism website, partner hospitals and patient referral agencies.\n\n## Care after you fly home: what may change from 2027\n\nIf accommodation solves the time in Korea, the bigger question is the time after. An amendment to the Act on Support for Overseas Expansion of Medical Services and Attraction of Foreign Patients, promulgated in May, created a legal basis for remote care for foreign patients.\n\n- **Scope:** Pre-visit consultation, follow-up after returning home, ongoing monitoring, counselling and education, diagnosis and prescription\n- **First visits included:** Unlike domestic telemedicine, first-time foreign patients are covered\n- **Conditions:** Doctors, dentists and Korean medicine doctors at clinic- or hospital-level institutions registered to attract foreign patients\n- **Timing:** It takes effect one year after promulgation, with detailed procedures to be set in subordinate regulations\n\nThe key point is that it is not in force yet. If you are planning treatment now, the practical step is to confirm with the clinic, before you go, how you will reach them after you return.\n\n## Five things to put in your itinerary\n\n- **Build in recovery days:** Avoid flying out the day after treatment, and ask your medical team about recovery time first.\n- **Choose your stay by the clinic, not the sights:** Check distance to the medical institution and whether long stays are possible.\n- **Check registration:** See whether the institution is registered to treat foreign patients, and whether any agency coordinating your visit is registered too.\n- **Agree on an aftercare contact:** Before you leave, settle who you will contact after returning, in which language and by what channel.\n- **Link up with care at home:** Bring copies of your medical records so a local doctor can see you if anything feels wrong after you return.\n\n## Key takeaways\n\n- Seoul has named its first 19 medical-friendly accommodations for foreign patients and their families, designated through 2027.\n- The criteria: access to medical institutions, long stays, everyday amenities and 24-hour emergency response.\n- Remote care for foreign patients now has a legal basis and is set to take effect one year after promulgation.\n- Recovery days and an aftercare contact are best planned at the same time as the treatment booking.\n\n## Planning with La Belle LB\n\nLa Belle LB helps international clients plan a visit to Korea as one journey, from first consultation through recovery and the flight home. Suitability and recovery time vary from person to person, so always make decisions after a thorough consultation with a qualified medical professional.",
-   "seo": {
-    "title_ko": "서울 의료관광 친화 숙박 19곳 지정, 시술 후 회복·귀국 후 관리 가이드",
-    "title_en": "Seoul's medical-friendly hotels and foreign-patient telemedicine: an aftercare guide",
-    "desc_ko": "서울시가 외국인 환자를 위한 의료관광 친화 숙박시설 19곳을 지정했습니다. 회복 숙소 고르는 기준과 2027년 시행 예정인 외국인 환자 비대면 진료, 출국 전 체크리스트를 정리했습니다.",
-    "desc_en": "Seoul has named 19 medical-friendly accommodations for foreign patients. What to look for in a recovery stay, how foreign-patient telemedicine will work, and a checklist before you fly.",
-    "keywords": [
-     "서울 의료관광",
-     "의료관광 친화 숙박시설",
-     "시술 후 회복 숙소",
-     "외국인 환자 비대면 진료",
-     "외국인환자 유치기관",
-     "Korea medical tourism",
-     "Seoul medical-friendly hotels",
-     "recovery stay Seoul",
-     "telemedicine foreign patients Korea",
-     "aftercare after treatment in Korea"
-    ]
-   },
-   "cta": "clinic",
-   "medical_review": true,
-   "sources": [
-    [
-     "The Korea Times · Seoul names 19 'medical-friendly' hotels for foreign patients (2026-11-02)",
-     "https://www.koreatimes.co.kr/southkorea/health/20261102/seoul-names-19-medical-friendly-hotels-for-foreign-patients",
-     "2026-11-12"
-    ],
-    [
-     "The Star (The Korea Herald/ANN) · Seoul names 19 patient-friendly hotels amid rise in medical tourism (2026-11-02)",
-     "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/seoul-names-19-patient-friendly-hotels-amid-rise-in-medical-tourism",
-     "2026-11-12"
-    ],
-    [
-     "The Herald Business · Seoul designates 19 'medical-friendly' accommodations for foreign patients (2026-11-07)",
-     "https://mbiz.heraldcorp.com/article/10926069",
-     "2026-11-12"
-    ],
-    [
-     "The Korea Times · Korea legalizes telemedicine for foreign patients to boost medical tourism (2026-05-26)",
-     "https://www.koreatimes.co.kr/southkorea/health/20260526/korea-legalizes-telemedicine-for-foreign-patients-to-boost-medical-tourism",
-     "2026-11-12"
-    ],
-    [
-     "메디칼타임즈 · 외국인 환자 비대면 진료 법제화…초진·처방 허용 (2026-05-26)",
-     "https://medicaltimes.com/Main/News/NewsView.html?ID=1168917",
-     "2026-11-12"
-    ]
-   ],
-   "trend": {
-    "score": 81,
-    "reasons": [
-     [
-      "관심도 변화",
-      "서울시가 11월 2일 외국인 환자·가족용 '의료관광 친화 숙박시설' 19곳을 처음 지정(40곳 지원). 2025년 서울 외국인 환자 약 176만 명으로 2023년의 3.7배(한국보건산업진흥원 인용 보도)"
-     ],
-     [
-      "최신성",
-      "핵심 발표 11월 2일(10일 이내), 지정 효력은 2027년부터"
-     ],
-     [
-      "해외 시장 관심",
-      "외국인 환자 비대면 진료(초진·처방·귀국 후 관리) 법적 근거 마련, 공포 1년 뒤 시행 예정으로 해외 고객 전반의 관심사"
-     ],
-     [
-      "신뢰도",
-      "서울시 발표를 다룬 코리아타임스·헤럴드경제, 보건복지부 발표를 다룬 코리아타임스·메디칼타임즈"
-     ],
-     [
-      "사업 관련성",
-      "라벨르엘비의 의료관광 상담(일정·숙소·사후관리 설계)과 직결"
-     ],
-     [
-      "독자 문제·전환",
-      "'시술 후 어디서 회복하고, 귀국 후 누구에게 묻나'라는 실제 고민을 체크리스트로 해결하고 상담 문의로 연결"
-     ],
-     [
-      "차별성",
-      "기존 '의료관광 200만 명' 원고가 규모를 다뤘다면, 이번은 회복 숙소·귀국 후 관리라는 여정의 후반부에 초점"
-     ]
-    ],
-    "checked": "2026-11-12"
-   },
-   "image_brief": "KO: 1) 창가 햇살이 드는 서울 호텔 객실의 정돈된 침대와 물컵·노트·여권을 놓은 차분한 스틸라이프(호텔명·로고 노출 금지, 실제 지정 호텔로 오인되지 않게 연출). 2) '상담 → 시술 → 회복 숙소 → 귀국 → 원격 사후관리'를 잇는 여정 타임라인 일러스트(수치는 본문 출처 수치만 사용). 3) 스마트폰 화면의 다국어 메시지 아이콘과 세계 지도 실루엣으로 귀국 후 연락을 표현한 미니멀 그래픽(실제 앱·의료기관 화면 복제 금지). 환자 얼굴, 붓기·상처 등 시술 부위, 비포/애프터 연출은 피하고, AI 생성 이미지를 쓸 경우 반드시 'AI 생성 이미지'로 표기.",
-   "cover": "nova/covers/2026-11-seoul-recovery-stay-aftercare.webp",
-   "cover_ai": false,
-   "written": "2026-11-12"
-  },
-  {
-   "id": "2026-11-men-undetectable-aesthetics",
-   "category": "medical",
-   "countries": [
-    "KR",
-    "US",
-    "AE",
-    "SG",
-    "AU",
-    "CA",
-    "MN"
-   ],
-   "read_min": 5,
-   "title_ko": "티 나지 않게, 나답게: 남자들이 피부과 시술을 말하기 시작했다",
-   "title_en": "Undetectable by design: men are talking openly about aesthetic treatments",
-   "summary_ko": "서울·수도권 남성 3명 중 1명 이상이 미용 시술을 경험했고, 해외에서도 남성 비수술 시술이 빠르게 늘고 있습니다. 남성 고객이 원하는 '티 나지 않는 변화'의 의미와 남성 피부의 특징, 첫 상담 전에 준비할 것을 정리했습니다.",
-   "summary_en": "More than one in three men in Seoul and the capital area have had an aesthetic procedure, and non-surgical treatments for men are rising worldwide. What \"undetectable\" really means, how men's skin differs, and how to prepare for a first consultation.",
-   "key_points_ko": [
-    "2026년 1월 조사에서 서울·수도권 20~59세 남성 36.5%가 미용 시술 경험, 30대가 44.5%로 가장 높았다",
-    "ISAPS 자료로 2018~2024년 남성 비수술 시술 116%, 수술 95% 증가, 남성 비중은 여전히 16%",
-    "ASPS는 남성의 흐름을 '티 나지 않는 시술(undetectable work)의 시대'로 표현했다",
-    "남성 피부는 진피가 두껍고 피지가 많으며 면도 자극이 잦아 다른 설계가 필요하다",
-    "화장품 관리와 의료 시술을 구분하고, 자격을 갖춘 전문의와 충분히 상담한 뒤 결정해야 한다"
-   ],
-   "key_points_en": [
-    "In a January 2026 survey, 36.5% of men aged 20–59 in Seoul and the capital area had had an aesthetic procedure, led by men in their 30s at 44.5%",
-    "ISAPS data show non-surgical treatments for men rose 116% and surgery 95% from 2018 to 2024, yet men are still 16% of procedures",
-    "ASPS calls the shift among male patients \"the era of undetectable work\"",
-    "Men's skin, with a thicker dermis, more sebum and frequent shaving, calls for a different plan",
-    "Separate skincare from medical treatment and decide only after a thorough consultation with a qualified specialist"
-   ],
-   "body_ko": "\"피부과 어디 다녀요?\" 예전 같으면 조용히 묻던 질문을 이제 남성들이 먼저, 공개적으로 꺼냅니다. 그런데 막상 상담실 앞에 서면 고민이 시작됩니다. 무엇부터 해야 할지, 그리고 무엇보다 '티 나지 않게' 할 수 있을지.\n\n## 남자들이 시술을 말하기 시작했다\n\n중앙일보 비크닉 보도에 따르면, 2026년 1월 오피니언서베이가 서울·수도권 20~59세 남성 2,000명을 조사한 결과 36.5%가 미용 시술을 받아본 적이 있다고 답했습니다. 30대가 44.5%로 가장 높았고, 40대 37.6%, 20대 30.7%였습니다. 트렌드 예측 기관 WGSN은 2026~2027년 남성 뷰티·웰니스의 핵심 흐름으로 'Bro Beauty'를 꼽았습니다.\n\n해외 흐름도 같은 방향입니다. AFP가 인용한 국제미용성형외과학회(ISAPS) 자료에서 2018년부터 2024년까지 남성의 비수술 미용 시술은 116%, 수술은 95% 늘었습니다. 다만 전체 미용 시술에서 남성이 차지하는 비중은 여전히 16%입니다. 아직 '처음'인 사람이 많다는 뜻이기도 합니다.\n\n## 원하는 건 변화가 아니라 '나다운 정돈'\n\n미국성형외과학회(ASPS)는 올해 5월 남성 환자 사이의 흐름을 '티 나지 않는 시술(undetectable work)의 시대'라고 표현했습니다. 극적인 변화보다 쉬고 온 듯한, 생활 습관을 바꾼 듯한 결과를 원한다는 것입니다. 국내 조사에서도 리프팅 경험자가 브랜드를 고를 때 '자연스러운 효과'를 꼽은 비율이 25%로, 인지도와 함께 공동 1위였습니다.\n\n> 남성 고객이 원하는 건 다른 사람이 되는 것이 아니라, 컨디션 좋은 날의 자신에 가까워지는 것입니다.\n\n## 남성 피부, 무엇이 다를까\n\n국내 피부과 전문의 좌담(메디칼타임즈, 6월)에서는 남성 피부의 특징으로 다음을 짚었습니다.\n\n- 진피가 상대적으로 두껍고 피지 분비가 많은 편\n- 모공이 넓어 보이기 쉬움\n- 잦은 면도로 인한 자극\n\nASPS 소속 전문의들은 남성이 매끈함보다 윤곽과 구조감을 중시하는 경향이 있고, 너무 매끈한 얼굴은 오히려 부자연스러워 보일 수 있다고 설명합니다. 같은 시술이라도 남성에게는 설계가 달라야 하는 이유입니다.\n\n## 처음이라면, 상담 전에 준비할 것\n\n- **고민 한 가지부터:** 가장 신경 쓰이는 부위 하나를 정하세요. ASPS 전문의도 점진적인 접근을 권합니다.\n- **'자연스러움'을 구체적으로:** 원하는 정도를 말로 설명하고, 일상 복귀 시점과 회복 기간을 함께 물어보세요.\n- **화장품과 시술 구분:** 면도 후 진정, 보습, 자외선 차단은 매일의 화장품 관리 영역이고, 주름·탄력 개선 시술은 의료 행위로 의료진의 진단이 필요합니다.\n- **여러 곳의 의견:** 한 번의 상담으로 결정하지 말고, 자격을 갖춘 전문의에게 충분히 설명을 듣고 비교하세요.\n- **해외에서 온다면:** 귀국 일정과 사후 연락 방법을 예약 단계에서 함께 확인하세요.\n\n## 한눈에 정리\n\n- 서울·수도권 남성 36.5%가 미용 시술 경험(2026년 1월 조사), 30대가 가장 높습니다.\n- 해외에서도 남성 비수술 시술이 6년 사이 두 배 넘게 늘었습니다(ISAPS).\n- 키워드는 '티 나지 않는 변화'이며, 남성 피부 특성에 맞춘 설계가 중요합니다.\n- 화장품 관리와 의료 시술을 구분하고, 결정은 충분한 상담 뒤에 하세요.\n\n## 라벨르엘비와 함께\n\n라벨르엘비는 한국 방문을 계획하는 해외 남성 고객이 상담부터 회복, 귀국까지 일정을 차분히 설계하도록 돕고, 남성 고객 응대를 고민하는 클리닉에는 상담 구조 컨설팅을 제공합니다. 시술의 적합성과 효과, 회복 기간은 사람마다 다르므로 반드시 자격을 갖춘 의료진과 충분히 상담한 뒤 결정하시기 바랍니다.",
-   "body_en": "\"Which dermatologist do you go to?\" Men used to ask that quietly, if at all. Now they ask it first, and in public. But standing outside the consultation room, the questions start: where do I begin, and above all, can it be done without anyone noticing?\n\n## Men have started talking about treatments\n\nAccording to JoongAng Ilbo's Bicnic, a January 2026 Opinion Survey poll of 2,000 men aged 20 to 59 in Seoul and the capital area found that 36.5% had had an aesthetic procedure. Men in their 30s were highest at 44.5%, followed by their 40s at 37.6% and their 20s at 30.7%. Trend forecaster WGSN has named \"Bro Beauty\" a key theme in men's beauty and wellness for 2026 to 2027.\n\nThe global picture points the same way. Data from the International Society of Aesthetic Plastic Surgery (ISAPS), reported by AFP, show non-surgical cosmetic treatments for men rose 116% between 2018 and 2024, and surgical procedures rose 95%. Yet men still account for only 16% of all cosmetic procedures, which means many are still first-timers.\n\n## The goal is not change, but a sharper version of yourself\n\nIn May, the American Society of Plastic Surgeons (ASPS) described a shift among male patients as \"the era of undetectable work\": results that look as if they had a good holiday or changed their habits, not as if they had something done. In the Korean survey, too, people who had a lifting procedure ranked \"natural results\" as a top reason for choosing a brand, at 25%, tied with brand recognition.\n\n> Men are not asking to look like someone else. They want to look like themselves on a good day.\n\n## What makes men's skin different\n\nAt a roundtable of Korean dermatologists reported by Medical Times in June, specialists highlighted several traits of male skin:\n\n- A relatively thicker dermis and higher sebum output\n- Pores that tend to look larger\n- Irritation from frequent shaving\n\nASPS member surgeons note that men tend to value structure and definition over smoothness, and that a completely smooth face can look unnatural on a mature man. That is why the same treatment often needs a different plan for men.\n\n## First time? Prepare before your consultation\n\n- **Start with one concern:** Pick the area that bothers you most. ASPS surgeons also recommend a gradual approach.\n- **Define \"natural\":** Describe how much change you want, and ask when you can return to daily life and how long recovery takes.\n- **Know cosmetics from treatments:** Post-shave soothing, moisturizing and sun protection are everyday skincare. Treatments for wrinkles or firmness are medical procedures that require a doctor's assessment.\n- **Get more than one opinion:** Don't decide after a single consultation. Hear a full explanation from qualified specialists and compare.\n- **Travelling from abroad?** Confirm your flight home and how you will reach the clinic afterwards when you book.\n\n## Key takeaways\n\n- 36.5% of men in Seoul and the capital area have had an aesthetic procedure (January 2026 survey), with men in their 30s leading.\n- Globally, non-surgical treatments for men more than doubled in six years (ISAPS).\n- The keyword is \"undetectable,\" and plans should reflect the traits of male skin.\n- Separate skincare from medical treatment, and decide only after a thorough consultation.\n\n## Planning with La Belle LB\n\nLa Belle LB helps international men planning a visit to Korea map out the whole journey, from consultation to recovery and the flight home, and offers consulting to clinics that want to build a better consultation experience for male clients. Suitability, results and recovery time vary from person to person, so always make decisions after a thorough consultation with a qualified medical professional.",
-   "seo": {
-    "title_ko": "남성 피부과 시술 트렌드, '티 나지 않는 변화'와 첫 상담 가이드",
-    "title_en": "Men's aesthetic treatments: the undetectable trend and a first-consultation guide",
-    "desc_ko": "서울·수도권 남성 36.5%가 미용 시술을 경험했습니다. 남성이 원하는 자연스러운 변화, 남성 피부의 특징, 첫 상담 전 체크리스트를 정리했습니다.",
-    "desc_en": "36.5% of men in Seoul have had an aesthetic procedure. What men want from treatments, how male skin differs, and a checklist before your first consultation.",
-    "keywords": [
-     "남성 피부과 시술",
-     "남성 그루밍",
-     "브로 뷰티",
-     "자연스러운 시술",
-     "남성 피부 특징",
-     "한국 피부과 상담",
-     "men's aesthetic treatments",
-     "bro beauty",
-     "undetectable work",
-     "men's skincare Korea",
-     "Korea medical tourism men"
-    ]
-   },
-   "cta": "clinic",
-   "medical_review": true,
-   "sources": [
-    [
-     "미주중앙일보(중앙일보 비크닉) · \"피부과 공유해주세요\"…남자들이 시술을 말하기 시작했다 (2026-11-09)",
-     "https://www.koreadaily.com/article/20261109143801650",
-     "2026-11-15"
-    ],
-    [
-     "Citizen Digital (AFP) · Men getting twice as much plastic surgery, new data shows (2026-01-29)",
-     "https://citizen.digital/article/men-getting-twice-as-much-plastic-surgery-new-data-shows",
-     "2026-11-15"
-    ],
-    [
-     "American Society of Plastic Surgeons · The era of undetectable work: why men are seeking subtle refinement (2026-05-11)",
-     "https://www.plasticsurgery.org/news/articles/the-era-of-undetectable-work-why-men-are-seeking-subtle-refinement",
-     "2026-11-15"
-    ],
-    [
-     "메디칼타임즈 · 남성 피부미용 수요 커졌는데…전문가가 본 맞춤 전략은? (2026-06-08)",
-     "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1168988",
-     "2026-11-15"
-    ]
-   ],
-   "trend": {
-    "score": 78,
-    "reasons": [
-     [
-      "관심도 변화",
-      "2026년 1월 오피니언서베이 조사에서 서울·수도권 20~59세 남성 2,000명 중 36.5%가 미용 시술 경험(30대 44.5%). WGSN이 2026~2027 남성 뷰티 핵심 트렌드로 'Bro Beauty' 선정(중앙일보 비크닉 보도)"
-     ],
-     [
-      "최신성",
-      "11월 9일 보도(1주 이내). 9월 한 남성 출연자의 시술 후기 영상 조회수 93만 회 이상(같은 보도)"
-     ],
-     [
-      "해외 시장 관심",
-      "ISAPS 집계 2018~2024년 남성 비수술 시술 116%, 수술 95% 증가(AFP, 2026-01-29). ASPS가 5월 남성의 '티 나지 않는 시술(undetectable work)' 선호를 조명"
-     ],
-     [
-      "신뢰도",
-      "국제미용성형외과학회(ISAPS) 데이터 인용 AFP, 미국성형외과학회(ASPS) 공식 기사, 국내 조사 인용 중앙일보 계열 보도"
-     ],
-     [
-      "사업 관련성",
-      "해외 남성 고객의 의료관광 상담, 클리닉 컨설팅(남성 고객 응대·상담 설계)과 직결"
-     ],
-     [
-      "독자 문제·전환",
-      "'처음인데 티 나지 않게 관리하고 싶다'는 남성 독자의 고민을 상담 준비 체크리스트로 연결"
-     ],
-     [
-      "차별성",
-      "기존 원고(수출 지도, AI 피부 분석, GLP-1 얼굴, 성수, 의료관광 200만, 회복 숙소)와 겹치지 않는 남성 고객 관점"
-     ]
-    ],
-    "checked": "2026-11-15"
-   },
-   "image_brief": "KO: 1) 아침 햇살이 드는 욕실 세면대 위 면도기·토너·선크림을 정돈한 남성 그루밍 스틸라이프(브랜드 로고 노출 금지). 2) 셔츠 차림 남성의 옆모습 실루엣이나 손·턱선 일부만 보이는 절제된 인물 컷(얼굴 식별·시술 부위·비포/애프터 연출 금지). 3) '고민 하나 정하기 → 상담 → 회복·일상 복귀 → 사후 관리'를 잇는 미니멀 체크리스트 그래픽(수치는 본문 출처 수치만 사용). AI 생성 이미지를 쓸 경우 반드시 'AI 생성 이미지'로 표기.",
-   "cover": "nova/covers/2026-11-men-undetectable-aesthetics.webp",
-   "cover_ai": false,
-   "written": "2026-11-15"
-  },
-  {
-   "id": "2026-11-k-pharmacy-shopping-guide",
-   "category": "medical",
-   "countries": [
-    "US",
-    "SG",
-    "KR",
-    "AU",
-    "CA"
-   ],
-   "read_min": 6,
-   "title_ko": "명동 약국에 줄 서는 여행자들, 'K-약국 쇼핑' 전에 알아야 할 것",
-   "title_en": "Why travelers are lining up at Seoul pharmacies, and what to know before you shop",
-   "summary_ko": "외국인의 약국 소비가 1년 새 세 배 가까이 늘었습니다. 같은 선반에 놓인 일반의약품, 의약외품, 화장품을 구분하는 법과 장바구니에 담기 전 확인할 체크리스트를 정리했습니다.",
-   "summary_en": "Foreign visitors' pharmacy spending in Korea has nearly tripled in a year. How to tell OTC drugs, quasi-drugs and cosmetics apart on the same shelf, and a checklist before anything goes in your basket.",
-   "key_points_ko": [
-    "올해 1~9월 외국인 약국 소비액은 약 196.1% 늘었고, 의료 소비 중 약국 비중은 6.66%에서 12.49%로 커졌다(한국관광데이터랩)",
-    "약국 진열대에는 일반의약품, 의약외품, 화장품이 함께 있으며 포장 표시로 구분할 수 있다",
-    "일반의약품은 처방 없이 살 수 있어도 약이므로 약사의 복약 안내가 필요하다",
-    "시술 성분과 이름이 같은 화장품도 시술과 같은 효과를 내지 않는다",
-    "개인이 들여올 수 있는 의약품 규정은 나라마다 달라 출국 전 확인이 필요하다"
-   ],
-   "key_points_en": [
-    "From January to September, foreign visitors' pharmacy spending rose about 196.1%, lifting pharmacies' share of their medical spending from 6.66% to 12.49% (Korea Tourism Data Lab)",
-    "Korean pharmacy shelves mix OTC drugs, quasi-drugs and cosmetics, which you can tell apart by the label",
-    "OTC drugs need no prescription but are still medicines, so pharmacist guidance matters",
-    "Cosmetics named after clinic-treatment ingredients do not deliver the effects of those treatments",
-    "Rules on bringing medicines home differ by country, so check before you fly"
-   ],
-   "body_ko": "서울 명동의 약국 앞에서 휴대폰 속 제품 사진을 보여 주며 같은 상품을 찾는 여행자를 쉽게 볼 수 있습니다. 피부과 상담을 마치고 약국에 들러 연고와 크림을 장바구니에 담는 것이 하나의 여행 코스가 됐습니다. 그런데 약국 진열대에는 화장품과 의약품이 나란히 놓여 있습니다. 같은 선반에 있어도 둘은 전혀 다른 제품입니다.\n\n## 피부과 다음 코스는 약국\n\n연합뉴스가 한국관광데이터랩의 카드 결제 데이터를 분석한 결과, 올해 1~9월 외국인의 의료 관련 소비액은 1조8398억 원으로 전년 같은 기간보다 57.9% 늘었습니다. 이 가운데 약국 소비액은 약 196.1% 증가했고, 의료 소비에서 약국이 차지하는 비중은 6.66%에서 12.49%로 커졌습니다. 결제 건수로 보면 외국인 의료 소비의 68.97%가 약국에서 일어났습니다.\n\n공급도 빠르게 따라가고 있습니다. 데일리팜에 따르면 2025년 9월부터 2026년 6월까지 서울 중구에서만 외국인 고객을 겨냥한 약국 28곳이 새로 문을 열었습니다.\n\n## 같은 선반, 다른 제품\n\nThe Korea Times 보도에서 여행자들이 찾던 것은 흉터 젤과 여드름 크림, 그리고 약국에서 파는 PDRN 스킨케어였습니다. 이 매체는 해당 흉터 젤과 여드름 크림이 약사법에 따라 약국에서만 판매되는 일반의약품이고, PDRN 스킨케어는 의약품이 아닌 화장품이라고 설명했습니다.\n\n한국 약국 진열대의 제품은 크게 세 가지로 나뉩니다.\n\n- **일반의약품:** 질병의 치료나 예방을 목적으로 하며 정해진 용법과 용량이 있습니다. 처방 없이 살 수 있지만 엄연히 약이고, 포장에 '일반의약품'이라고 표시됩니다.\n- **의약외품:** 반창고나 보건용 마스크처럼 인체에 대한 작용이 경미한 제품입니다. 포장에 '의약외품' 표시가 있습니다.\n- **화장품:** 피부를 청결히 하고 가꾸는 제품입니다. 미백이나 주름 개선처럼 심사를 거친 기능은 '기능성화장품'으로 표시할 수 있지만, 질병을 치료하는 제품은 아닙니다.\n\n> 어디서 샀는지보다 포장에 어떤 분류가 적혀 있는지가 더 중요합니다.\n\n## 처방 없이 사도 약은 약\n\n전문가들은 일반의약품에도 주의가 필요하다고 말합니다. 아시아경제 보도에서 순천향대 보건행정학과 교수는 일반의약품도 과다 복용하거나 다른 약과 함께 쓰면 부작용이 생길 수 있어 정확한 복약 안내가 필요하다고 지적했습니다. 언어 장벽 때문에 복약 안내가 충분히 전달되지 않을 수 있다는 우려도 함께 나왔습니다. 에페드린이 든 감기약처럼 일부 국가에서 엄격히 관리하는 성분도 있습니다.\n\n화장품도 기대치를 바로 세워야 합니다. 시술 성분과 같은 이름이 붙었다고 해서 시술과 같은 효과를 내는 것은 아닙니다. 화장품은 피부를 가꾸는 제품이고, 피부 질환의 치료는 진료와 의약품의 영역입니다.\n\n## 장바구니에 담기 전 체크리스트\n\n- **포장 표시 확인:** '일반의약품', '의약외품', '기능성화장품' 가운데 무엇인지 먼저 보세요.\n- **약사에게 내 상황 알리기:** 복용 중인 약, 알레르기, 임신·수유 여부, 기저질환을 말하고 용법을 영문으로 적어 달라고 요청하세요.\n- **사진만 보고 고르지 않기:** SNS에서 본 제품이 내 피부에 맞는지는 별개입니다. 염증이나 상처가 심하다면 약보다 진료가 먼저입니다.\n- **시술 직후라면 먼저 묻기:** 레이저나 주사 시술을 받은 부위에 연고나 고기능 화장품을 바르기 전에 시술한 의료진에게 확인하세요.\n- **귀국 규정 확인:** 개인이 들여올 수 있는 의약품의 종류와 양은 나라마다 다릅니다. 출국 전 자국 기준을 확인하고 원래 포장과 설명서를 함께 보관하세요.\n- **선물용 대량 구매는 신중히:** 사용기한과 보관 조건, 받는 사람의 건강 상태도 고려하세요.\n\n## 한눈에 정리\n\n- 올해 1~9월 외국인의 약국 소비액은 약 196.1% 늘었고, 의료 소비 중 약국 비중은 12.49%가 됐습니다.\n- 약국 진열대에는 일반의약품, 의약외품, 화장품이 함께 놓여 있습니다.\n- 일반의약품은 처방 없이 사도 약입니다. 약사의 복약 안내를 꼭 받으세요.\n- 화장품은 피부를 가꾸는 제품이며 치료 효과를 기대하는 대상이 아닙니다.\n- 귀국 전 자국의 의약품 반입 규정을 확인하세요.\n\n## 라벨르엘비와 함께\n\n라벨르엘비는 해외 고객이 등록 의료기관에서 상담과 시술을 받고, 회복 기간과 쇼핑 동선까지 무리 없이 계획하도록 의료관광 일정을 함께 설계합니다. K-뷰티 유통 파트너에게는 국가별 제품 분류와 표시 기준을 고려한 상품 구성을 제안합니다. 증상에 맞는 치료와 약 사용은 사람마다 다르므로 반드시 약사나 자격을 갖춘 의료 전문가와 상담하시기 바랍니다.",
-   "body_en": "Outside pharmacies in Seoul's Myeongdong, travelers hold up photos on their phones, looking for the exact product they saw online. After a dermatology consultation, a stop at the pharmacy to fill a basket with ointments and creams has become part of the itinerary. But on those pharmacy shelves, cosmetics and medicines sit side by side. They may share a shelf; they are not the same kind of product.\n\n## After the dermatologist, the pharmacy\n\nYonhap News analyzed card-payment data from Korea Tourism Data Lab and found that foreign visitors spent 1.8398 trillion won on medical-related purchases from January to September this year, up 57.9% from a year earlier. Pharmacy spending rose about 196.1%, and pharmacies' share of medical spending grew from 6.66% to 12.49%. By number of transactions, 68.97% of foreigners' medical purchases took place at pharmacies.\n\nSupply is racing to keep up. According to Dailypharm, 28 pharmacies aimed at foreign customers opened in Seoul's Jung District alone between September 2025 and June 2026.\n\n## Same shelf, different products\n\nIn a Korea Times report, travelers were looking for scar gels, acne creams and pharmacy-sold PDRN skincare. The paper noted that those scar gels and acne creams are over-the-counter drugs that may be sold only in pharmacies under Korea's Pharmaceutical Affairs Act, while the PDRN skincare is a cosmetic, not a medicine.\n\nProducts on a Korean pharmacy shelf fall into three broad groups:\n\n- **OTC drugs (일반의약품):** Made to treat or prevent illness, with a set dose and directions. You can buy them without a prescription, but they are still medicines, and the package says \"일반의약품\".\n- **Quasi-drugs (의약외품):** Products with mild effects on the body, such as adhesive bandages or protective masks. The package carries the \"의약외품\" mark.\n- **Cosmetics (화장품):** Products for cleansing and caring for skin. Reviewed functions such as brightening or wrinkle care can be labeled \"기능성화장품\" (functional cosmetic), but these products do not treat disease.\n\n> What the package says matters more than where you bought it.\n\n## No prescription, still a medicine\n\nExperts say OTC drugs deserve care too. In an Asia Business Daily report, a health administration professor at Soonchunhyang University noted that OTC drugs can cause side effects when overused or combined with other medicines, so accurate guidance matters. The report also raised concern that language barriers can leave that guidance incomplete. Some ingredients, such as ephedrine in certain cold medicines, are tightly controlled in some countries.\n\nExpectations for cosmetics need a reset as well. A product named after an ingredient used in clinic treatments does not deliver the effects of that treatment. Cosmetics care for skin; treating skin conditions belongs to medical care and medicines.\n\n## Before it goes in your basket\n\n- **Read the label:** Check whether it says 일반의약품 (OTC drug), 의약외품 (quasi-drug) or 기능성화장품 (functional cosmetic).\n- **Tell the pharmacist about you:** Mention current medications, allergies, pregnancy or breastfeeding and any health conditions, and ask for the directions in English.\n- **Don't shop by photo alone:** A product that went viral may not suit your skin. If inflammation or a wound is severe, see a doctor before reaching for medicine.\n- **Just had a procedure? Ask first:** Before applying an ointment or active skincare to an area treated with laser or injections, check with the medical team who treated you.\n- **Check the rules back home:** What types and amounts of medicine travelers may bring in differ by country. Check your own country's rules before you fly, and keep the original packaging and leaflet.\n- **Think twice about bulk gifts:** Consider expiry dates, storage conditions and the recipient's health.\n\n## Key takeaways\n\n- From January to September, foreign visitors' pharmacy spending rose about 196.1%, and pharmacies now account for 12.49% of their medical spending.\n- Korean pharmacy shelves mix OTC drugs, quasi-drugs and cosmetics.\n- An OTC drug is still a medicine. Get guidance from the pharmacist.\n- Cosmetics care for skin; they are not a treatment.\n- Check your country's rules on bringing medicines home.\n\n## Planning with La Belle LB\n\nLa Belle LB helps international clients plan medical travel that covers consultations and treatment at registered medical institutions, recovery time and even shopping routes, without overloading the schedule. For K-beauty distribution partners, we propose product lineups that account for each country's product classifications and labeling rules. The right treatment and medicine differ from person to person, so always consult a pharmacist or a qualified medical professional.",
-   "seo": {
-    "title_ko": "K-약국 쇼핑 가이드: 의약품과 화장품 구분하는 법",
-    "title_en": "K-pharmacy shopping in Korea: telling OTC drugs from cosmetics",
-    "desc_ko": "외국인 약국 소비가 1년 새 크게 늘었습니다. 일반의약품·의약외품·화장품을 포장 표시로 구분하는 법과 약국 쇼핑 전 체크리스트를 정리했습니다.",
-    "desc_en": "Foreign visitors' pharmacy spending in Korea has surged. How to tell OTC drugs, quasi-drugs and cosmetics apart, plus a checklist before you shop.",
-    "keywords": [
-     "K-약국",
-     "약국 쇼핑",
-     "명동 약국",
-     "일반의약품",
-     "의약외품",
-     "기능성화장품",
-     "의료관광",
-     "K-pharmacy",
-     "Korean pharmacy shopping",
-     "Seoul pharmacy",
-     "OTC drugs Korea",
-     "K-beauty pharmacy",
-     "Korea medical tourism"
-    ]
-   },
-   "cta": "clinic",
-   "medical_review": true,
-   "sources": [
-    [
-     "파이낸셜뉴스(연합뉴스) · 성형 수술대 대신 피부과·약국으로…K-뷰티 '관광 지도' 재편 (2026-10-18)",
-     "https://fnnews.com/news/202610180635452079",
-     "2026-10-18"
-    ],
-    [
-     "The Korea Times · Pharmacies emerge as new K-beauty stops for foreign tourists (2026-10-24)",
-     "https://koreatimes.co.kr/southkorea/society/20261024/pharmacies-emerge-as-new-k-beauty-stops-for-foreign-tourists",
-     "2026-10-24"
-    ],
-    [
-     "데일리팜 · 명동에서 부산 해운대까지…외국인 타깃 K-약국 '파죽지세' (2026-07-24)",
-     "https://dailypharm.com/user/news/340546",
-     "2026-07-24"
-    ],
-    [
-     "The Asia Business Daily · \"I Came to Korea to Buy This\": K-Pharmacies Become a Must-Shop Destination (2026-07-31)",
-     "https://view.asiae.co.kr/en/article/2026072917080301765",
-     "2026-07-31"
-    ]
-   ],
-   "trend": {
-    "score": 84,
-    "reasons": [
-     [
-      "관심도 변화",
-      "2026년 1~9월 외국인 의료 소비 중 약국 소비액 약 196.1%↑, 약국 비중 6.66%→12.49%(연합뉴스·한국관광데이터랩 카드 데이터, 2026-10-18)"
-     ],
-     [
-      "최신성",
-      "The Korea Times 10월 24일 보도(9월 약국 비중 13.88%), 연합뉴스 10월 18일 보도로 30일 이내"
-     ],
-     [
-      "해외 시장 관심",
-      "미국·싱가포르·대만·멕시코 등 여행자가 약국을 찾는다는 현장 보도(The Korea Times), 중국·미국 의료관광 소비 증가(머니투데이)"
-     ],
-     [
-      "신뢰도",
-      "한국관광공사 데이터랩 공식 통계와 통신사·주요 일간지 보도, 전문가 인용"
-     ],
-     [
-      "사업 관련성",
-      "라벨르엘비 의료관광 일정 설계(시술 후 쇼핑 동선), K-뷰티 유통 파트너의 제품 분류·표시 점검과 직결"
-     ],
-     [
-      "독자 문제·전환",
-      "해외 독자가 '약국에서 산 것이 약인지 화장품인지, 귀국 시 문제는 없는지'를 바로 확인할 수 있는 실용 체크리스트"
-     ],
-     [
-      "차별성",
-      "기존 원고(수출 지도, GLP-1 얼굴, 선크림, 등록 병원, 캐나다, 회복 숙소, 남성 시술, 롱제비티, 건강검진)와 겹치지 않고, 화장품·의약품 구분을 독자 관점에서 다룸"
-     ]
-    ],
-    "checked": "2026-11-22"
-   },
-   "image_brief": "KO: 1) 밝은 약국 진열대를 배경으로 여행자의 손이 상자 포장의 분류 표시를 확인하는 클로즈업(실제 제품명·브랜드 로고·약국 상호·얼굴 노출 금지). 2) '일반의약품 / 의약외품 / 화장품' 3단 분류를 아이콘으로 정리한 인포그래픽(수치는 본문 출처 수치만 사용, 가격 표기 금지). 3) 여권, 영문 복약 메모, 원래 포장째 담긴 쇼핑백을 놓은 플랫레이(귀국 준비 컷). AI 생성 이미지를 쓸 경우 반드시 'AI 생성 이미지'로 표기.",
-   "cover": "nova/covers/2026-11-k-pharmacy-shopping-guide.webp",
-   "cover_ai": false,
-   "written": "2026-11-22"
-  }
- ],
- "candidates": [
-  {
-   "id": "2026-11-22-k-pharmacy-shopping-guide",
-   "topic_ko": "피부과 다음은 약국, 외국인 'K-약국 쇼핑' 196% 증가와 의약품·화장품 구분법",
-   "topic_en": "After the dermatologist, the pharmacy: K-pharmacy shopping surges 196%",
-   "angle": "외국인 약국 소비 급증을 공식 데이터로 짚고, 같은 진열대의 일반의약품·의약외품·화장품을 구분하는 실용 가이드로 정리한다.",
-   "category": "medical",
-   "countries": [
-    "US",
-    "SG",
-    "KR",
-    "AU",
-    "CA"
-   ],
-   "score": 84,
-   "reasons": [
-    [
-     "관심도 변화",
-     "2026년 1~9월 외국인 의료 소비 중 약국 소비액 약 196.1%↑, 약국 비중 6.66%→12.49%(연합뉴스·한국관광데이터랩 카드 데이터, 2026-10-18)"
-    ],
-    [
-     "최신성",
-     "The Korea Times 10월 24일 보도(9월 약국 비중 13.88%), 연합뉴스 10월 18일 보도로 30일 이내"
-    ],
-    [
-     "해외 시장 관심",
-     "미국·싱가포르·대만·멕시코 등 여행자가 약국을 찾는다는 현장 보도(The Korea Times), 중국·미국 의료관광 소비 증가(머니투데이)"
-    ],
-    [
-     "신뢰도",
-     "한국관광공사 데이터랩 공식 통계와 통신사·주요 일간지 보도, 전문가 인용"
-    ],
-    [
-     "사업 관련성",
-     "라벨르엘비 의료관광 일정 설계(시술 후 쇼핑 동선), K-뷰티 유통 파트너의 제품 분류·표시 점검과 직결"
-    ],
-    [
-     "독자 문제·전환",
-     "해외 독자가 '약국에서 산 것이 약인지 화장품인지, 귀국 시 문제는 없는지'를 바로 확인할 수 있는 실용 체크리스트"
-    ],
-    [
-     "차별성",
-     "기존 원고(수출 지도, GLP-1 얼굴, 선크림, 등록 병원, 캐나다, 회복 숙소, 남성 시술, 롱제비티, 건강검진)와 겹치지 않고, 화장품·의약품 구분을 독자 관점에서 다룸"
-    ]
-   ],
-   "measured": [
-    "2026년 1~9월 외국인 의료 관련 소비액 1조8398억 원(+57.9%), 약국 소비액 약 196.1% 증가, 약국 비중 6.66%→12.49% (연합뉴스·한국관광데이터랩, 2026-10-18)",
-    "9월 외국인 의료 소비 중 약국 비중 13.88%, 318억 원 (The Korea Times·한국관광공사, 2026-10-24)",
-    "2025년 9월~2026년 6월 서울 중구 외국인 대상 약국 28곳 개업 (데일리팜, 2026-07-24)"
-   ],
-   "sources": [
-    [
-     "파이낸셜뉴스(연합뉴스) · 성형 수술대 대신 피부과·약국으로…K-뷰티 '관광 지도' 재편 (2026-10-18)",
-     "https://fnnews.com/news/202610180635452079",
-     "2026-10-18"
-    ],
-    [
-     "The Korea Times · Pharmacies emerge as new K-beauty stops for foreign tourists (2026-10-24)",
-     "https://koreatimes.co.kr/southkorea/society/20261024/pharmacies-emerge-as-new-k-beauty-stops-for-foreign-tourists",
-     "2026-10-24"
-    ],
-    [
-     "데일리팜 · 명동에서 부산 해운대까지…외국인 타깃 K-약국 '파죽지세' (2026-07-24)",
-     "https://dailypharm.com/user/news/340546",
-     "2026-07-24"
-    ],
-    [
-     "The Asia Business Daily · \"I Came to Korea to Buy This\": K-Pharmacies Become a Must-Shop Destination (2026-07-31)",
-     "https://view.asiae.co.kr/en/article/2026072917080301765",
-     "2026-07-31"
-    ]
-   ],
-   "checked": "2026-11-22"
-  },
-  {
-   "id": "2026-11-22-amazon-kbeauty-sellers",
-   "topic_ko": "아마존 K-뷰티 판매 두 배, 10월 프라임 데이 '가장 많이 클릭된 뷰티 10개 중 7개'",
-   "topic_en": "K-beauty sales double on Amazon; 7 of the 10 most-clicked beauty products in October Prime week",
-   "angle": "아마존 공식 발표와 10월 행사 데이터를 바탕으로, 미국 온라인 채널에 진출하려는 브랜드가 점검할 포인트(효능 표현, 위조품 대응)를 정리한다.",
-   "category": "kbeauty",
-   "countries": [
-    "US",
-    "KR"
-   ],
-   "score": 71,
-   "reasons": [
-    [
-     "관심도 변화",
-     "2026년 1~9월 아마존 한국 셀러 뷰티 매출 전년 대비 약 2배, 미국 아마존 K-뷰티 성장률 전체 뷰티의 3배 이상(아마존 발표, 경향신문 2026-10-27)"
-    ],
-    [
-     "최신성",
-     "10월 27일 '아마존 뷰티 인 서울 2026', 11월 8일 프라임 행사 분석 보도"
-    ],
-    [
-     "해외 시장 관심",
-     "10월 행사 주간 가장 많이 클릭된 뷰티 제품 10개 중 7개가 한국 스킨케어(Market Defense 분석)"
-    ],
-    [
-     "신뢰도",
-     "아마존 공식 발표 보도 + 협찬 콘텐츠(Partner content) 데이터로 신뢰도 중간"
-    ],
-    [
-     "사업 관련성",
-     "K-뷰티 유통·수출 파트너십과 직결"
-    ],
-    [
-     "차별성",
-     "K-뷰티 수출 지도 원고와 일부 겹침, 채널 관점으로 차별화 가능"
-    ]
-   ],
-   "measured": [
-    "2026년 1~9월 아마존 한국 셀러 뷰티 매출 전년 대비 거의 2배, 미국 아마존 K-뷰티 성장률 전체 뷰티 카테고리의 3배 이상 (경향신문·아마존, 2026-10-27)",
-    "10월 프라임 빅딜데이 주간 가장 많이 클릭된 뷰티 제품 10개 중 7개가 한국 스킨케어 (BeautyMatter·Market Defense, 2026-11-08)"
-   ],
-   "sources": [
-    [
-     "경향신문(영문) · \"How long can K-beauty last\" What answer did Amazon offer to this doubt? (2026-10-27)",
-     "https://www.khan.co.kr/en/article/202610271601087",
-     "2026-10-27"
-    ],
-    [
-     "BeautyMatter (Partner content by Market Defense) · K-Beauty, Clinical Skincare, and Bigger Baskets: Amazon's October Prime Event (2026-11-08)",
-     "https://beautymatter.com/articles/amazons-october-prime-big-deal-days-k-beauty",
-     "2026-11-08"
-    ]
-   ],
-   "checked": "2026-11-22"
-  },
-  {
-   "id": "2026-11-22-isaps-filler-decline-corrective",
-   "topic_ko": "GLP-1 이후 미용 수요 재편, 필러 수요 감소와 체중 감량 후 교정 시술 증가(ISAPS 2025)",
-   "topic_en": "Aesthetics after GLP-1: filler demand falls as post-weight-loss corrective procedures rise (ISAPS 2025)",
-   "angle": "ISAPS 2025 통계로 시술 수요의 이동을 짚되, 기존 GLP-1 얼굴 원고의 후속편으로 '데이터 업데이트' 형식이 적합하다.",
-   "category": "medical",
-   "countries": [
-    "AE",
-    "US"
-   ],
-   "score": 65,
-   "reasons": [
-    [
-     "관심도 변화",
-     "ISAPS 2025 조사에서 히알루론산 필러 수요 약 25% 감소, 지방흡입 11.4% 감소(The National, 2026-10-28)"
-    ],
-    [
-     "최신성",
-     "10월 28일 보도(30일 이내)"
-    ],
-    [
-     "해외 시장 관심",
-     "두바이 성형외과 전문의 인터뷰, UAE 시장 경쟁 언급"
-    ],
-    [
-     "신뢰도",
-     "국제미용성형외과학회(ISAPS) 조사 인용 일간지"
-    ],
-    [
-     "사업 관련성",
-     "클리닉 컨설팅·미용의학 교육 콘텐츠"
-    ],
-    [
-     "차별성",
-     "GLP-1 얼굴 원고와 상당 부분 겹침"
-    ]
-   ],
-   "measured": [
-    "2025년 히알루론산 필러 수요 약 25% 감소, 보톡스 7% 감소, 눈꺼풀 수술 246만 건으로 최다 (The National·ISAPS, 2026-10-28)"
-   ],
-   "sources": [
-    [
-     "The National · Cosmetic surgery sees slump as weight-loss drugs prove cheaper and simpler (2026-10-28)",
-     "https://www.thenationalnews.com/news/uae/2026/10/28/how-weight-loss-drugs-are-reshaping-demand-for-cosmetic-surgery",
-     "2026-10-28"
-    ]
-   ],
-   "checked": "2026-11-22"
-  },
-  {
-   "id": "2026-11-22-ai-fake-expert-ad-ban",
-   "topic_ko": "AI로 만든 '가짜 전문가' 화장품 광고 금지, 11월 시행과 브랜드·클리닉 점검 포인트",
-   "topic_en": "Korea bans cosmetics ads with AI-generated fake experts from November",
-   "angle": "식약처의 AI 생성 가짜 전문가 이미지 광고 금지 일정을 짚고, 유통·클리닉 파트너가 SNS 광고에서 점검할 항목을 정리한다(시행 세부 내용 확인 후 작성 권장).",
-   "category": "beautytech",
-   "countries": [
-    "KR"
-   ],
-   "score": 63,
-   "reasons": [
-    [
-     "관심도 변화",
-     "식약처 하반기 계획에 AI 생성 가짜 전문가 이미지 활용 부당광고 금지 포함(식품·의약품·화장품 11월, 의료기기 12월)"
-    ],
-    [
-     "최신성",
-     "7월 발표, 11월 시행 시점이나 최근 보도 미확인"
-    ],
-    [
-     "신뢰도",
-     "식약처 발표를 다룬 업계 전문지"
-    ],
-    [
-     "사업 관련성",
-     "K-뷰티 유통 파트너·클리닉 마케팅 교육과 직결"
-    ],
-    [
-     "차별성",
-     "AI 피부 분석 기사와 다른 광고 규제 관점"
-    ]
-   ],
-   "measured": [],
-   "sources": [
-    [
-     "코스인코리아 · 식약처, GCORAS 신설… AI 생성 가짜 전문가 이미지 부당광고 11월부터 금지 (2026-07-17)",
-     "https://www.cosinkorea.com/mobile/article.html?no=57885",
-     "2026-07-17"
-    ]
-   ],
-   "checked": "2026-11-22"
-  },
-  {
-   "id": "2026-11-22-glp1-era-aesthetic-seminars",
-   "topic_ko": "학회·세미나가 'GLP-1 시대' 전략을 다루기 시작했다, 미용의학 교육의 새 주제",
-   "topic_en": "Aesthetic-medicine education turns to the 'GLP-1 era'",
-   "angle": "11~12월 국내 학회·세미나에서 GLP-1 감량 이후 얼굴·바디 변화가 교육 주제가 된 흐름을 의료인 교육 관점에서 정리한다.",
-   "category": "education",
-   "countries": [
-    "KR"
-   ],
-   "score": 57,
-   "reasons": [
-    [
-     "관심도 변화",
-     "젊은미용의사의학회·휴메딕스 3회 라이브 세미나(11월 7일·21일, 12월 5일), 대한임상미용의학회 학술대회 발표(11월)"
-    ],
-    [
-     "최신성",
-     "11월 9일·18일 보도"
-    ],
-    [
-     "신뢰도",
-     "의료 전문지 보도, 기업 주최 행사로 제품 홍보 성격"
-    ],
-    [
-     "사업 관련성",
-     "미용의학 교육·세미나 사업과 직결"
-    ],
-    [
-     "차별성",
-     "GLP-1 얼굴 원고와 겹치며 특정 제품 중심이 되기 쉬워 의료광고 기준상 주의"
-    ]
-   ],
-   "measured": [
-    "1회차 세미나 의료진 약 80명 참석 (메디게이트뉴스·휴메딕스, 2026-11-09)"
-   ],
-   "sources": [
-    [
-     "메디게이트뉴스 · 휴메딕스, 젊은미용의사의학회와 GLP-1 시대 에스테틱 세미나 개최 (2026-11-09)",
-     "https://www.medigatenews.com/news/1279813006",
-     "2026-11-09"
-    ],
-    [
-     "데일리팜 · 휴메딕스, GLP-1 시대 에스테필 활용법 공유 (2026-11-18)",
-     "https://dailypharm.com/user/news/344721",
-     "2026-11-18"
-    ]
-   ],
-   "checked": "2026-11-22"
-  },
-  {
-   "id": "2026-11-19-pdrn-ad-guideline",
-   "topic_ko": "'리쥬란 화장품'? PDRN 화장품 광고 위반 급증과 전용 가이드라인 요구",
-   "topic_en": "PDRN skincare ad violations surge as lawmakers call for dedicated guidelines",
-   "angle": "시술 성분명을 내세운 화장품 광고의 위반 사례를 근거로, 시술과 화장품을 구분해 읽는 법과 수출 브랜드의 표현 점검 포인트를 정리한다.",
-   "category": "skin",
-   "countries": [
-    "KR",
-    "US",
-    "SG"
-   ],
-   "score": 60,
-   "reasons": [
-    [
-     "관심도 변화",
-     "PDRN 화장품 광고 위반 2023년 7건 → 2025년 39건, 2026년 상반기 41건(SBS Biz·식약처, 2026-07-09)"
-    ],
-    [
-     "최신성",
-     "7월 보도로 30일 범위를 벗어남"
-    ],
-    [
-     "해외 시장 관심",
-     "아마존 10월 행사 최다 클릭 제품에 PDRN 크림 포함(BeautyMatter, 2026-11-08)"
-    ],
-    [
-     "사업 관련성",
-     "K-뷰티 유통 파트너 효능 표현 점검"
-    ],
-    [
-     "차별성",
-     "이번 K-약국 원고의 화장품·의약품 구분 주제와 겹쳐 점수 하향"
-    ]
-   ],
-   "measured": [
-    "PDRN 화장품 광고 위반 4년 누적 106건, 그중 81건(76.4%) 의약품 오인 (SBS Biz·식약처, 2026-07-09)"
-   ],
-   "sources": [
-    [
-     "SBS Biz · 리쥬란으로 알려진 PDRN…허위·과장광고 2년 새 6배 급증",
-     "https://biz.sbs.co.kr/amp/article/20000321625",
-     "2026-07-09"
-    ],
-    [
-     "BeautyMatter (Partner content by Market Defense) · K-Beauty, Clinical Skincare, and Bigger Baskets: Amazon's October Prime Event (2026-11-08)",
-     "https://beautymatter.com/articles/amazons-october-prime-big-deal-days-k-beauty",
-     "2026-11-08"
-    ]
-   ],
-   "checked": "2026-11-22"
-  }
- ]
+  "version": 2,
+  "note": "노바 편집실 — 관리자 검토 전 원고와 트렌드 후보. 홈페이지에 자동 게시되지 않습니다.",
+  "drafts": [
+    {
+      "id": "2026-10-skin-first-makeup",
+      "category": "kbeauty",
+      "read_min": 3,
+      "title_ko": "메이크업도 스킨케어처럼, 2026 K-뷰티는 '피부'부터",
+      "title_en": "Makeup that cares like skincare: K-beauty's skin-first year",
+      "summary_ko": "가리는 화장에서 돌보는 화장으로. 올리브영이 꼽은 2026 키워드로 달라진 메이크업의 기준을 읽어 봅니다.",
+      "summary_en": "From covering up to caring for skin: what Olive Young's 2026 keywords say about the new makeup standard.",
+      "body_ko": "요즘 한국에서는 파운데이션이나 쿠션을 고를 때도 '보습', '진정', '장벽' 같은 스킨케어 단어를 함께 살피는 사람이 늘고 있습니다. CJ올리브영은 2026 트렌드 전망에서 메이크업을 스킨케어의 연장으로 보는 '스킨케어 메이크업'을 주요 흐름으로 꼽았습니다. 실제로 올리브영 메이크업 카테고리에서 진정·장벽·보습 같은 스킨케어 검색어는 전년보다 150% 넘게 늘었다고 합니다.\n\n관심의 중심이 '얼마나 가리느냐'에서 '피부 컨디션'으로 옮겨 가고 있는 셈입니다. 올리브영은 특정 피부 고민을 겨냥하고 자연 유래 성분을 내세우는 경우가 많은 '더마 셰이드', 메이크업 위에 덧바르거나 함께 쓰는 스킨케어 제품을 뜻하는 '오버 더 메이크업'도 함께 주목했습니다. 여러 단계를 겹겹이 바르는 'K-레이어링 루틴' 역시 올해의 키워드에 이름을 올렸습니다.\n\n이 흐름을 일상에 들이는 방법은 어렵지 않습니다. 메이크업 전에는 보습을 충분히 하고, 베이스 제품은 커버력보다 그날의 피부 상태에 맞는 제형으로 골라 보세요. 오후에 피부가 건조하게 느껴진다면 메이크업 위에 가볍게 보습을 더해 주는 것도 방법입니다. 새 제품은 작은 부위에 먼저 써 보고, 자극이 계속된다면 전문가와 상담하시길 권합니다.\n\n좋은 피부는 하루아침에 만들어지지 않습니다. 2026년의 K-뷰티는 화장하는 시간마저 피부를 돌보는 시간으로 바꾸고 있습니다.",
+      "body_en": "In Korea, more shoppers are now looking for skincare words such as hydration, soothing and barrier even when choosing a foundation or cushion. In its 2026 trend outlook, CJ Olive Young named \"skincare makeup\" (makeup treated as an extension of skincare) as a leading shift, reporting that searches for skincare terms such as soothing, barrier and moisture within its makeup category rose by more than 150% year on year.\n\nThe focus is moving from coverage to skin condition. Olive Young also highlights \"derma shades\", makeup aimed at specific skin concerns and often made with natural ingredients, and \"over the makeup\", skincare products worn over or alongside makeup. The layered K-routine also makes its list of keywords for the year.\n\nBringing this into your own routine is simple. Moisturise well before makeup, and choose a base for how your skin feels today rather than for maximum coverage. If your skin feels dry by the afternoon, a light hydrating layer over makeup can help it feel more comfortable. Patch-test new products on a small area first, and if irritation persists, consult a professional.\n\nGood skin is never built overnight. In 2026, K-beauty is turning the time spent on makeup into time spent caring for your skin.",
+      "written": "2026-10-25",
+      "sources": [
+        [
+          "Personal Care Insights · Olive Young reveals K-Beauty trends for 2026 (2025-12-19)",
+          "https://www.personalcareinsights.com/news/olive-young-k-beauty-trends.html"
+        ]
+      ],
+      "cover": "nova/covers/2026-10-skin-first-makeup.webp",
+      "countries": [],
+      "medical_review": false,
+      "cta": "none"
+    },
+    {
+      "id": "2026-10-simple-sleep",
+      "category": "wellaging",
+      "read_min": 3,
+      "title_ko": "덜 재고, 더 편히 자기",
+      "title_en": "Measure less, rest better",
+      "summary_ko": "완벽한 잠을 좇는 '슬립맥싱' 대신 단순한 습관과 잠자리 환경으로. 2026 수면 트렌드를 정리했습니다.",
+      "summary_en": "Beyond \"sleepmaxxing\": the 2026 shift towards simple habits and a better sleep environment.",
+      "body_ko": "수면 앱과 웨어러블 기기로 잠을 측정하고 최적화해 '완벽한 잠'을 만들려는 흐름을 해외에서는 '슬립맥싱(sleepmaxxing)'이라고 부릅니다. 그런데 글로벌웰니스연구소(GWI)가 꼽은 2026년 수면 트렌드에는 이와 반대되는 '단순함'의 흐름도 담겨 있습니다. GWI는 수면 점수에 지나치게 매달리는 '오소솜니아(orthosomnia)'가 오히려 잠을 해칠 수 있다고 지적하며, 수면 데이터는 매일 들여다보기보다 생활 패턴을 파악하는 용도로 활용하는 편이 낫다고 봅니다.\n\n대신 눈여겨볼 것은 잠자는 환경입니다. GWI는 침실의 온도, 공기 질, 빛, 소음, 침구까지 수면을 위해 설계하는 '슬립 바이 디자인'을 주요 흐름으로 소개했습니다. 저녁 시간의 인공조명이 수면과 관련된 호르몬인 멜라토닌 분비를 억제한다는 2011년 연구도 함께 언급됩니다. 해가 뜨듯 서서히 밝아지는 알람이나 광치료처럼, 몸의 리듬을 챙기는 '서카디언(생체리듬) 건강'도 이제 일상 웰니스의 일부가 되었습니다.\n\n오늘 밤부터 해볼 수 있는 것들도 있습니다. 잠들기 한 시간 전에는 조명을 은은하게 낮추고 화면을 멀리해 보세요. 침실은 서늘하고 조용하게, 아침에는 커튼을 열어 햇빛을 들이세요. 충분히 자도 피로가 계속되거나 코골이가 심하다면 기록에만 기대지 말고 전문의와 상담해 보시길 권합니다.\n\n좋은 잠은 더 많은 기술이 아니라, 조금 더 편안하게 하루를 마무리하는 데서 시작됩니다.",
+      "body_en": "Sleep apps, wearables and nightly scores: the pursuit of perfect sleep has a name, \"sleepmaxxing\". Yet the Global Wellness Institute's sleep trends for 2026 also point towards simplicity. GWI notes that obsessing over sleep scores, known as orthosomnia, can itself make sleep worse, and suggests using sleep data to recognise patterns rather than monitoring it constantly.\n\nAttention is shifting to the bedroom itself. GWI highlights \"sleep by design\": shaping temperature, air quality, light, noise and bedding around rest. It also points to a 2011 study finding that artificial light in the evening suppresses melatonin, a hormone involved in regulating sleep. Circadian health, from sunrise alarms to light therapy, has moved into the mainstream of everyday wellness.\n\nA few things you can try tonight: dim the lights and put screens away an hour before bed. Keep the bedroom cool and quiet, and open the curtains to daylight in the morning. If you still feel tired after a full night's sleep, or snore heavily, don't rely on your tracker alone. Speak to a doctor.\n\nGood sleep doesn't start with more technology. It starts with a gentler end to the day.",
+      "written": "2026-10-25",
+      "sources": [
+        [
+          "Global Wellness Institute · Sleep Initiative Trends for 2026 (2026-03-30)",
+          "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/03/30/sleep-initiative-trends-for-2026"
+        ]
+      ],
+      "cover": "nova/covers/2026-10-simple-sleep.webp",
+      "countries": [],
+      "medical_review": false,
+      "cta": "none"
+    },
+    {
+      "id": "2026-10-korea-medical-travel",
+      "category": "medical",
+      "read_min": 4,
+      "title_ko": "외국인 환자 200만 명 시대, 한국 의료관광 준비 체크리스트",
+      "title_en": "Two million foreign patients: a checklist for medical travel to Korea",
+      "summary_ko": "2025년 한국을 찾은 외국인 환자가 처음으로 200만 명을 넘었습니다. 떠나기 전 확인할 것들을 정리했습니다.",
+      "summary_en": "In 2025, the number of foreign patients visiting Korea passed two million for the first time. Here is what to check before you go.",
+      "body_ko": "보건복지부 집계에 따르면 2025년 한국을 찾은 외국인 환자는 약 201만 명으로, 관련 통계를 내기 시작한 2009년 이후 처음으로 200만 명을 넘어섰습니다. 2024년 약 117만 명에서 크게 늘었고, 환자들의 국적은 201개국에 이릅니다. 진료과별로는 피부과가 62% 이상으로 가장 많았고, 성형외과(11.2%)와 내과(9.2%)가 뒤를 이었습니다.\n\n한국을 찾는 사람이 많아진 만큼 꼼꼼한 준비는 더 중요해졌습니다. 해외에서 한국 병원을 알아볼 때 확인해 두면 좋은 다섯 가지를 정리했습니다.\n\n첫째, 누구와 상담하는지 확인하세요. 한국에서는 외국인 환자를 유치하는 의료기관과 유치업자가 의료법에 따라 정부에 등록해야 합니다. 상담을 맡은 곳이 등록된 기관인지 먼저 확인하세요.\n둘째, 시술이나 치료는 반드시 의료진과 직접 상담한 뒤 결정하세요. 결과를 장담하거나 지나치게 낮은 가격을 앞세우는 광고는 주의해야 합니다.\n셋째, 일정에 회복 기간을 넉넉히 넣으세요. 시술 직후 장거리 비행이 괜찮은지도 미리 의료진에게 물어보세요.\n넷째, 통역과 소통 방법을 미리 정해 두세요. 상담 내용과 주의 사항을 내 언어로 정확히 이해하는 것이 무엇보다 중요합니다.\n다섯째, 귀국 후 연락 방법을 확인하세요. 회복 중 궁금한 점이 생겼을 때 병원과 어떻게 연락할 수 있는지 알아 두면 한결 안심이 됩니다.\n\n좋은 의료관광은 출국 전 준비에서 시작해 귀국 후 관리까지 이어집니다.",
+      "body_en": "According to Korea's Ministry of Health and Welfare, about 2.01 million foreign patients visited Korea in 2025, passing two million for the first time since records began in 2009. That is up from about 1.17 million in 2024, with patients coming from 201 countries. Dermatology accounted for more than 62% of patients, followed by plastic surgery (11.2%) and internal medicine (9.2%).\n\nWith more people travelling for care, careful preparation matters more than ever. Here are five things worth checking before you book.\n\n1. Check who you are dealing with. Under Korea's Medical Service Act, medical institutions and facilitators that attract foreign patients must register with the government. Confirm that whoever is handling your consultation is registered.\n2. Decide on any procedure or treatment only after consulting the medical team directly. Be wary of ads that promise results or lead with unusually low prices.\n3. Build recovery time into your trip, and ask your doctor in advance whether a long-haul flight is advisable soon after treatment.\n4. Arrange interpretation and communication in advance. Clearly understanding your consultation and aftercare instructions, in your own language, is essential.\n5. Find out how to reach the clinic once you are home, so you know where to turn if questions come up during recovery.\n\nGood medical travel starts with preparation before you leave and continues with care after you return.",
+      "written": "2026-10-25",
+      "sources": [
+        [
+          "Korea JoongAng Daily · Number of foreign patients top 2 million for first time in 2025 (2026-04-24)",
+          "https://www.koreajoongangdaily.com/business/number-of-foreign-patients-top-2-million-for-first-time-in-2025/12585928"
+        ]
+      ],
+      "cover": "nova/covers/2026-10-korea-medical-travel.webp",
+      "countries": [
+        "KR"
+      ],
+      "medical_review": true,
+      "cta": "none"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-11-22-k-pharmacy-shopping-guide",
+      "topic_ko": "피부과 다음은 약국, 외국인 'K-약국 쇼핑' 196% 증가와 의약품·화장품 구분법",
+      "topic_en": "After the dermatologist, the pharmacy: K-pharmacy shopping surges 196%",
+      "angle": "외국인 약국 소비 급증을 공식 데이터로 짚고, 같은 진열대의 일반의약품·의약외품·화장품을 구분하는 실용 가이드로 정리한다.",
+      "category": "medical",
+      "countries": [
+        "US",
+        "SG",
+        "KR",
+        "AU",
+        "CA"
+      ],
+      "score": 84,
+      "reasons": [
+        [
+          "관심도 변화",
+          "2026년 1~9월 외국인 의료 소비 중 약국 소비액 약 196.1%↑, 약국 비중 6.66%→12.49%(연합뉴스·한국관광데이터랩 카드 데이터, 2026-10-18)"
+        ],
+        [
+          "최신성",
+          "The Korea Times 10월 24일 보도(9월 약국 비중 13.88%), 연합뉴스 10월 18일 보도로 30일 이내"
+        ],
+        [
+          "해외 시장 관심",
+          "미국·싱가포르·대만·멕시코 등 여행자가 약국을 찾는다는 현장 보도(The Korea Times), 중국·미국 의료관광 소비 증가(머니투데이)"
+        ],
+        [
+          "신뢰도",
+          "한국관광공사 데이터랩 공식 통계와 통신사·주요 일간지 보도, 전문가 인용"
+        ],
+        [
+          "사업 관련성",
+          "라벨르엘비 의료관광 일정 설계(시술 후 쇼핑 동선), K-뷰티 유통 파트너의 제품 분류·표시 점검과 직결"
+        ],
+        [
+          "독자 문제·전환",
+          "해외 독자가 '약국에서 산 것이 약인지 화장품인지, 귀국 시 문제는 없는지'를 바로 확인할 수 있는 실용 체크리스트"
+        ],
+        [
+          "차별성",
+          "기존 원고(수출 지도, GLP-1 얼굴, 선크림, 등록 병원, 캐나다, 회복 숙소, 남성 시술, 롱제비티, 건강검진)와 겹치지 않고, 화장품·의약품 구분을 독자 관점에서 다룸"
+        ]
+      ],
+      "measured": [
+        "2026년 1~9월 외국인 의료 관련 소비액 1조8398억 원(+57.9%), 약국 소비액 약 196.1% 증가, 약국 비중 6.66%→12.49% (연합뉴스·한국관광데이터랩, 2026-10-18)",
+        "9월 외국인 의료 소비 중 약국 비중 13.88%, 318억 원 (The Korea Times·한국관광공사, 2026-10-24)",
+        "2025년 9월~2026년 6월 서울 중구 외국인 대상 약국 28곳 개업 (데일리팜, 2026-07-24)"
+      ],
+      "sources": [
+        [
+          "파이낸셜뉴스(연합뉴스) · 성형 수술대 대신 피부과·약국으로…K-뷰티 '관광 지도' 재편 (2026-10-18)",
+          "https://fnnews.com/news/202610180635452079",
+          "2026-10-18"
+        ],
+        [
+          "The Korea Times · Pharmacies emerge as new K-beauty stops for foreign tourists (2026-10-24)",
+          "https://koreatimes.co.kr/southkorea/society/20261024/pharmacies-emerge-as-new-k-beauty-stops-for-foreign-tourists",
+          "2026-10-24"
+        ],
+        [
+          "데일리팜 · 명동에서 부산 해운대까지…외국인 타깃 K-약국 '파죽지세' (2026-07-24)",
+          "https://dailypharm.com/user/news/340546",
+          "2026-07-24"
+        ],
+        [
+          "The Asia Business Daily · \"I Came to Korea to Buy This\": K-Pharmacies Become a Must-Shop Destination (2026-07-31)",
+          "https://view.asiae.co.kr/en/article/2026072917080301765",
+          "2026-07-31"
+        ]
+      ],
+      "checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-22-amazon-kbeauty-sellers",
+      "topic_ko": "아마존 K-뷰티 판매 두 배, 10월 프라임 데이 '가장 많이 클릭된 뷰티 10개 중 7개'",
+      "topic_en": "K-beauty sales double on Amazon; 7 of the 10 most-clicked beauty products in October Prime week",
+      "angle": "아마존 공식 발표와 10월 행사 데이터를 바탕으로, 미국 온라인 채널에 진출하려는 브랜드가 점검할 포인트(효능 표현, 위조품 대응)를 정리한다.",
+      "category": "kbeauty",
+      "countries": [
+        "US",
+        "KR"
+      ],
+      "score": 71,
+      "reasons": [
+        [
+          "관심도 변화",
+          "2026년 1~9월 아마존 한국 셀러 뷰티 매출 전년 대비 약 2배, 미국 아마존 K-뷰티 성장률 전체 뷰티의 3배 이상(아마존 발표, 경향신문 2026-10-27)"
+        ],
+        [
+          "최신성",
+          "10월 27일 '아마존 뷰티 인 서울 2026', 11월 8일 프라임 행사 분석 보도"
+        ],
+        [
+          "해외 시장 관심",
+          "10월 행사 주간 가장 많이 클릭된 뷰티 제품 10개 중 7개가 한국 스킨케어(Market Defense 분석)"
+        ],
+        [
+          "신뢰도",
+          "아마존 공식 발표 보도 + 협찬 콘텐츠(Partner content) 데이터로 신뢰도 중간"
+        ],
+        [
+          "사업 관련성",
+          "K-뷰티 유통·수출 파트너십과 직결"
+        ],
+        [
+          "차별성",
+          "K-뷰티 수출 지도 원고와 일부 겹침, 채널 관점으로 차별화 가능"
+        ]
+      ],
+      "measured": [
+        "2026년 1~9월 아마존 한국 셀러 뷰티 매출 전년 대비 거의 2배, 미국 아마존 K-뷰티 성장률 전체 뷰티 카테고리의 3배 이상 (경향신문·아마존, 2026-10-27)",
+        "10월 프라임 빅딜데이 주간 가장 많이 클릭된 뷰티 제품 10개 중 7개가 한국 스킨케어 (BeautyMatter·Market Defense, 2026-11-08)"
+      ],
+      "sources": [
+        [
+          "경향신문(영문) · \"How long can K-beauty last\" What answer did Amazon offer to this doubt? (2026-10-27)",
+          "https://www.khan.co.kr/en/article/202610271601087",
+          "2026-10-27"
+        ],
+        [
+          "BeautyMatter (Partner content by Market Defense) · K-Beauty, Clinical Skincare, and Bigger Baskets: Amazon's October Prime Event (2026-11-08)",
+          "https://beautymatter.com/articles/amazons-october-prime-big-deal-days-k-beauty",
+          "2026-11-08"
+        ]
+      ],
+      "checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-22-isaps-filler-decline-corrective",
+      "topic_ko": "GLP-1 이후 미용 수요 재편, 필러 수요 감소와 체중 감량 후 교정 시술 증가(ISAPS 2025)",
+      "topic_en": "Aesthetics after GLP-1: filler demand falls as post-weight-loss corrective procedures rise (ISAPS 2025)",
+      "angle": "ISAPS 2025 통계로 시술 수요의 이동을 짚되, 기존 GLP-1 얼굴 원고의 후속편으로 '데이터 업데이트' 형식이 적합하다.",
+      "category": "medical",
+      "countries": [
+        "AE",
+        "US"
+      ],
+      "score": 65,
+      "reasons": [
+        [
+          "관심도 변화",
+          "ISAPS 2025 조사에서 히알루론산 필러 수요 약 25% 감소, 지방흡입 11.4% 감소(The National, 2026-10-28)"
+        ],
+        [
+          "최신성",
+          "10월 28일 보도(30일 이내)"
+        ],
+        [
+          "해외 시장 관심",
+          "두바이 성형외과 전문의 인터뷰, UAE 시장 경쟁 언급"
+        ],
+        [
+          "신뢰도",
+          "국제미용성형외과학회(ISAPS) 조사 인용 일간지"
+        ],
+        [
+          "사업 관련성",
+          "클리닉 컨설팅·미용의학 교육 콘텐츠"
+        ],
+        [
+          "차별성",
+          "GLP-1 얼굴 원고와 상당 부분 겹침"
+        ]
+      ],
+      "measured": [
+        "2025년 히알루론산 필러 수요 약 25% 감소, 보톡스 7% 감소, 눈꺼풀 수술 246만 건으로 최다 (The National·ISAPS, 2026-10-28)"
+      ],
+      "sources": [
+        [
+          "The National · Cosmetic surgery sees slump as weight-loss drugs prove cheaper and simpler (2026-10-28)",
+          "https://www.thenationalnews.com/news/uae/2026/10/28/how-weight-loss-drugs-are-reshaping-demand-for-cosmetic-surgery",
+          "2026-10-28"
+        ]
+      ],
+      "checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-22-ai-fake-expert-ad-ban",
+      "topic_ko": "AI로 만든 '가짜 전문가' 화장품 광고 금지, 11월 시행과 브랜드·클리닉 점검 포인트",
+      "topic_en": "Korea bans cosmetics ads with AI-generated fake experts from November",
+      "angle": "식약처의 AI 생성 가짜 전문가 이미지 광고 금지 일정을 짚고, 유통·클리닉 파트너가 SNS 광고에서 점검할 항목을 정리한다(시행 세부 내용 확인 후 작성 권장).",
+      "category": "beautytech",
+      "countries": [
+        "KR"
+      ],
+      "score": 63,
+      "reasons": [
+        [
+          "관심도 변화",
+          "식약처 하반기 계획에 AI 생성 가짜 전문가 이미지 활용 부당광고 금지 포함(식품·의약품·화장품 11월, 의료기기 12월)"
+        ],
+        [
+          "최신성",
+          "7월 발표, 11월 시행 시점이나 최근 보도 미확인"
+        ],
+        [
+          "신뢰도",
+          "식약처 발표를 다룬 업계 전문지"
+        ],
+        [
+          "사업 관련성",
+          "K-뷰티 유통 파트너·클리닉 마케팅 교육과 직결"
+        ],
+        [
+          "차별성",
+          "AI 피부 분석 기사와 다른 광고 규제 관점"
+        ]
+      ],
+      "measured": [],
+      "sources": [
+        [
+          "코스인코리아 · 식약처, GCORAS 신설… AI 생성 가짜 전문가 이미지 부당광고 11월부터 금지 (2026-07-17)",
+          "https://www.cosinkorea.com/mobile/article.html?no=57885",
+          "2026-07-17"
+        ]
+      ],
+      "checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-22-glp1-era-aesthetic-seminars",
+      "topic_ko": "학회·세미나가 'GLP-1 시대' 전략을 다루기 시작했다, 미용의학 교육의 새 주제",
+      "topic_en": "Aesthetic-medicine education turns to the 'GLP-1 era'",
+      "angle": "11~12월 국내 학회·세미나에서 GLP-1 감량 이후 얼굴·바디 변화가 교육 주제가 된 흐름을 의료인 교육 관점에서 정리한다.",
+      "category": "education",
+      "countries": [
+        "KR"
+      ],
+      "score": 57,
+      "reasons": [
+        [
+          "관심도 변화",
+          "젊은미용의사의학회·휴메딕스 3회 라이브 세미나(11월 7일·21일, 12월 5일), 대한임상미용의학회 학술대회 발표(11월)"
+        ],
+        [
+          "최신성",
+          "11월 9일·18일 보도"
+        ],
+        [
+          "신뢰도",
+          "의료 전문지 보도, 기업 주최 행사로 제품 홍보 성격"
+        ],
+        [
+          "사업 관련성",
+          "미용의학 교육·세미나 사업과 직결"
+        ],
+        [
+          "차별성",
+          "GLP-1 얼굴 원고와 겹치며 특정 제품 중심이 되기 쉬워 의료광고 기준상 주의"
+        ]
+      ],
+      "measured": [
+        "1회차 세미나 의료진 약 80명 참석 (메디게이트뉴스·휴메딕스, 2026-11-09)"
+      ],
+      "sources": [
+        [
+          "메디게이트뉴스 · 휴메딕스, 젊은미용의사의학회와 GLP-1 시대 에스테틱 세미나 개최 (2026-11-09)",
+          "https://www.medigatenews.com/news/1279813006",
+          "2026-11-09"
+        ],
+        [
+          "데일리팜 · 휴메딕스, GLP-1 시대 에스테필 활용법 공유 (2026-11-18)",
+          "https://dailypharm.com/user/news/344721",
+          "2026-11-18"
+        ]
+      ],
+      "checked": "2026-11-22"
+    },
+    {
+      "id": "2026-11-19-pdrn-ad-guideline",
+      "topic_ko": "'리쥬란 화장품'? PDRN 화장품 광고 위반 급증과 전용 가이드라인 요구",
+      "topic_en": "PDRN skincare ad violations surge as lawmakers call for dedicated guidelines",
+      "angle": "시술 성분명을 내세운 화장품 광고의 위반 사례를 근거로, 시술과 화장품을 구분해 읽는 법과 수출 브랜드의 표현 점검 포인트를 정리한다.",
+      "category": "skin",
+      "countries": [
+        "KR",
+        "US",
+        "SG"
+      ],
+      "score": 60,
+      "reasons": [
+        [
+          "관심도 변화",
+          "PDRN 화장품 광고 위반 2023년 7건 → 2025년 39건, 2026년 상반기 41건(SBS Biz·식약처, 2026-07-09)"
+        ],
+        [
+          "최신성",
+          "7월 보도로 30일 범위를 벗어남"
+        ],
+        [
+          "해외 시장 관심",
+          "아마존 10월 행사 최다 클릭 제품에 PDRN 크림 포함(BeautyMatter, 2026-11-08)"
+        ],
+        [
+          "사업 관련성",
+          "K-뷰티 유통 파트너 효능 표현 점검"
+        ],
+        [
+          "차별성",
+          "이번 K-약국 원고의 화장품·의약품 구분 주제와 겹쳐 점수 하향"
+        ]
+      ],
+      "measured": [
+        "PDRN 화장품 광고 위반 4년 누적 106건, 그중 81건(76.4%) 의약품 오인 (SBS Biz·식약처, 2026-07-09)"
+      ],
+      "sources": [
+        [
+          "SBS Biz · 리쥬란으로 알려진 PDRN…허위·과장광고 2년 새 6배 급증",
+          "https://biz.sbs.co.kr/amp/article/20000321625",
+          "2026-07-09"
+        ],
+        [
+          "BeautyMatter (Partner content by Market Defense) · K-Beauty, Clinical Skincare, and Bigger Baskets: Amazon's October Prime Event (2026-11-08)",
+          "https://beautymatter.com/articles/amazons-october-prime-big-deal-days-k-beauty",
+          "2026-11-08"
+        ]
+      ],
+      "checked": "2026-11-22"
+    }
+  ]
 }
